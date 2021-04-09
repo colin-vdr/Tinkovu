@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to select an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			},
+			"question_1":{
+				"question":"Do you put the milk before or after the cereal?",
+				"a":"Milk before cereal",
+				"b":"Cereal before milk",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"What do you prefer to spread your butter on?",
+				"a":"Bread",
+				"b":"Biscuits ",
+				"c":"Toast",
+				"d":"I don\u2019t like butter",
+				"e":""
+			},
+			"question_3":{
+				"question":"How do you like your juice in the morning? ",
+				"a":"Homemade, with fresh oranges",
+				"b":"In a juice box from the supermarket",
+				"c":"I don\u2019t drink juice in the morning",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What do you do during breakfast?",
+				"a":"I watch TV",
+				"b":"I read the news",
+				"c":"I\u2019m on my phone",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Do you dip your bread in milk?",
+				"a":"Yes, I love it",
+				"b":"No, the bread becomes soft afterwards",
+				"c":"I prefer dipping it in coffee",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Chocolate bread or croissants?",
+				"a":"Chocolate Bread",
+				"b":"Croissants",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"Does [partenaireName] pour milk before or after cereal?",
+				"a":"Milk before cereal",
+				"b":"Cereal before milk",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"what does [partenaireName] like spreading  butter on?",
+				"a":"Bread",
+				"b":"Biscuits",
+				"c":"Toast",
+				"d":"They don't like butter",
+				"e":""
+			},
+			"question_3":{
+				"question":"How does [partenaireName] like their juice in the morning?",
+				"a":"Homemade, with fresh oranges",
+				"b":"In a cardboard box  from the supermarket",
+				"c":"They don't drink juice in the morning",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What does [partenaireName] do while having breakfast?",
+				"a":"They watch TV",
+				"b":"They read the news",
+				"c":"They're on their phone",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Does [partenaireName] dip their bread in milk?",
+				"a":"Yes!",
+				"b":"No, because the bread becomes soft afterwards ",
+				"c":"They prefer dipping it in coffee",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Does [partenaireName] prefer chocolate bread or croissants?",
+				"a":"Chocolate Bread",
+				"b":"Croissants",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"Est-ce que tu mets le lait avant ou apr\u00e8s les c\u00e9r\u00e9ales ?",
+				"a":"Le lait avant les c\u00e9r\u00e9ales",
+				"b":"Les c\u00e9r\u00e9ales avant le lait",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Sur quoi est-ce que tu pr\u00e9f\u00e8res \u00e9taler ton beurre ?",
+				"a":"Du pain",
+				"b":"Des biscottes",
+				"c":"Des toasts",
+				"d":"Je n'aime pas le beurre",
+				"e":""
+			},
+			"question_3":{
+				"question":"Ton jus de fruits le matin, tu le pr\u00e9f\u00e8res:",
+				"a":"Fait \u00e0 la main, avec des oranges pr\u00e9ss\u00e9es",
+				"b":"Dans sa brique en carton, venue du supermarch\u00e9",
+				"c":"Je ne bois pas du jus le matin",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"En prenant ton petit d\u00e9jeuner tu fais quoi ?",
+				"a":"Je regarde la t\u00e9l\u00e9",
+				"b":"Je lis les actualit\u00e9s",
+				"c":"Je suis sur mon t\u00e9l\u00e9phone",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Tu trempes ton pain dans le lait ?",
+				"a":"Oui, j'adore \u00e7a",
+				"b":"Non, le pain devient tout mou apr\u00e8s",
+				"c":"Le lait non mais le caf\u00e9 oui",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Pain au chocolat ou croissant ?",
+				"a":"Pain au chocolat",
+				"b":"Chocolatine",
+				"c":"Croissant",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Est-ce que [partenaireName] met le lait avant ou apr\u00e8s les c\u00e9r\u00e9ales ?",
+				"a":"Le lait avant les c\u00e9r\u00e9ales",
+				"b":"Les c\u00e9r\u00e9ales avant le lait",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Sur quoi est-ce que [partenaireName] \u00e9tale son beurre ?",
+				"a":"Du pain",
+				"b":"Des biscottes",
+				"c":"Des toasts",
+				"d":"Il\/Elle n'aime pas le beurre",
+				"e":""
+			},
+			"question_3":{
+				"question":"Son jus de fruits le matin, [partenaireName] le pr\u00e9f\u00e8re:",
+				"a":"Fait \u00e0 la main, avec des oranges pr\u00e9ss\u00e9es",
+				"b":"Dans sa brique en carton, venue du supermarch\u00e9",
+				"c":"Il\/Elle ne bois pas du jus le matin",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"En prenant son petit d\u00e9jeuner [partenaireName] fait quoi ?",
+				"a":"Il\/Elle regarde la t\u00e9l\u00e9",
+				"b":"Il\/Elle lis les actualit\u00e9s",
+				"c":"Il\/Elle est sur son t\u00e9l\u00e9phone",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"[partenaireName] trempe son pain dans le lait ?",
+				"a":"Oui !",
+				"b":"Non, le pain devient tout mou apr\u00e8s",
+				"c":"Le lait non mais le caf\u00e9 oui",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"[partenaireName] pr\u00e9f\u00e8re un pain au chocolat ou un croissant ?",
+				"a":"Pain au chocolat",
+				"b":"Chocolatine",
+				"c":"Croissant",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

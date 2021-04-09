@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			},
+			"question_1":{
+				"question":"Are you afraid of ghosts?",
+				"a":"Yes",
+				"b":"No",
+				"c":"I don't believe it",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Do you believe in astrology?",
+				"a":"Yes I think it's real!",
+				"b":"For me these are stupid things",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do you believe in life after death?",
+				"a":"Yes I think there is a beyond",
+				"b":"No for me it's the end",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Can you read the future in the palm of hand?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Have you already consulted a seer?",
+				"a":"Yes it happened to me",
+				"b":"No for me it's a scam",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Can you read tarot cards?",
+				"a":"Yes",
+				"b":"I would like to!",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Do you think it was fate that put you on the path to [partenaireName]?",
+				"a":"Yes for sure!",
+				"b":"No, but it had to happen",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"Is [partenaireName] afraid of ghosts?",
+				"a":"Yes",
+				"b":"No",
+				"c":"He\/She does not believe it",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Does [partenaireName] believe in astrology?",
+				"a":"Yes he\/she thinks it's real!",
+				"b":"For him\/her these are stupid things",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does [partenaireName] believe in life after death?",
+				"a":"Yes he\/she thinks that there is a beyond",
+				"b":"No, it's the end",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Does [partenaireName] can read the future in the palm of hand?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Has [partenaireName] ever consulted a seer?",
+				"a":"Yes it happened",
+				"b":"No it's a scam",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"Est-ce que tu as peur des fant\u00f4mes ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"Je n'y crois pas",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Est-ce que tu crois en l'astrologie ?",
+				"a":"Oui je pense que c'est r\u00e9el !",
+				"b":"Pour moi ce sont des b\u00e9tises",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que tu crois \u00e0 la vie apr\u00e8s la mort ?",
+				"a":"Oui je pense qu'il y a un au-del\u00e0",
+				"b":"Non pour moi c'est fini-fini",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Tu sais lire l'avenir dans la paume de la main ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que tu as d\u00e9j\u00e0 consult\u00e9 une voyante ?",
+				"a":"Oui \u00e7a m'est arriv\u00e9",
+				"b":"Non pour moi c'est une arnaque",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Est-ce que tu sais lire les cartes de tarot ?",
+				"a":"Oui",
+				"b":"J'aimerai bien !",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Tu penses que c'est le destin qui t'a mis sur le chemin de [partenaireName] ?",
+				"a":"Oui c'est s\u00fbr !",
+				"b":"Nan, mais il fallait que \u00e7a arrive",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Est-ce que [partenaireName] a peur des fant\u00f4mes ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"Il\/Elle n'y croit pas",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Est-ce que [partenaireName] croit en l'astrologie ?",
+				"a":"Oui il\/elle pense que c'est r\u00e9el !",
+				"b":"Pour lui\/elle ce sont des b\u00e9tises",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que [partenaireName] croit \u00e0 la vie apr\u00e8s la mort ?",
+				"a":"Oui il\/elle pense qu'il y a un au-del\u00e0",
+				"b":"Non fini c'est fini",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"[partenaireName] sait lire l'avenir dans la paume de la main ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que [partenaireName] a d\u00e9j\u00e0 consult\u00e9 une voyante ?",
+				"a":"Oui c'est arriv\u00e9",
+				"b":"Non c'est une arnaque",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

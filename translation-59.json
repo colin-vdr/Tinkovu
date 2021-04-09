@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Press the card to answer the questions",
+				"title_faceB":"Goal made by Jen",
+				"endtitle_A":"We will see if [partenaireName] knows you well!"
+			},
+			"question_1":{
+				"question":"Do you like traditional baby names?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Do you like unique baby names?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do you prefer adoption over surrogacy?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Do you prefer surrogacy over adoption?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Do you wish we were making a baby the traditional way?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"What is your opinion about stay at home mom's?",
+				"a":"I respect and admire moms who stay at home to raise their children during their early years",
+				"b":"it's not necessarily important to me that you do.",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"What is the preferred age for the child we adopt?",
+				"a":"0-5years old",
+				"b":"I don't really have a preference",
+				"c":"I don't want to adopt",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Here are your results:"
+			},
+			"question_1":{
+				"question":"Does [partenaireName] likes traditional baby names?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Does [partenaireName] likes unique baby names?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does [partenaireName] prefers adoption over surrogacy?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Does [partenaireName] prefers surrogacy over adoption?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Does [partenaireName] wishes we were making a baby the traditional way?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"What is [partenaireName]'s opinion about stay at home mom's?",
+				"a":"I respect and admire moms who stay at home to raise their children during their early years",
+				"b":"it's not necessarily important to me that you do.",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"What is the preferred age for the child we adopt?",
+				"a":"0-5years old",
+				"b":"I don't really have a preference",
+				"c":"I don't want to adopt",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuie sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Goal r\u00e9alis\u00e9 par Jen",
+				"endtitle_A":"On verra si [partenaireName] te connais bien "
+			},
+			"question_1":{
+				"question":"Tu aimes les noms d'enfants traditionnels ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Tu aimes les noms d'enfants originaux ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Tu pr\u00e9f\u00e8res l'adoption ou la GPA ?",
+				"a":"Adoption",
+				"b":"GPA",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Tu \u00e9sp\u00e8res avoir un enfant de mani\u00e8re traditionelle ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quel est ton avis sur les femmes au foyer ?",
+				"a":"Je respecte et admire les femmes qui restent \u00e0 la maison pour s'occuper de l'enfant",
+				"b":"Ce n'est pas necessairement important pour moi",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Quel est l'\u00e2ge de pr\u00e9f\u00e9rence pour adopter un enfant ?",
+				"a":"0-5 ans",
+				"b":"Je n'ai pas vraiment de pr\u00e9f\u00e9rence",
+				"c":"Je n'ai pas envie d'adopter",
+				"d":null,
+				"e":null
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"R\u00e9sultat:"
+			},
+			"question_1":{
+				"question":"[partenaireName] aime les noms d'enfants traditionnels ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"[partenaireName] aime les noms originaux ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"[partenaireName] pr\u00e9f\u00e8rerait l'adoption ou la GPA?",
+				"a":"Adoption",
+				"b":"GPA",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"[partenaireName] \u00e9sp\u00e8re avoir un enfant de mani\u00e8re traditionelle ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quel est l'avis de [partenaireName] sur les femmes au foyer ?",
+				"a":"Je respecte et admire les femmes qui restent \u00e0 la maison pour s'occuper de l'enfant",
+				"b":"Ce n'est pas necessairement important pour moi",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Quel est l'\u00e2ge de pr\u00e9f\u00e9rence pour adopter un enfant ?",
+				"a":"0-5 ans",
+				"b":"Je n'ai pas vraiment de pr\u00e9f\u00e9rence",
+				"c":"Je n'ai pas envie d'adopter",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

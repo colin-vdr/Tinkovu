@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			},
+			"question_1":{
+				"question":"What is your favourite fruit?",
+				"a":"Strawberries",
+				"b":"Pears",
+				"c":"Apples",
+				"d":"Oranges",
+				"e":"Bananas"
+			},
+			"question_2":{
+				"question":"Which color do you like the least?",
+				"a":"Red",
+				"b":"Green",
+				"c":"Orange",
+				"d":"Blue",
+				"e":"Violet"
+			},
+			"question_3":{
+				"question":"Do you prefer sweet or salty popcorn?",
+				"a":"Sweet",
+				"b":"Salty",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Which milk flavor is your favorite ?",
+				"a":"Strawberry milk",
+				"b":"Mint milk",
+				"c":"Vanilla milk",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Which color do you prefer?",
+				"a":"Green",
+				"b":"Orange",
+				"c":"Violet",
+				"d":"Red",
+				"e":"Blue"
+			},
+			"question_6":{
+				"question":"Which citrus fruit do you think is the best?",
+				"a":"Oranges",
+				"b":"Clementines",
+				"c":"Mandarins",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"What is [partenaireName]'s favorite fruit?",
+				"a":"Strawberries ",
+				"b":"Pears",
+				"c":"Apples",
+				"d":"Oranges",
+				"e":"Bananas"
+			},
+			"question_2":{
+				"question":"What is the color that [partenaireName] likes the least?",
+				"a":"Red",
+				"b":"Green",
+				"c":"Orange",
+				"d":"Blue",
+				"e":"Violet"
+			},
+			"question_3":{
+				"question":"Does [partenaireName] prefer sweet or salty popcorn?",
+				"a":"Sweet",
+				"b":"Salty",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Which milk flavor does [partenaireName] like the most?",
+				"a":"Strawberry milk",
+				"b":"Mint milk",
+				"c":"Vanilla milk",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Which color does [partenaireName] prefer?",
+				"a":"Green",
+				"b":"Orange",
+				"c":"Violet",
+				"d":"Red",
+				"e":"Blue"
+			},
+			"question_6":{
+				"question":"Which citrus fruit is the best according to [partenaireName]?",
+				"a":"Oranges",
+				"b":"Clementines",
+				"c":"Mandarins",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"Quel est ton fruit pr\u00e9f\u00e9r\u00e9 ?",
+				"a":"Fraise",
+				"b":"Poire",
+				"c":"Pomme",
+				"d":"Orange",
+				"e":"Banane"
+			},
+			"question_2":{
+				"question":"Quelle est la couleur que tu aimes le moins ?",
+				"a":"Rouge",
+				"b":"Vert",
+				"c":"Orange",
+				"d":"Bleu",
+				"e":"Violet"
+			},
+			"question_3":{
+				"question":"Tu pr\u00e9f\u00e8res le pop-corn sucr\u00e9 ou sal\u00e9 ?",
+				"a":"Sucr\u00e9",
+				"b":"Sal\u00e9",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Quel parfum pr\u00e9f\u00e9r\u00e9 de lait ?",
+				"a":"Lait fraise",
+				"b":"Lait menthe",
+				"c":"Lait vanille",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quelle couleur tu pr\u00e9f\u00e8res ?",
+				"a":"Vert",
+				"b":"Orange",
+				"c":"Violet",
+				"d":"Rouge",
+				"e":"Bleu"
+			},
+			"question_6":{
+				"question":"Quel agrume est le meilleur selon toi ?",
+				"a":"Orange",
+				"b":"Cl\u00e9mentine",
+				"c":"Mandarine",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Quel est le fruit pr\u00e9f\u00e9r\u00e9 de [partenaireName] ?",
+				"a":"Fraise",
+				"b":"Poire",
+				"c":"Pomme",
+				"d":"Orange",
+				"e":"Banane"
+			},
+			"question_2":{
+				"question":"Quelle est la couleur que [partenaireName] aime le moins ?",
+				"a":"Rouge",
+				"b":"Vert",
+				"c":"Orange",
+				"d":"Bleu",
+				"e":"Violet"
+			},
+			"question_3":{
+				"question":"[partenaireName] pr\u00e9f\u00e8re le pop-corn sucr\u00e9 ou sal\u00e9 ?",
+				"a":"Sucr\u00e9",
+				"b":"Sal\u00e9",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Quel parfum de lait [partenaireName] aime le plus ?",
+				"a":"Lait fraise",
+				"b":"Lait menthe",
+				"c":"Lait vanille",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quelle couleur [partenaireName] pr\u00e9f\u00e8re ?",
+				"a":"Vert",
+				"b":"Orange",
+				"c":"Violet",
+				"d":"Rouge",
+				"e":"Bleu"
+			},
+			"question_6":{
+				"question":"Quel agrume est le meilleur selon [partenaireName] ?",
+				"a":"Orange",
+				"b":"Cl\u00e9mentine",
+				"c":"Mandarine",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

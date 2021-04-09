@@ -1,0 +1,176 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card and select your answer",
+				"title_faceB":"Tap the 'next' button below",
+				"endtitle_A":"We\u2019ll see if your partner knows you well!"
+			},
+			"question_1":{
+				"question":"Do you remember first time you met?",
+				"a":"Yes",
+				"b":"Not sure",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"How long did you talk to each other before dating?",
+				"a":"1 day",
+				"b":"1 week",
+				"c":"2 weeks",
+				"d":"More than 3 weeks",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do you sleep the first or help [partenaireName] to sleep?",
+				"a":"Myself",
+				"b":"Make him\/her sleep",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Have you ever thought of [partenaireName] 's feelings ?",
+				"a":"Yes every day",
+				"b":"No",
+				"c":"I don't care",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"How often do you understand what he\/she needs without even saying?",
+				"a":"Not much",
+				"b":"Every times",
+				"c":"I'm trying to",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"How much do you think of [partenaireName] ?",
+				"a":"More than me",
+				"b":"Good enough",
+				"c":"Not much",
+				"d":"We are doing fine",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"Do you remember first time you met?",
+				"a":"Yes",
+				"b":"Not sure",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"How long did you talk to each other before dating?",
+				"a":"1 day",
+				"b":"1 week",
+				"c":"2 weeks",
+				"d":"More than 3 weeks",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does [partenaireName] sleep first or helps you to fall asleep?",
+				"a":"Him\/her first",
+				"b":"Helps me",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Did [partenaireName] ever thought of you feeling?",
+				"a":"Yes every day",
+				"b":"No",
+				"c":"I don't care",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"How often does  understand what you needs without even saying?",
+				"a":"Not much",
+				"b":"Every times",
+				"c":"He\/She's trying to",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"How much you think [partenaireName] cares about you?",
+				"a":"More than him\/her",
+				"b":"Good enough",
+				"c":"Not much",
+				"d":"We are doing fine",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

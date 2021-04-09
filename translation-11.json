@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
+			},
+			"question_1":{
+				"question":"you are alone on a deserted island with [partenaireName], what do you do?",
+				"a":"We look  for a way out",
+				"b":"We build a house to live in",
+				"c":"We repopulate the island!",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"You and [partenaireName] are alone in a broken elevator, what do you do?",
+				"a":"I figure that we\u2019re both trapped and we might as well enjoy it",
+				"b":"I start feeling claustrophobic",
+				"c":"We try to have a nice time together ",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"There's only one chocolate left in the box:",
+				"a":"I leave it for [partenaireName]",
+				"b":"I\u2019m taking it",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What\u2019s your favorite type of kiss?",
+				"a":"French kiss",
+				"b":"Eskimo kiss",
+				"c":"On the forehead ",
+				"d":"On the cheek",
+				"e":"On the neck"
+			},
+			"question_5":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"You find yourself alone with [partenaireName] on a deserted island, what do you do?",
+				"a":"We look for a way out",
+				"b":"We build a house to live in",
+				"c":"We repopulate the island!",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"You and [partenaireName] are alone in a broken elevator, what do you do?",
+				"a":"They think that if it means being confined together, we might as well enjoy it !",
+				"b":"They start feeling claustrophobic",
+				"c":"We try to spend time together ",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"There's only one chocolate left  in the box:",
+				"a":"[partenaireName] lets me take the last one",
+				"b":"They take it",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What is [partenaireName]'s favorite type of kiss?",
+				"a":"French Kiss",
+				"b":"Eskimo kiss",
+				"c":"On the forehead ",
+				"d":"On the cheek",
+				"e":"On the neck"
+			},
+			"question_5":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si [partenaireName] te connait bien !"
+			},
+			"question_1":{
+				"question":"Si tu te retrouve seul sur une ile d\u00e9serte avec [partenaireName]:",
+				"a":"On cherche un moyen de partir",
+				"b":"On construit une cabane pour y vivre",
+				"c":"On va repeupler l'\u00eele !",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"[partenaireName] et toi vous retrouvez dans un ascenseur en panne ?",
+				"a":"Je me dis que quitte \u00e0 \u00eatre confin\u00e9 tous les deux autant en profiter",
+				"b":"Je suis claustrophobe",
+				"c":"On passe le temps comme on peut",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Il reste un seul chocolat dans la bo\u00eete:",
+				"a":"Je le laisse \u00e0 [partenaireName]",
+				"b":"Je me jette dessus",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Quel est ton baiser pr\u00e9f\u00e9r\u00e9 ?",
+				"a":"Le French Kiss",
+				"b":"Bisous eskimo",
+				"c":"Sur le front",
+				"d":"Sur la joue",
+				"e":"Dans le cou"
+			},
+			"question_5":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Vous vous retrouvez seuls avec [partenaireName] sur une \u00eele d\u00e9serte:",
+				"a":"On cherche un moyen de partir",
+				"b":"On construit une cabane pour y vivre",
+				"c":"On va repeupler l'\u00eele !",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"[partenaireName] et toi vous retrouvez dans un ascenseur en panne ?",
+				"a":"Il\/Elle se dit que quitte \u00e0 \u00eatre confin\u00e9 tous les deux autant en profiter",
+				"b":"Il\/Elle est claustrophobe",
+				"c":"On passe le temps comme on peut",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Il reste un seul chocolat dans la bo\u00eete:",
+				"a":"[partenaireName] me le laisse",
+				"b":"Il\/Elle se jette dessus",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Quel est le baiser pr\u00e9f\u00e9r\u00e9 de [partenaireName] ?",
+				"a":"Le French Kiss",
+				"b":"Bisous eskimo",
+				"c":"Sur le front",
+				"d":"Sur la joue",
+				"e":"Dans le cou"
+			},
+			"question_5":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

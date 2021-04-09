@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"We\u2019ll see if  knows you well!"
+			},
+			"question_1":{
+				"question":"How do you show to [partenaireName] that you want sex?",
+				"a":"I stick to him \/ her",
+				"b":"I bite his ear",
+				"c":"I undress him \/ her",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"When you get out of the shower you are:",
+				"a":"Completely naked",
+				"b":"In little outfit",
+				"c":"In bathrobe",
+				"d":"With the towel that hides me",
+				"e":""
+			},
+			"question_3":{
+				"question":"You find [partenaireName] sexy?",
+				"a":"Yes he \/ she excites me",
+				"b":"What a man \u2764",
+				"c":"What woman \u2764",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What gives you the most desire to make love?",
+				"a":"See [partenaireName] get out of the shower",
+				"b":"When we find ourselves alone",
+				"c":"When we start to kiss everywhere",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Which caress do you prefer?",
+				"a":"On the cheek",
+				"b":"In the hair",
+				"c":"On the arms",
+				"d":"On the buttocks",
+				"e":""
+			},
+			"question_6":{
+				"question":"What do you do after having sex?",
+				"a":"I'm sleeping",
+				"b":"We are watching a movie",
+				"c":"We are taking a shower",
+				"d":"We redo love",
+				"e":"Something else"
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Here are your results:"
+			},
+			"question_1":{
+				"question":"How [partenaireName] shows you that he \/ she wants sex?",
+				"a":"He \/ She sticks to me",
+				"b":"He \/ She nibbles my ear",
+				"c":"He \/ She undresses me",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Coming out of the shower, [partenaireName] is:",
+				"a":"Completely naked",
+				"b":"In little outfit",
+				"c":"In bathrobe",
+				"d":"With the towel to hide",
+				"e":""
+			},
+			"question_3":{
+				"question":"How do you find [partenaireName]?",
+				"a":"Excitant.e",
+				"b":"Very handsome man",
+				"c":"Very beautiful woman",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What gives [partenaireName] the most desire to make sex?",
+				"a":"See  get out of the shower",
+				"b":"When we find ourselves alone",
+				"c":"When we start to kiss everywhere",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"What caress [partenaireName] prefer?",
+				"a":"On the cheek",
+				"b":"In the hair",
+				"c":"On the arms",
+				"d":"On the buttocks",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si [partenaireName] te connait bien !"
+			},
+			"question_1":{
+				"question":"Comment tu montres \u00e0 [partenaireName] que tu as envie de sexe ?",
+				"a":"Je me colle \u00e0 lui\/elle",
+				"b":"Je lui mordille l'oreille",
+				"c":"Je le\/la d\u00e9shabille",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"En sortant de la douche tu es:",
+				"a":"Tout.e nu.e",
+				"b":"En petite tenue",
+				"c":"En peignoir",
+				"d":"Avec la serviette qui me cache",
+				"e":""
+			},
+			"question_3":{
+				"question":"Tu trouves [partenaireName] sexy ?",
+				"a":"Oui il\/elle m'excite",
+				"b":"Quel homme \u2764",
+				"c":"Quelle femme \u2764",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Qu'est-ce qui te donnes le plus envie de faire l'amour ?",
+				"a":"Voir [partenaireName] sortir de la douche",
+				"b":"Quand on se retrouve seul.e.s",
+				"c":"Quand on commence \u00e0 se faire des bisous partout",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quelle caresse tu pr\u00e9f\u00e8res ?",
+				"a":"Sur la joue",
+				"b":"Dans les cheveux",
+				"c":"Sur les bras",
+				"d":"Sur les fesses",
+				"e":""
+			},
+			"question_6":{
+				"question":"Qu'est-ce que tu fais apr\u00e8s avoir fais l'amour ?",
+				"a":"Je dors",
+				"b":"On regarde un film",
+				"c":"On prend une douche",
+				"d":"On refait l'amour",
+				"e":"Autre chose"
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Comment [partenaireName] te montres qu'il\/elle a envie de sexe ?",
+				"a":"Il\/Elle me colle",
+				"b":"Il\/Elle me mordille l'oreille",
+				"c":"Il\/Elle me d\u00e9shabille",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"En sortant de la douche [partenaireName] est:",
+				"a":"Tout.e nu.e",
+				"b":"En petite tenue",
+				"c":"En peignoir",
+				"d":"Avec la serviette pour cacher",
+				"e":""
+			},
+			"question_3":{
+				"question":"[partenaireName]te trouve comment ?",
+				"a":"Excitant.e",
+				"b":"Tr\u00e8s bel homme",
+				"c":"Tr\u00e8s belle femme",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Qu'est-ce qui donnes \u00e0 [partenaireName] le plus envie de faire l'amour ?",
+				"a":"Voir [partenaireName] sortir de la douche",
+				"b":"Quand on se retrouve seul.e.s",
+				"c":"Quand on commence \u00e0 se faire des bisous partout",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quelle caresse [partenaireName] pr\u00e9f\u00e8re ?",
+				"a":"Sur la joue",
+				"b":"Dans les cheveux",
+				"c":"Sur les bras",
+				"d":"Sur les fesses",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

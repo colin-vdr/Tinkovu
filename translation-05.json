@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			},
+			"question_1":{
+				"question":"Who would you prefer going on holiday with?",
+				"a":"With my significant other",
+				"b":"With friends",
+				"c":"With family",
+				"d":"By myself ",
+				"e":""
+			},
+			"question_2":{
+				"question":"Where do you usually travel to?",
+				"a":"a hot place",
+				"b":"a cold destination",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do you have taste for adventure?",
+				"a":"Yes, completely",
+				"b":"Not really",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What would the ideal vacation be like to you?",
+				"a":"Tanning",
+				"b":"Staying at home doing nothing",
+				"c":"Visiting new places",
+				"d":"Making time for myself",
+				"e":""
+			},
+			"question_5":{
+				"question":"Hotel or camping? ",
+				"a":"Hotel",
+				"b":"Camping",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Are you afraid of flying?",
+				"a":"A little, yes",
+				"b":"Not at all",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Can you picture yourself alone in the jungle with your partner?",
+				"a":"Yep",
+				"b":"Not really",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"Where does [partenaireName] prefer to go on vacation?",
+				"a":"With me",
+				"b":"With friends",
+				"c":"With family",
+				"d":"Alone",
+				"e":""
+			},
+			"question_2":{
+				"question":"Where would [partenaireName] prefer living?",
+				"a":"In a hot country",
+				"b":"In a cold country",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does [partenaireName] have a  taste for adventure?",
+				"a":"Yes, absolutely ",
+				"b":"Not really",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What would The ideal vacation for [partenaireName] be?",
+				"a":"Tanning",
+				"b":"Staying at home doing nothing",
+				"c":"Visiting places",
+				"d":"Spending time by themselves",
+				"e":""
+			},
+			"question_5":{
+				"question":"Would [partenaireName] prefer staying at a hotel or camping?",
+				"a":"Hotel",
+				"b":"Camping",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Is [partenaireName] afraid of flying?",
+				"a":"A little, yes",
+				"b":"Not at all",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Could [partenaireName] see themselves alone in the jungle with you?",
+				"a":"Yep",
+				"b":"Not really",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"Tu pr\u00e9f\u00e8res partir en vacances:",
+				"a":"En amoureux",
+				"b":"Avec des amis",
+				"c":"Avec la famille",
+				"d":"Tout.e seul.e",
+				"e":""
+			},
+			"question_2":{
+				"question":"De pr\u00e9f\u00e9rence, tu partirai plus:",
+				"a":"Dans un pays chaud",
+				"b":"Dans un pays froid",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que tu as le go\u00fbt de l'aventure ?",
+				"a":"Oui compl\u00e8tement",
+				"b":"Pas vraiment non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Les vacances id\u00e9ales pour toi \u00e7a consiste en quoi ?",
+				"a":"Bronzer un max",
+				"b":"Rester chez soi \u00e0 rien faire",
+				"c":"Faire des visites",
+				"d":"Prendre du temps pour moi",
+				"e":""
+			},
+			"question_5":{
+				"question":"Plut\u00f4t h\u00f4tel ou camping",
+				"a":"H\u00f4tel",
+				"b":"Camping",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Est-ce que tu as peur de prendre l'avion ?",
+				"a":"Un peu oui",
+				"b":"Pas du tout",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Tu te vois, seul.e dans la jungle avec ton\/ta partenaire ?",
+				"a":"Compl\u00e8tement",
+				"b":"Pas trop",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"[partenaireName] pr\u00e9f\u00e8re partir en vacances:",
+				"a":"En amoureux",
+				"b":"Avec des amis",
+				"c":"Avec la famille",
+				"d":"Tout.e seul.e",
+				"e":""
+			},
+			"question_2":{
+				"question":"De pr\u00e9f\u00e9rence, [partenaireName] partirai plus:",
+				"a":"Dans un pays chaud",
+				"b":"Dans un pays froid",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que [partenaireName] a le go\u00fbt de l'aventure ?",
+				"a":"Oui compl\u00e8tement",
+				"b":"Pas vraiment non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Les vacances id\u00e9ales pour [partenaireName] \u00e7a consiste en quoi ?",
+				"a":"Bronzer un max",
+				"b":"Rester chez soi \u00e0 rien faire",
+				"c":"Faire des visites",
+				"d":"Prendre du temps pour lui",
+				"e":""
+			},
+			"question_5":{
+				"question":"Pour [partenaireName], plut\u00f4t h\u00f4tel ou camping",
+				"a":"H\u00f4tel",
+				"b":"Camping",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Est-ce que [partenaireName] a peur de prendre l'avion ?",
+				"a":"Un peu oui",
+				"b":"Pas du tout",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Est-ce que [partenaireName] se voit seul.e dans la jungle avec toi ?",
+				"a":"Compl\u00e8tement",
+				"b":"Pas trop",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

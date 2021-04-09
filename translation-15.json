@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below",
+				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
+			},
+			"question_1":{
+				"question":"[partenaireName] offer you a parachute jump, do you accept?",
+				"a":"Yes, absolutely!",
+				"b":"I'm going there but I'm afraid",
+				"c":"No I couldn't do it",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"For Valentine's Day you prefer:",
+				"a":"A cinema",
+				"b":"A good restaurant",
+				"c":"One night in a hotel",
+				"d":"A little surprise",
+				"e":""
+			},
+			"question_3":{
+				"question":"What activity do you prefer to do together?",
+				"a":"Sport \ud83d\udcaa",
+				"b":"Sport \ud83d\ude0f",
+				"c":"Shopping",
+				"d":"Walking in the woods",
+				"e":"Go partying"
+			},
+			"question_4":{
+				"question":"Who chooses the cinema film most often?",
+				"a":"It's me",
+				"b":"[partenaireName]",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Do you kiss in public?",
+				"a":"Yes, too bad for the haters",
+				"b":"No we are correct!",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"Do you think [partenaireName] able to parachute?",
+				"a":"Yes, absolutely!",
+				"b":"Yes but he \/ she would be really afraid",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"For Valentine's Day [partenaireName] prefers:",
+				"a":"A cinema",
+				"b":"A good restaurant",
+				"c":"One night in a hotel",
+				"d":"A little surprise",
+				"e":""
+			},
+			"question_3":{
+				"question":"What activity do you prefer to do together?",
+				"a":"Sport \ud83d\udcaa",
+				"b":"Sport \ud83d\ude0f",
+				"c":"Shopping",
+				"d":"Walking in the woods",
+				"e":"Go partying"
+			},
+			"question_4":{
+				"question":"Who chooses the cinema film most often?",
+				"a":"[partenaireName]",
+				"b":"It's me",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Do you kiss in public?",
+				"a":"Yes, too bad for the haters",
+				"b":"No we are correct!",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si [partenaireName] te connait bien !"
+			},
+			"question_1":{
+				"question":"[partenaireName] t'offre un saut en parachute tu acceptes ?",
+				"a":"Oui carr\u00e9ment !",
+				"b":"J'y vais mais j'ai peur",
+				"c":"Non je n'y arriverais pas",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Pour la saint Valentin tu pr\u00e9f\u00e8res:",
+				"a":"Un cin\u00e9ma",
+				"b":"Un bon restaurant",
+				"c":"Une nuit dans un h\u00f4tel",
+				"d":"Une petite suprise",
+				"e":""
+			},
+			"question_3":{
+				"question":"Quelle activit\u00e9 vous pr\u00e9f\u00e8rez faire ensemble ?",
+				"a":"Du sport \ud83d\udcaa",
+				"b":"Du sport \ud83d\ude0f",
+				"c":"Faire les magasins",
+				"d":"Marcher dans les bois",
+				"e":"Allez faire la f\u00eate"
+			},
+			"question_4":{
+				"question":"Qui choisit le plus souvent le film du cin\u00e9ma ?",
+				"a":"C'est moi",
+				"b":"[partenaireName]",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que vous vous embrassez en public ?",
+				"a":"Oui, tant pis pour les rageux",
+				"b":"Non on reste correct !",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Est-ce que tu crois [partenaireName] capable de faire un saut en parachute ?",
+				"a":"Oui carr\u00e9ment !",
+				"b":"Oui mais il\/elle aurait vraiment peur",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Pour la saint Valentin [partenaireName] pr\u00e9f\u00e8re:",
+				"a":"Un cin\u00e9ma",
+				"b":"Un bon restaurant",
+				"c":"Une nuit dans un h\u00f4tel",
+				"d":"Une petite suprise",
+				"e":""
+			},
+			"question_3":{
+				"question":"Quelle activit\u00e9 vous pr\u00e9f\u00e8rez faire ensemble ?",
+				"a":"Du sport \ud83d\udcaa",
+				"b":"Du sport \ud83d\ude0f",
+				"c":"Faire les magasins",
+				"d":"Marcher dans les bois",
+				"e":"Allez faire la f\u00eate"
+			},
+			"question_4":{
+				"question":"Qui choisit le plus souvent le film du cin\u00e9ma ?",
+				"a":"[partenaireName]",
+				"b":"C'est moi",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que vous vous embrassez en public ?",
+				"a":"Oui, tant pis pour les rageux",
+				"b":"Non on reste correct !",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

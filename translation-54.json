@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Press the card to answer the questions",
+				"title_faceB":"Press the next button",
+				"endtitle_A":"We will see if [partenaireName] knows you well!"
+			},
+			"question_1":{
+				"question":"What are you most likely?",
+				"a":"Optimist",
+				"b":"Pessimist",
+				"c":"Realist",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"What do you prefer?",
+				"a":"Sunrise",
+				"b":"Sunset",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"How long could you be without mobile phone when you are with your loved one?",
+				"a":"0 days",
+				"b":"1-7 days",
+				"c":"8-14 days",
+				"d":"15-30 days",
+				"e":"more than 30 days"
+			},
+			"question_4":{
+				"question":"Do you think one can be reborn?",
+				"a":"Yes",
+				"b":"No",
+				"c":"Never thought about it",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Are you a very curious person?",
+				"a":"Yes",
+				"b":"Sometimes",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Did you have times in life when you thought you'd never find a partner?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Did you ever think about cheating on your partner?",
+				"a":"Yes",
+				"b":"No",
+				"c":"No comment",
+				"d":"What is the definition of cheating?",
+				"e":""
+			},
+			"question_8":{
+				"question":"How long took it until you fell in love with your partner?",
+				"a":"1 date",
+				"b":"2-6 dates",
+				"c":"7-10 dates",
+				"d":"More than 10 dates",
+				"e":""
+			},
+			"question_9":{
+				"question":"Can you imagine being together with your partner for the rest of your lives?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Here are your results:"
+			},
+			"question_1":{
+				"question":"[partenaireName] is rather:",
+				"a":"Optimist",
+				"b":"Pessimist",
+				"c":"Realist",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"What [partenaireName] prefers?",
+				"a":"Sunrise",
+				"b":"Sunset",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"How long could be [partenaireName] without mobile phone when you are with your loved one?",
+				"a":"0 days",
+				"b":"1-7 days",
+				"c":"8-14 days",
+				"d":"15-30 days",
+				"e":"more than 30 days"
+			},
+			"question_4":{
+				"question":"Do [partenaireName] thinks one can be reborn?",
+				"a":"Yes",
+				"b":"No",
+				"c":"Never thought about it",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"[partenaireName] is a very curious person?",
+				"a":"Yes",
+				"b":"Sometimes",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Did [partenaireName] has times in life when he\/she thought she\/he'd never find a partner?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Did [partenaireName] ever thinks about cheating on you?",
+				"a":"Yes",
+				"b":"No",
+				"c":"No comment",
+				"d":"What is the definition of cheating?",
+				"e":""
+			},
+			"question_8":{
+				"question":"How long took it until you fell in love with [partenaireName]?",
+				"a":"1 date",
+				"b":"2-6 dates",
+				"c":"7-10 dates",
+				"d":"More than 10 dates",
+				"e":""
+			},
+			"question_9":{
+				"question":"Can you imagine being together with your partner for the rest of your lives?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si [partenaireName] te connait bien !"
+			},
+			"question_1":{
+				"question":"Qu'est-ce qui te correspond le plus ?",
+				"a":"Optimiste",
+				"b":"Pessimiste",
+				"c":"Realiste",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Tu pr\u00e9f\u00e8res quoi ?",
+				"a":"Le lev\u00e9 du soleil",
+				"b":"Le couch\u00e9 du soleil",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Combien de temps tu peux tenir sans t\u00e9l\u00e9phone ?",
+				"a":"0 jour",
+				"b":"1-7 jours",
+				"c":"8-14 jours",
+				"d":"15-30 jours",
+				"e":"Plus de 30 jours"
+			},
+			"question_4":{
+				"question":"Tu penses qu'on peux revivre ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"Je n'y ai jamais pens\u00e9",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Es-tu quelqu'un de curieux ?",
+				"a":"Oui",
+				"b":"Parfois",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"As-tu eu des moments dans la vie o\u00f9 tu pensais ne jamais trouver de partenaire?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"As-tu d\u00e9j\u00e0 pens\u00e9 \u00e0 tromper ton partenaire ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"A quel moment on consid\u00e8re que c'est tromper ?",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"Il t'as fallu combien de temps pour tomber amoureux de [partenaireName] ?",
+				"a":"Au premier regard",
+				"b":"Apr\u00e8s plusieurs rendez-vous",
+				"c":"Apr\u00e8s plusieurs mois",
+				"d":"Plusieurs ann\u00e9es",
+				"e":""
+			},
+			"question_9":{
+				"question":"Tu te vois finir ta vie avec [partenaireName] ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Qu'est-ce qui correspond le plus \u00e0 [partenaireName] ?",
+				"a":"Optimiste",
+				"b":"Pessimiste",
+				"c":"Realiste",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"[partenaireName] pr\u00e9f\u00e8re quoi ?",
+				"a":"Le lev\u00e9 du soleil",
+				"b":"Le couch\u00e9 du soleil",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Combien de temps [partenaireName] peut tenir sans t\u00e9l\u00e9phone ?",
+				"a":"0 jour",
+				"b":"1-7 jours",
+				"c":"8-14 jours",
+				"d":"15-30 jours",
+				"e":"Plus de 30 jours"
+			},
+			"question_4":{
+				"question":"[partenaireName] pense qu'on peux revivre ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"Il\/elle n'y a jamais pens\u00e9",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"[partenaireName] est quelqu'un de curieux ?",
+				"a":"Oui",
+				"b":"Parfois",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"[partenaireName]a-t-il.elle eu des moments dans la vie o\u00f9 il\/elle pensait ne jamais trouver de partenaire?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"[partenaireName] a-t-il.elle d\u00e9j\u00e0 pens\u00e9 \u00e0 te tromper ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"A quel moment on consid\u00e8re que c'est tromper ?",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"Il a fallu combien de temps \u00e0 [partenaireName] pour tomber amoureux de toi ?",
+				"a":"Au premier regard",
+				"b":"Apr\u00e8s plusieurs rendez-vous",
+				"c":"Apr\u00e8s plusieurs mois",
+				"d":"Plusieurs ann\u00e9es",
+				"e":""
+			},
+			"question_9":{
+				"question":"[partenaireName] veut finir sa vie avec toi ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

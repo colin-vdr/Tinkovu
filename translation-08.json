@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			},
+			"question_1":{
+				"question":"Tulips or roses?",
+				"a":"Tulips",
+				"b":"Roses",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Apples or pears?",
+				"a":"Apples",
+				"b":"Pears",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do you eat 5 fruits and vegetables a day?",
+				"a":"Of course I do",
+				"b":"I don\u2019t think so",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Do you know how to cook?",
+				"a":"Yes, I cook regularly",
+				"b":"Let\u2019s just say I can cook pasta",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Do you like green vegetables?",
+				"a":"I love to add them to my t daily diet",
+				"b":"Only in small doses",
+				"c":"Not really ",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"Does [partenaireName] prefer tulips or roses?",
+				"a":"Tulips",
+				"b":"Roses",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Does [partenaireName] prefer apples or pears?",
+				"a":"Apples",
+				"b":"Pears",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does [partenaireName] eat 5 fruits and vegetables a day?",
+				"a":"Of course they do ",
+				"b":"I don\u2019t think so",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Does [partenaireName] cook well?",
+				"a":"Yes, they cook regularly",
+				"b":"Let\u2019s just say they  can cook pasta well",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Does [partenaireName] like green vegetables?",
+				"a":"They love them , it\u2019s part of their  daily diet",
+				"b":"Only in small doses",
+				"c":"Not really",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"Tulipes ou roses ?",
+				"a":"Tulipes",
+				"b":"Roses",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Pomme ou poire ?",
+				"a":"Pomme",
+				"b":"Poire",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que tu manges 5 fruits et l\u00e9gumes par jour ?",
+				"a":"Bien sur que oui",
+				"b":"Je ne crois pas",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Est-ce que tu sais bien cuisiner ?",
+				"a":"Oui d'ailleurs je fais r\u00e9guli\u00e8rement \u00e0 manger",
+				"b":"On va dire que je fais bien les p\u00e2tes",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que tu aimes les l\u00e9gumes verts ?",
+				"a":"J'adore \u00e7a c'est mon r\u00e9gime principal",
+				"b":"A petite dose",
+				"c":"Pas trop non",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"[partenaireName] pr\u00e9f\u00e8re les tulipes ou roses ?",
+				"a":"Tulipes",
+				"b":"Roses",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"[partenaireName] pr\u00e9f\u00e8re la pomme ou la poire ?",
+				"a":"Pomme",
+				"b":"Poire",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que [partenaireName] mange 5 fruits et l\u00e9gumes par jour ?",
+				"a":"Bien sur que oui",
+				"b":"Je ne crois pas",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Est-ce que [partenaireName] sait bien cuisiner ?",
+				"a":"Oui d'ailleurs il\/elle fait r\u00e9guli\u00e8rement \u00e0 manger",
+				"b":"On va dire qu'il\/elle fait bien les p\u00e2tes",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que [partenaireName] aime les l\u00e9gumes verts ?",
+				"a":"Il\/Elle adore \u00e7a, c'est son r\u00e9gime principal",
+				"b":"A petite dose",
+				"c":"Pas trop non",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

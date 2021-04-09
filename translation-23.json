@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			},
+			"question_1":{
+				"question":"What is your favorite social network?",
+				"a":"Facebook",
+				"b":"Twitter",
+				"c":"Instagram",
+				"d":"Pinterest",
+				"e":""
+			},
+			"question_2":{
+				"question":"What is your favorite \"new\" social network?",
+				"a":"Snapchat",
+				"b":"TikTok",
+				"c":"What'sApp",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Youtube or Dailymotion?",
+				"a":"Youtube",
+				"b":"Dailymotion",
+				"c":"Vimeo",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Are you watching ASMR videos?",
+				"a":"Every night before falling asleep",
+				"b":"It happens from time to time",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Do you often post on Instagram?",
+				"a":"All my life spends there",
+				"b":"Yes but interesting photos",
+				"c":"No",
+				"d":"I don't have Instagram",
+				"e":""
+			},
+			"question_6":{
+				"question":"Do you spend a lot of time watching videos online?",
+				"a":"Too much time",
+				"b":"I am reasonable",
+				"c":"No I don't like it",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"What is [partenaireName]'s favorite social network?",
+				"a":"Facebook",
+				"b":"Twitter",
+				"c":"Instagram",
+				"d":"Pinterest",
+				"e":""
+			},
+			"question_2":{
+				"question":"What is [partenaireName]'s favorite \"new\" social network?",
+				"a":"Snapchat",
+				"b":"TikTok",
+				"c":"What'sApp",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"[partenaireName] is more like Youtube or Dailymotion?",
+				"a":"Youtube",
+				"b":"Dailymotion",
+				"c":"Vimeo",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Is [partenaireName] watching ASMR videos?",
+				"a":"Every evening before falling asleep",
+				"b":"It happens from time to time",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"[partenaireName] often post on Instagram?",
+				"a":"All his life spends there",
+				"b":"Yes but interesting photos",
+				"c":"No",
+				"d":"He\/She does not have Instagram",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"Quel est ton r\u00e9seau social favori ?",
+				"a":"Facebook",
+				"b":"Twitter",
+				"c":"Instagram",
+				"d":"Pinterest",
+				"e":""
+			},
+			"question_2":{
+				"question":"Quel est ton \"nouveau\" r\u00e9seau social favori ?",
+				"a":"Snapchat",
+				"b":"TikTok",
+				"c":"What'sApp",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Youtube ou Dailymotion ?",
+				"a":"Youtube",
+				"b":"Dailymotion",
+				"c":"Vimeo",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Tu regardes des vid\u00e9os de type ASMR ?",
+				"a":"Tous les soirs avant de m'endormir",
+				"b":"\u00c7a arrive de temps en temps",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Tu publies souvent sur Instagram ?",
+				"a":"Toute ma vie y passe",
+				"b":"Oui mais des photos int\u00e9ressantes",
+				"c":"Non",
+				"d":"Je n'ai pas Instagram",
+				"e":""
+			},
+			"question_6":{
+				"question":"Est-ce que tu consacres beaucoup de temps \u00e0 regarder des vid\u00e9os en ligne ?",
+				"a":"Beaucoup trop de temps",
+				"b":"Je suis raisonable",
+				"c":"Non je n'aime pas \u00e7a",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Quel est le r\u00e9seau social favori de [partenaireName] ?",
+				"a":"Facebook",
+				"b":"Twitter",
+				"c":"Instagram",
+				"d":"Pinterest",
+				"e":""
+			},
+			"question_2":{
+				"question":"Quel est le \"nouveau\" r\u00e9seau social favori de [partenaireName] ?",
+				"a":"Snapchat",
+				"b":"TikTok",
+				"c":"What'sApp",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"[partenaireName] est plut\u00f4t Youtube ou Dailymotion ?",
+				"a":"Youtube",
+				"b":"Dailymotion",
+				"c":"Vimeo",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"[partenaireName] regarde des vid\u00e9os de type ASMR ?",
+				"a":"Tous les soirs avant de s'endormir",
+				"b":"\u00c7a arrive de temps en temps",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"[partenaireName] publies souvent sur Instagram ?",
+				"a":"Toute sa vie y passe",
+				"b":"Oui mais des photos int\u00e9ressantes",
+				"c":"Non",
+				"d":"Il\/Elle n'a pas Instagram",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Press the map to answer the questions",
+				"title_faceB":"Press the next button",
+				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
+			},
+			"question_1":{
+				"question":"Candy or chocolates?",
+				"a":"Candy",
+				"b":"Chocolates",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Croissant or chocolate bread?",
+				"a":"Croissant",
+				"b":"Chocolate Bread",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Sweet or salty pancakes?",
+				"a":"Sweet",
+				"b":"Salty",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What's your favorite chocolate?",
+				"a":"Dark Chocolate",
+				"b":"Milk Chocolate",
+				"c":"White Chocolate",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"On your pancakes, you put:",
+				"a":"Sugar",
+				"b":"Chocolate",
+				"c":"Caramel",
+				"d":"Honey",
+				"e":"Jam"
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"What would [partenaireName] prefer?",
+				"a":"Candy",
+				"b":"Chocolates",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"What would [partenaireName] prefer?",
+				"a":"Croissant",
+				"b":"Chocolate Bread",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does [partenaireName], prefer sweet or salty pancakes?",
+				"a":"Sweet",
+				"b":"Salty",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What's [partenaireName] favorite kind of chocolat?",
+				"a":"Dark Chocolate",
+				"b":"Milk Chocolate",
+				"c":"White Chocolate",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"On their pancakes, [partenaireName] puts:",
+				"a":"Sugar",
+				"b":"Chocolate",
+				"c":"Caramel",
+				"d":"Honey",
+				"e":"Jam"
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si [partenaireName] te connait bien !"
+			},
+			"question_1":{
+				"question":"Bonbons ou chocolats ?",
+				"a":"Bonbons",
+				"b":"Chocolats",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Croissant ou pain au chocolat ?",
+				"a":"Croissant",
+				"b":"Pain au chocolat",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Cr\u00eapes sucr\u00e9e ou sal\u00e9e ?",
+				"a":"Sucr\u00e9e",
+				"b":"Sal\u00e9e",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Ton chocolat pr\u00e9f\u00e9r\u00e9 ?",
+				"a":"Chocolat noir",
+				"b":"Chocolat au lait",
+				"c":"Chocolat blanc",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Sur tes cr\u00eapes, tu mets:",
+				"a":"Du sucre",
+				"b":"Du chocolat",
+				"c":"Du caramel",
+				"d":"Du miel",
+				"e":"De la confiture"
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Pour [partenaireName], bonbons ou chocolats ?",
+				"a":"Bonbons",
+				"b":"Chocolats",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Pour [partenaireName], croissant ou pain au chocolat ?",
+				"a":"Croissant",
+				"b":"Pain au chocolat",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Pour [partenaireName], cr\u00eapes sucr\u00e9e ou sal\u00e9e ?",
+				"a":"Sucr\u00e9e",
+				"b":"Sal\u00e9e",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Le chocolat pr\u00e9f\u00e9r\u00e9 de [partenaireName] ?",
+				"a":"Chocolat noir",
+				"b":"Chocolat au lait",
+				"c":"Chocolat blanc",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Sur ses cr\u00eapes, [partenaireName] met:",
+				"a":"Du sucre",
+				"b":"Du chocolat",
+				"c":"Du caramel",
+				"d":"Du miel",
+				"e":"De la confiture"
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

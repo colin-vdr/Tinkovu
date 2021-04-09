@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to select an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"Let's see if your friends know you well!"
+			},
+			"question_1":{
+				"question":"During happy hour, what do you prefer drinking?",
+				"a":"A soda",
+				"b":"Wine",
+				"c":"Beer",
+				"d":"Champagne",
+				"e":"A cocktail"
+			},
+			"question_2":{
+				"question":"Do you like eating cookies before guests arrive?",
+				"a":"Yes, I can\u2019t hold back",
+				"b":"No, I\u2019d rather wait for them",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"What is your favorite chip flavor?",
+				"a":"Old Fashioned",
+				"b":"Vinegar",
+				"c":"Chicken",
+				"d":"Cheese",
+				"e":"Classic"
+			},
+			"question_4":{
+				"question":"What's your favourite topic to discuss?",
+				"a":"Other people",
+				"b":"the latest TV show",
+				"c":"The future",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"What\u2019s your favorite soda?",
+				"a":"Coca-Cola",
+				"b":"Pepsi",
+				"c":"Fanta",
+				"d":"Orange Crush",
+				"e":"Ice-tea"
+			},
+			"question_6":{
+				"question":"Do you put ice in your drink?",
+				"a":"Yes, I like it icy cold!",
+				"b":"No, it changes the taste.",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"During Happy hour what does [partenaireName] prefer to drink?",
+				"a":"A soda",
+				"b":"Wine",
+				"c":"A beer",
+				"d":"Champagne",
+				"e":"A cocktail"
+			},
+			"question_2":{
+				"question":"Is [partenaireName] the type of person who eats cookies before guests arrive?",
+				"a":"Yes, they cannot hold back",
+				"b":"No, they would rather wait for them",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"What is [partenaireName]'s favorite chip flavor",
+				"a":"Old Fashioned",
+				"b":"Vinegar",
+				"c":"Chicken",
+				"d":"Cheese",
+				"e":"Classic"
+			},
+			"question_4":{
+				"question":"What is [partenaireName]'s favorite topic to discuss?",
+				"a":"Other people",
+				"b":"the latest TV show",
+				"c":"The future",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"What is their favorite soda?",
+				"a":"Coca-Cola",
+				"b":"Pepsi",
+				"c":"Fanta",
+				"d":"Orange Crush",
+				"e":"Ice-tea"
+			},
+			"question_6":{
+				"question":"Does [partenaireName] put ice in their drink?",
+				"a":"Yes, they want it to be very cold !",
+				"b":"No, because it changes the taste.",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"A l'ap\u00e9ro, tu pr\u00e9f\u00e8res boire:",
+				"a":"Un soda",
+				"b":"Du vin",
+				"c":"Une bi\u00e8re",
+				"d":"Du champagne",
+				"e":"Un cocktail"
+			},
+			"question_2":{
+				"question":"Tu es du genre \u00e0 manger les biscuits avant que les invit\u00e9s arrivent ?",
+				"a":"Oui, je n'arrive pas \u00e0 me retenir",
+				"b":"Non je les attends",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Quel est le go\u00fbt de tes chips pr\u00e9f\u00e9r\u00e9e ?",
+				"a":"A l'ancienne",
+				"b":"Au vinaigre",
+				"c":"Au poulet",
+				"d":"Au fromage",
+				"e":"Classique"
+			},
+			"question_4":{
+				"question":"Ton sujet de discussion favori ?",
+				"a":"Bitcher sur les gens",
+				"b":"Parler de la derni\u00e8re \u00e9mission de t\u00e9l\u00e9",
+				"c":"Parler de ton avenir",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quel est ton soda pr\u00e9f\u00e9r\u00e9 ?",
+				"a":"Le Coca-Cola",
+				"b":"Le Pepsi",
+				"c":"Le Fanta",
+				"d":"L'Orangina",
+				"e":"L'Ice-tea"
+			},
+			"question_6":{
+				"question":"Dans ta boisson, tu mets des gla\u00e7ons ?",
+				"a":"Oui, je veux que ce soit tr\u00e8s frais !",
+				"b":"Non, \u00e7a change le go\u00f9t.",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"A l'ap\u00e9ro, [partenaireName] pr\u00e9f\u00e8re boire:",
+				"a":"Un soda",
+				"b":"Du vin",
+				"c":"Une bi\u00e8re",
+				"d":"Du champagne",
+				"e":"Un cocktail"
+			},
+			"question_2":{
+				"question":"Est-ce que [partenaireName] est du genre \u00e0 manger les biscuits avant que les invit\u00e9s arrivent ?",
+				"a":"Oui, il\/elle n'arrive pas \u00e0 se retenir",
+				"b":"Non il\/elle les attend",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Quel est le go\u00fbt de chips pr\u00e9f\u00e9r\u00e9 de [partenaireName] ?",
+				"a":"A l'ancienne",
+				"b":"Au vinaigre",
+				"c":"Au poulet",
+				"d":"Au fromage",
+				"e":"Classique"
+			},
+			"question_4":{
+				"question":"Quel est le sujet de discussion favori de [partenaireName] ?",
+				"a":"Bitcher sur les gens",
+				"b":"Parler de la derni\u00e8re \u00e9mission de t\u00e9l\u00e9",
+				"c":"Parler de son avenir",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quel est son soda pr\u00e9f\u00e9r\u00e9 ?",
+				"a":"Le Coca-Cola",
+				"b":"Le Pepsi",
+				"c":"Le Fanta",
+				"d":"L'Orangina",
+				"e":"L'Ice-tea"
+			},
+			"question_6":{
+				"question":"Dans sa boisson, [partenaireName] met des gla\u00e7ons ?",
+				"a":"Oui, il\/elle veut que ce soit tr\u00e8s frais !",
+				"b":"Non, car \u00e7a change le go\u00f9t.",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

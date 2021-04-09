@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"We\u2019ll see if  knows you well!"
+			},
+			"question_1":{
+				"question":"What is your favorite sexual position among:",
+				"a":"The missionary",
+				"b":"The doggy style",
+				"c":"The position of Andromache",
+				"d":"99",
+				"e":"69"
+			},
+			"question_2":{
+				"question":"What is your biggest fantasy?",
+				"a":"Sex in public",
+				"b":"A threesome",
+				"c":"Make a sextape",
+				"d":"Something else ...",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do you make noise when you make sex?",
+				"a":"Ooh yes!",
+				"b":"No I am discreet",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What do you say to  during sex?",
+				"a":"I love you",
+				"b":"Pls continue!",
+				"c":"Oh f*ck!",
+				"d":"Don't stop",
+				"e":""
+			},
+			"question_5":{
+				"question":"Do you consider yourself good in bed?",
+				"a":"I am the best",
+				"b":"I'm doing my best!",
+				"c":"I don't know",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Where is your favorite place for sex?",
+				"a":"In the bedroom",
+				"b":"In the bathroom",
+				"c":"In the living room",
+				"d":"In a fitting room",
+				"e":"In public toilets"
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"What is the preferred sexual position of [partenaireName]:",
+				"a":"The missionary",
+				"b":"The doggy style",
+				"c":"The position of Andromache",
+				"d":"99",
+				"e":"69"
+			},
+			"question_2":{
+				"question":"What is the biggest fantasy of [partenaireName]?",
+				"a":"Make love in public",
+				"b":"A threesome",
+				"c":"Make a sextape",
+				"d":"Something else ...",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does [partenaireName] make noise when he\/she makes love?",
+				"a":"Ooh yes!",
+				"b":"No he\/she is discreet",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What does [partenaireName] tell you during sex?",
+				"a":"I love you",
+				"b":"Pls continue!",
+				"c":"Oh f*ck!",
+				"d":"Don't stop",
+				"e":""
+			},
+			"question_5":{
+				"question":"Is [partenaireName] good in bed?",
+				"a":"The best",
+				"b":"He\/She is very good.ne",
+				"c":"He\/She does not know",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si [partenaireName] te connait bien !"
+			},
+			"question_1":{
+				"question":"Quelle est ta position sexuelle pr\u00e9f\u00e9r\u00e9e parmi:",
+				"a":"Le missionnaire",
+				"b":"La levrette",
+				"c":"La position d'Andromaque",
+				"d":"Le 99",
+				"e":"Le 69"
+			},
+			"question_2":{
+				"question":"Quel est ton plus grand fantasme ?",
+				"a":"Faire l'amour en public",
+				"b":"Un plan \u00e0 trois",
+				"c":"Faire une sextape",
+				"d":"Autre chose...",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que tu fais du bruit quand tu fais l'amour ?",
+				"a":"Ooh oui !",
+				"b":"Non je suis discret",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Qu'est-ce que tu dis \u00e0 [partenaireName] pendant le sexe ?",
+				"a":"Je t'aime",
+				"b":"Oui continue !",
+				"c":"Oh f*ck!",
+				"d":"T'arr\u00eates pas",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que tu te consid\u00e8res bon au lit ?",
+				"a":"Je suis le meilleur",
+				"b":"Je fais de mon mieux !",
+				"c":"Je ne sais pas",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Quel est ton endroit pr\u00e9f\u00e9r\u00e9 pour faire l'amour ?",
+				"a":"Dans la chambre",
+				"b":"Dans la salle de bain",
+				"c":"Dans le salon",
+				"d":"Dans une cabine d'essayage",
+				"e":"Dans des toilettes publiques"
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Quelle est la position sexuelle pr\u00e9f\u00e9r\u00e9e de [partenaireName]:",
+				"a":"Le missionnaire",
+				"b":"La levrette",
+				"c":"La position d'Andromaque",
+				"d":"Le 99",
+				"e":"Le 69"
+			},
+			"question_2":{
+				"question":"Quel est le plus grand fantasme de [partenaireName] ?",
+				"a":"Faire l'amour en public",
+				"b":"Un plan \u00e0 trois",
+				"c":"Faire une sextape",
+				"d":"Autre chose...",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que [partenaireName] fait du bruit quand il\/elle fait l'amour ?",
+				"a":"Ooh oui !",
+				"b":"Non il\/elle suis discret",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Qu'est-ce que [partenaireName] te dit pendant le sexe ?",
+				"a":"Je t'aime",
+				"b":"Oui continue !",
+				"c":"Oh f*ck!",
+				"d":"T'arr\u00eates pas",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que [partenaireName] se trouve bon au lit ?",
+				"a":"Le meilleur",
+				"b":"Il\/Elle est tr\u00e8s bon.ne",
+				"c":"Il\/Elle ne sait pas",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

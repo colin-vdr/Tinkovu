@@ -1,0 +1,176 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card and select your answer",
+				"title_faceB":"Tap the 'next' button below",
+				"endtitle_A":"We\u2019ll see if your partner knows you well!"
+			},
+			"question_1":{
+				"question":"What is your biggest turn on?",
+				"a":"Hearing",
+				"b":"Tasting",
+				"c":"Smelling",
+				"d":"Feeling",
+				"e":"Something else"
+			},
+			"question_2":{
+				"question":"What's your favorite thing about your partner?",
+				"a":"Sexy smile",
+				"b":"Pretty eyes",
+				"c":"Nice body",
+				"d":"Good personality",
+				"e":""
+			},
+			"question_3":{
+				"question":"What drives you crazy?",
+				"a":"The way they look at you",
+				"b":"Holding you",
+				"c":"Something dirtier",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What's a fast way to turn on?",
+				"a":"Get to it quick",
+				"b":"Slow wind down",
+				"c":"Tease",
+				"d":"Slam on the gas",
+				"e":""
+			},
+			"question_5":{
+				"question":"What is your little guilty pleasure?",
+				"a":"Chocolate fantasy",
+				"b":"Morning wakeups",
+				"c":"Phone secret",
+				"d":"Dress up",
+				"e":"Toys"
+			},
+			"question_6":{
+				"question":"One sensual spot:",
+				"a":"The chest",
+				"b":"Thighs",
+				"c":"Ears",
+				"d":"Neck",
+				"e":"Other"
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"What is [partenaireName]'s biggest turn on?",
+				"a":"Hearing",
+				"b":"Tasting",
+				"c":"Smelling",
+				"d":"Feeling",
+				"e":"Something else"
+			},
+			"question_2":{
+				"question":"What does [partenaireName] like best about you?",
+				"a":"Sexy smile",
+				"b":"Pretty eyes",
+				"c":"Nice body",
+				"d":"Good personality",
+				"e":""
+			},
+			"question_3":{
+				"question":"What drives [partenaireName] crazy?",
+				"a":"The way they look at you",
+				"b":"Holding you",
+				"c":"Something dirtier",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"What's a fast way to turn [partenaireName] on?",
+				"a":"Get to it quick",
+				"b":"Slow wind down",
+				"c":"Tease",
+				"d":"Slam on the gas",
+				"e":""
+			},
+			"question_5":{
+				"question":"What is [partenaireName] 's guilty pleasure ?",
+				"a":"Chocolate fantasy",
+				"b":"Morning wakeups",
+				"c":"Phone secret",
+				"d":"Dress up",
+				"e":"Toys"
+			},
+			"question_6":{
+				"question":"[partenaireName] 's sensual spot:",
+				"a":"The chest",
+				"b":"Thighs",
+				"c":"Ears",
+				"d":"Neck",
+				"e":"Other"
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Press the card to answer the questions",
+				"title_faceB":"Tap next button below",
+				"endtitle_A":"We will see if [partenaireName] knows you well!"
+			},
+			"question_1":{
+				"question":"Do you want to get married?",
+				"a":"Yes for sure",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"How long should you be in a relationship before you marry?",
+				"a":"Some months",
+				"b":"One year",
+				"c":"Two years",
+				"d":"More than two",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does a marriage mean that you just belong to each other?",
+				"a":"Absolutely yes",
+				"b":"No, you should also be available for the people around you",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Who should have the leading position in the marriage?",
+				"a":"The man",
+				"b":"The woman",
+				"c":"Both",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Who should do the proposal?",
+				"a":"The guy",
+				"b":"The girl",
+				"c":"It doesn't matter",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Here are your results:"
+			},
+			"question_1":{
+				"question":"Does [partenaireName] want to get married?",
+				"a":"Yes for sure",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"How long should [partenaireName] be in a relationship before you marry?",
+				"a":"Some months",
+				"b":"One year",
+				"c":"Two years",
+				"d":"More than two",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does a marriage mean that you just belong to each other?",
+				"a":"Absolutely yes",
+				"b":"No, you should also be available for the people around you",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Who should have the leading position in the marriage?",
+				"a":"The man",
+				"b":"The woman",
+				"c":"Both",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Who should do the proposal?",
+				"a":"The guy",
+				"b":"The girl",
+				"c":"It doesn't matter",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuie sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuie sur le bouton suivant",
+				"endtitle_A":"On verra si [partenaireName] te connais bien "
+			},
+			"question_1":{
+				"question":"Est-ce que tu veux te marier ?",
+				"a":"Oui bien s\u00fbr",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Combien de temps tu dois \u00eatre en relation avant de te marier ?",
+				"a":"Quelques mois",
+				"b":"1 an",
+				"c":"2 ans",
+				"d":"Plus de deux ans",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que le mariage signifie que tu appartiens \u00e0 l'autre ?",
+				"a":"Absoluement oui",
+				"b":"Non je serai toujours disponible pour d'autres personnes",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Qui devrait \u00eatre le meneur du mariage ?",
+				"a":"L'homme",
+				"b":"La femme",
+				"c":"Les deux",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Qui devrait faire la demande en mariage ?",
+				"a":"L'homme",
+				"b":"La femme",
+				"c":"Aucune importance !",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Est-ce que [partenaireName] veut se marier ?",
+				"a":"Oui bien s\u00fbr",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Combien de temps [partenaireName] doit \u00eatre en relation avant de se marier ?",
+				"a":"Quelques mois",
+				"b":"1 an",
+				"c":"2 ans",
+				"d":"Plus de deux ans",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que le mariage signifie que [partenaireName] t'appartient ?",
+				"a":"Absoluement oui",
+				"b":"Non il\/elle sera toujours disponible pour d'autres personnes",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Qui devrait \u00eatre le meneur du mariage ?",
+				"a":"L'homme",
+				"b":"La femme",
+				"c":"Les deux",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Qui devrait faire la demande en mariage ?",
+				"a":"L'homme",
+				"b":"La femme",
+				"c":"Aucune importance !",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

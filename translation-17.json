@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to a question",
+				"title_faceB":"Tap the 'next' button below",
+				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
+			},
+			"question_1":{
+				"question":"Does [partenaireName] snore in their sleep?",
+				"a":"Yes, they make a lot of noise",
+				"b":"No, they're quiet",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Who makes the bed in the morning?",
+				"a":"It\u2019s always me",
+				"b":"It's [partenaireName]",
+				"c":"We take turns",
+				"d":"We never make the bed",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does [partenaireName] move a lot at night?",
+				"a":"Yes",
+				"b":"Nope",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Do you sleep on your left or right side?",
+				"a":"Left side",
+				"b":"Right side",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Do you often dream about [partenaireName]?",
+				"a":"Yes very often",
+				"b":"Sometimes it happens",
+				"c":"All the time!",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Who is more likely steal the blanket?",
+				"a":"Clearly,[partenaireName]",
+				"b":"It\u2019s me, because I\u2019m always cold",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"Do you snore in bed?",
+				"a":"Yes I make a lot of noise",
+				"b":"No, I'm quiet",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Who makes the bed in the morning?",
+				"a":"It\u2019s always [partenaireName]",
+				"b":"It\u2019s me",
+				"c":"We take turns",
+				"d":"We never make the bed",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do you move a lot at night?",
+				"a":"Yes",
+				"b":"Nope",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Does [partenaireName] sleep on their left or right side?",
+				"a":"Left side",
+				"b":"On the right side",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Does [partenaireName] often dream of you?",
+				"a":"Yes very often",
+				"b":"Sometimes it happens",
+				"c":"All the time!",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Who is more like to stealthe blanket ?",
+				"a":"Clearly, it\u2019s me",
+				"b":"It\u2019s [partenaireName] because they're always feeling cold",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si [partenaireName] te connait bien !"
+			},
+			"question_1":{
+				"question":"[partenaireName] ronfle au lit ?",
+				"a":"Oui et c'est chiant",
+				"b":"Non \u00e7a va il est discret",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Qui fait le lit le matin ?",
+				"a":"C'est toujours moi",
+				"b":"C'est [partenaireName]",
+				"c":"Chacun notre tour",
+				"d":"On ne fait pas le lit",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que [partenaireName] bouge beaucoup la nuit ?",
+				"a":"Oui \u00e9normement",
+				"b":"Non \u00e7a va",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Tu dors du c\u00f4t\u00e9 gauche ou droit ?",
+				"a":"Du c\u00f4t\u00e9 gauche",
+				"b":"Du c\u00f4t\u00e9 droit",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que tu r\u00eaves souvent de [partenaireName] ?",
+				"a":"Oui tr\u00e8s souvent",
+				"b":"De temps en temps \u00e7a arrive",
+				"c":"Absoluement ja-mais !",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Qui prend le plus de couverture ?",
+				"a":"Clairement, [partenaireName]",
+				"b":"C'est moi, parce que j'ai froid",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Tu ronfles au lit ?",
+				"a":"Oui tu fais du bruit",
+				"b":"Non tu es discret",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Qui fait le lit le matin ?",
+				"a":"C'est toujours [partenaireName]",
+				"b":"C'est moi",
+				"c":"Chacun notre tour",
+				"d":"On ne fait pas le lit",
+				"e":""
+			},
+			"question_3":{
+				"question":"Est-ce que tu bouges beaucoup la nuit ?",
+				"a":"Oui \u00e9normement",
+				"b":"Non \u00e7a va",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"[partenaireName] dort du c\u00f4t\u00e9 gauche ou droit ?",
+				"a":"Du c\u00f4t\u00e9 gauche",
+				"b":"Du c\u00f4t\u00e9 droit",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Est-ce que [partenaireName] r\u00eave souvent de toi ?",
+				"a":"Oui tr\u00e8s souvent",
+				"b":"De temps en temps \u00e7a arrive",
+				"c":"Absoluement ja-mais !",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Qui prend le plus de couverture ?",
+				"a":"Clairement, c'est moi",
+				"b":"C'est [partenaireName], parce qu'il\/elle a froid",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

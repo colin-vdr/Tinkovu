@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to a question",
+				"title_faceB":"Tap the 'next' button below",
+				"endtitle_A":"We\u2019ll see if your friends knows you well!"
+			},
+			"question_1":{
+				"question":"Do you prefer high heels or flats ?",
+				"a":"High heels",
+				"b":"Flat",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Which do you wear more frequently, t-shirts or shirts/blouses?",
+				"a":"T-shirts",
+				"b":"Shirts/blouses",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do you prefer colorful or plain clothes?",
+				"a":"Definitely colorful!",
+				"b":"I prefer to look sober",
+				"c":"A little of both!",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Stripes, dots or checks?",
+				"a":"Scratches",
+				"b":"Dots",
+				"c":"Checks",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"What's your favorite style of clothing?",
+				"a":"Classic",
+				"b":"Modern",
+				"c":"Maximum brands",
+				"d":"Chic",
+				"e":"Streetwear"
+			},
+			"question_6":{
+				"question":"Do you wear a hat in the winter?",
+				"a":"Yes, it keeps me warm",
+				"b":"No, it looks ridiculous",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Do you like colorful underwear?",
+				"a":"Yes it adds a little cheerfulness",
+				"b":"No, nobody sees it except my partner anyways",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"[partenaireName] prefers high or low shoes?",
+				"a":"High heels",
+				"b":"Flats",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Does [partenaireName] prefer wearing t-shirts or shirts/blouses?",
+				"a":"T-shirts",
+				"b":"Shirts/blouses",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Does [partenaireName] prefer colorful or plain clothes?",
+				"a":"Definitely colorful!",
+				"b":"They prefer loking sober",
+				"c":"A little of both!",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Stripes, dots or checks for [partenaireName]?",
+				"a":"Stripes",
+				"b":"Dots",
+				"c":"Checks",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"What's [partenaireName]'s favorite clothing style ?",
+				"a":"Classic",
+				"b":"Modern",
+				"c":"Maximum brands",
+				"d":"Chic",
+				"e":"Streetwear"
+			},
+			"question_6":{
+				"question":"If it’s cold in the winter, does [partenaireName] put on a hat?",
+				"a":"Yes, it keeps them warm",
+				"b":"No, it looks  ridiculous on them",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Does [partenaireName] likes colorful underwear?",
+				"a":"Yes it adds a little cheerfulness",
+				"b":"No, nobody sees it except you anyway",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"Tu pr\u00e9f\u00e8res les chaussures hautes ou basses ?",
+				"a":"Plut\u00f4t haute",
+				"b":"Plut\u00f4t basse",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Tu mets plus de t-shirts ou de chemises ?",
+				"a":"T-shirts",
+				"b":"Chemises",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Tu aimes les v\u00eatements color\u00e9s ou sobre ?",
+				"a":"Ce qui est color\u00e9 !",
+				"b":"Je pr\u00e9f\u00e8re quand c'est sobre",
+				"c":"Un peu des deux !",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Rayures, petits pois ou carreaux ?",
+				"a":"Des rayures",
+				"b":"Des petits pois",
+				"c":"Des carreaux",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Ton style de v\u00eatements pr\u00e9f\u00e9r\u00e9 ?",
+				"a":"Classique",
+				"b":"Moderne",
+				"c":"Un maximum de marques",
+				"d":"Chic",
+				"e":"Streetwear"
+			},
+			"question_6":{
+				"question":"En hiver, il fait froid, tu mets un bonnet ?",
+				"a":"Oui \u00e7a tiens chaud",
+				"b":"Non \u00e7a me d\u00e9coiffe et c'est ridicule",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Tu aimes les sous-v\u00eatements color\u00e9s ?",
+				"a":"Oui \u00e7a rajoute un peu de gaiet\u00e9",
+				"b":"Non, de toute fa\u00e7on personne ne le voit",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"[partenaireName] pr\u00e9f\u00e8re les chaussures hautes ou basses ?",
+				"a":"Plut\u00f4t haute",
+				"b":"Plut\u00f4t basse",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"[partenaireName] met plus de t-shirts ou de chemises ?",
+				"a":"T-shirts",
+				"b":"Chemises",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"[partenaireName] aime les v\u00eatements color\u00e9s ou sobre ?",
+				"a":"Ce qui est color\u00e9 !",
+				"b":"Il\/Elle pr\u00e9f\u00e8re quand c'est sobre",
+				"c":"Un peu des deux !",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Rayures, petits pois ou carreaux pour [partenaireName] ?",
+				"a":"Des rayures",
+				"b":"Des petits pois",
+				"c":"Des carreaux",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Le style de v\u00eatements pr\u00e9f\u00e9r\u00e9 de [partenaireName] ?",
+				"a":"Classique",
+				"b":"Moderne",
+				"c":"Un maximum de marques",
+				"d":"Chic",
+				"e":"Streetwear"
+			},
+			"question_6":{
+				"question":"En hiver, il fait froid, [partenaireName] met un bonnet ?",
+				"a":"Oui \u00e7a tiens chaud",
+				"b":"Non \u00e7a d\u00e9coiffe et c'est ridicule",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"[partenaireName] aime les sous-v\u00eatements color\u00e9s ?",
+				"a":"Oui \u00e7a rajoute un peu de gaiet\u00e9",
+				"b":"Non, de toute fa\u00e7on personne ne le voit",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

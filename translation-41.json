@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Press the card to answer the questions",
+				"title_faceB":"Goal made by Grand Benoit",
+				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			},
+			"question_1":{
+				"question":"When you were a child you dreamed of becoming:",
+				"a":"Fireman",
+				"b":"Policeman",
+				"c":"Prof",
+				"d":"Doctor",
+				"e":"Astronaut"
+			},
+			"question_2":{
+				"question":"Until when you believed in Santa Claus",
+				"a":"5 years",
+				"b":"6 years",
+				"c":"7 years",
+				"d":"8 years",
+				"e":"9 years or more"
+			},
+			"question_3":{
+				"question":"You were a restless child?",
+				"a":"I was wise as an image",
+				"b":"It was fine",
+				"c":"I was hyper active",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Did you have a lover?",
+				"a":"Yes several even",
+				"b":"Yes",
+				"c":"No",
+				"d":"Nan berk!",
+				"e":""
+			},
+			"question_5":{
+				"question":"Your biggest childhood dream?",
+				"a":"Marry me",
+				"b":"Having my own house",
+				"c":"Go to space",
+				"d":"Having Pok\u00e9mon",
+				"e":""
+			},
+			"question_6":{
+				"question":"Were you afraid of the monsters under the bed?",
+				"a":"Yes",
+				"b":"It is always the case",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Here are your results:"
+			},
+			"question_1":{
+				"question":"When [partenaireName] was a child, he \/ she dreamed of becoming:",
+				"a":"Fireman",
+				"b":"Policeman",
+				"c":"Prof",
+				"d":"Doctor",
+				"e":"Astronaut"
+			},
+			"question_2":{
+				"question":"Until when [partenaireName] believed in Santa Claus",
+				"a":"5 years",
+				"b":"6 years",
+				"c":"7 years",
+				"d":"8 years",
+				"e":"9 years or more"
+			},
+			"question_3":{
+				"question":"[partenaireName] was an agitated child?",
+				"a":"Wise as an image",
+				"b":"It was fine",
+				"c":"He \/ She was hyper active",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"[partenaireName] had a lover?",
+				"a":"Yes several same",
+				"b":"Yes",
+				"c":"No",
+				"d":"Nan berk",
+				"e":""
+			},
+			"question_5":{
+				"question":"The biggest childhood dream of [partenaireName]?",
+				"a":"Getting married",
+				"b":"Having your own house",
+				"c":"Go to space",
+				"d":"Having Pok\u00e9mon",
+				"e":""
+			},
+			"question_6":{
+				"question":"[partenaireName] was afraid of the monsters under the bed?",
+				"a":"Yes",
+				"b":"It is always the case",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Goal fait par Grand Benoit",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"Quand tu \u00e9tais enfant tu r\u00eavais de devenir :",
+				"a":"Pompier",
+				"b":"Policier",
+				"c":"Prof",
+				"d":"M\u00e9decin ",
+				"e":"Astronaute "
+			},
+			"question_2":{
+				"question":"Jusqu'\u00e0 quand tu as cru au p\u00e8re No\u00ebl ",
+				"a":"5 ans",
+				"b":"6 ans",
+				"c":"7 ans",
+				"d":"8 ans",
+				"e":"9 ans ou +"
+			},
+			"question_3":{
+				"question":"Tu \u00e9tais un enfant agit\u00e9 ? ",
+				"a":"J'etais sage comme une image ",
+				"b":"\u00c7a allait ",
+				"c":"J'\u00e9tais hyper actif ",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Tu avais un amoureux ou une amoureuse ?",
+				"a":"Oui plusieurs m\u00eame",
+				"b":"Oui ",
+				"c":"Non",
+				"d":"Nan berk!",
+				"e":""
+			},
+			"question_5":{
+				"question":"Ton plus grand r\u00eave d'enfance ? ",
+				"a":"Me marier ",
+				"b":"Avoir ma propre maison ",
+				"c":"Aller dans l'espace ",
+				"d":"Avoir des Pok\u00e9mons",
+				"e":""
+			},
+			"question_6":{
+				"question":"Tu avais peur des monstres sous le lit ?",
+				"a":"Oui",
+				"b":"C'est toujours le cas",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Quand [partenaireName] \u00e9tait enfant, il\/elle r\u00eavait de devenir :",
+				"a":"Pompier",
+				"b":"Policier",
+				"c":"Prof",
+				"d":"M\u00e9decin ",
+				"e":"Astronaute "
+			},
+			"question_2":{
+				"question":"Jusqu'\u00e0 quand [partenaireName] a cru au p\u00e8re No\u00ebl ",
+				"a":"5 ans",
+				"b":"6 ans",
+				"c":"7 ans",
+				"d":"8 ans",
+				"e":"9 ans ou +"
+			},
+			"question_3":{
+				"question":"[partenaireName] \u00e9tait un\/une enfant agit\u00e9 ? ",
+				"a":"Sage comme une image ",
+				"b":"\u00c7a allait",
+				"c":"Il\/Elle \u00e9tait hyper actif ",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"[partenaireName] avait un amoureux ou une amoureuse ?",
+				"a":"Oui plusieurs meme",
+				"b":"Oui ",
+				"c":"Non",
+				"d":"Nan berk ",
+				"e":""
+			},
+			"question_5":{
+				"question":"Le plus grand r\u00eave d'enfance  de [partenaireName] ?",
+				"a":"Se marier ",
+				"b":"Avoir sa propre maison ",
+				"c":"Aller dans l'espace ",
+				"d":"Avoir des Pok\u00e9mons",
+				"e":""
+			},
+			"question_6":{
+				"question":"[partenaireName] avait peur des monstres sous le lit ?",
+				"a":"Oui",
+				"b":"C'est toujours le cas",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

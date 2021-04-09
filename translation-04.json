@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			},
+			"question_1":{
+				"question":"What would a  perfect Sunday be like to  you?",
+				"a":"Staying all Day in bed",
+				"b":"watching a movie on the couch",
+				"c":"Going on a date",
+				"d":"Spending time with my Family",
+				"e":""
+			},
+			"question_2":{
+				"question":"What is your favourite season?",
+				"a":"Spring",
+				"b":"Summer",
+				"c":"Fall",
+				"d":"Winter",
+				"e":""
+			},
+			"question_3":{
+				"question":"What do you like the most?",
+				"a":"Watching movies",
+				"b":"Playing video games",
+				"c":"playing board games",
+				"d":"Cleaning up",
+				"e":""
+			},
+			"question_4":{
+				"question":"How do you watch TV?",
+				"a":"Lying down",
+				"b":"next to my partner",
+				"c":"Alone",
+				"d":"I don\u2019t watch TV",
+				"e":""
+			},
+			"question_5":{
+				"question":"Rain or snow?",
+				"a":"Rain",
+				"b":"Snow",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Candy, chocolate or popcorn?",
+				"a":"Candy",
+				"b":"Chocolate",
+				"c":"Popcorn",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"What would the ideal sunday for [partenaireName] be like?",
+				"a":"Staying all day in bed",
+				"b":"watching a movie on the couch",
+				"c":"Going on a date ",
+				"d":"Spending time with their family",
+				"e":""
+			},
+			"question_2":{
+				"question":"What is your partner's favourite season?",
+				"a":"Spring",
+				"b":"Summer",
+				"c":"Fall",
+				"d":"Winter",
+				"e":""
+			},
+			"question_3":{
+				"question":"What would [partenaireName] prefer?",
+				"a":"Watching movies",
+				"b":"Playing video games",
+				"c":"playing board games",
+				"d":"Cleaning up",
+				"e":""
+			},
+			"question_4":{
+				"question":"How does [partenaireName] prefer to watch TV ?",
+				"a":"Lying down",
+				"b":"next to you",
+				"c":"Alone",
+				"d":"My partner doesn't watch TV",
+				"e":""
+			},
+			"question_5":{
+				"question":"Does [partenaireName] prefer rain or snow?",
+				"a":"Rain",
+				"b":"Snow",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Does [partenaireName] prefer candy, chocolate or popcorn?",
+				"a":"Candy",
+				"b":"Chocolate",
+				"c":"Popcorn",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si tes amis te connaissent bien !"
+			},
+			"question_1":{
+				"question":"Le dimanche id\u00e9al pour toi:",
+				"a":"Journ\u00e9e dans le lit",
+				"b":"Pos\u00e9.e dans le canap\u00e9 devant une s\u00e9rie",
+				"c":"Sortir en amoureux",
+				"d":"En famille",
+				"e":""
+			},
+			"question_2":{
+				"question":"Quelle est ta saison pr\u00e9f\u00e9r\u00e9e ?",
+				"a":"Le printemps",
+				"b":"L'\u00e9t\u00e9",
+				"c":"L'automne",
+				"d":"L'hiver",
+				"e":""
+			},
+			"question_3":{
+				"question":"Tu pr\u00e9f\u00e8res:",
+				"a":"Regarder un film",
+				"b":"Lancer un jeu vid\u00e9o",
+				"c":"Faire un jeu de soci\u00e9t\u00e9",
+				"d":"Faire le m\u00e9nage",
+				"e":""
+			},
+			"question_4":{
+				"question":"Comment tu pr\u00e9f\u00e8res \u00eatre install\u00e9.e devant la t\u00e9l\u00e9 ?",
+				"a":"Allong\u00e9.e",
+				"b":"Allong\u00e9.e pr\u00e8s de ton\/ta partenaire",
+				"c":"Tout.e seul.e dans ton coin",
+				"d":"Je ne regarde pas la t\u00e9l\u00e9",
+				"e":""
+			},
+			"question_5":{
+				"question":"Pluie ou neige ?",
+				"a":"La pluie",
+				"b":"La neige",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Bonbon, chocolat ou pop-corn ?",
+				"a":"Des bonbons",
+				"b":"Du chocolat",
+				"c":"Du pop-corn",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Le dimanche id\u00e9al pour [partenaireName]:",
+				"a":"Journ\u00e9e dans le lit",
+				"b":"Pos\u00e9.e dans le canap\u00e9 devant une s\u00e9rie",
+				"c":"Sortir en amoureux",
+				"d":"En famille",
+				"e":""
+			},
+			"question_2":{
+				"question":"Quelle est sa saison pr\u00e9f\u00e9r\u00e9e ?",
+				"a":"Le printemps",
+				"b":"L'\u00e9t\u00e9",
+				"c":"L'automne",
+				"d":"L'hiver",
+				"e":""
+			},
+			"question_3":{
+				"question":"[partenaireName] pr\u00e9f\u00e8res:",
+				"a":"Regarder un film",
+				"b":"Lancer un jeu vid\u00e9o",
+				"c":"Faire un jeu de soci\u00e9t\u00e9",
+				"d":"Faire le m\u00e9nage",
+				"e":""
+			},
+			"question_4":{
+				"question":"Comment [partenaireName] pr\u00e9f\u00e8res \u00eatre install\u00e9.e devant la t\u00e9l\u00e9 ?",
+				"a":"Allong\u00e9.e",
+				"b":"Allong\u00e9.e pr\u00e8s de ton\/ta partenaire",
+				"c":"Tout.e seul.e dans ton coin",
+				"d":"Je ne regarde pas la t\u00e9l\u00e9",
+				"e":""
+			},
+			"question_5":{
+				"question":"[partenaireName] est plut\u00f4t pluie ou neige ?",
+				"a":"La pluie",
+				"b":"La neige",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"[partenaireName] pr\u00e9f\u00e8re les bonbons, le chocolat ou le pop-corn ?",
+				"a":"Des bonbons",
+				"b":"Du chocolat",
+				"c":"Du pop-corn",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

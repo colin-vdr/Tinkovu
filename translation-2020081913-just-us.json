@@ -1,0 +1,176 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card and select your answer",
+				"title_faceB":"Tap the 'next' button below",
+				"endtitle_A":"We\u2019ll see if your partner knows you well!"
+			},
+			"question_1":{
+				"question":"What you love in [partenaireName] the most ?",
+				"a":"Eyes",
+				"b":"Lips",
+				"c":"Voice",
+				"d":"Nothing",
+				"e":""
+			},
+			"question_2":{
+				"question":"Which time did you like the most being with [partenaireName] ?",
+				"a":"Dawn",
+				"b":"Afternoon",
+				"c":"Evening",
+				"d":"Night",
+				"e":""
+			},
+			"question_3":{
+				"question":"You love [partenaireName] because of?",
+				"a":"He\/She is gentle",
+				"b":"He\/She is smart",
+				"c":"Anything else",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Do you share secrets?",
+				"a":"Yes",
+				"b":"No",
+				"c":"Sometimes",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Do you trust [partenaireName] ?",
+				"a":"Yes",
+				"b":"No",
+				"c":"It's hard",
+				"d":"Rarely",
+				"e":""
+			},
+			"question_6":{
+				"question":"Will you be with [partenaireName] forever ?",
+				"a":"Yes",
+				"b":"No, when married",
+				"c":"Always",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"How much do you love [partenaireName] ?",
+				"a":"Much is used for uncountable things",
+				"b":"Can't express",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"What [partenaireName] loves in you the most ?",
+				"a":"Eyes",
+				"b":"Lips",
+				"c":"Voice",
+				"d":"Nothing",
+				"e":""
+			},
+			"question_2":{
+				"question":"Which time did [partenaireName] likes the most being with you?",
+				"a":"Dawn",
+				"b":"Afternoon",
+				"c":"Evening",
+				"d":"Night",
+				"e":""
+			},
+			"question_3":{
+				"question":"[partenaireName] loves you because of?",
+				"a":"He\/She is gentle",
+				"b":"He\/She is smart",
+				"c":"Anything else",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Did [partenaireName] share secrets?",
+				"a":"Yes",
+				"b":"No",
+				"c":"Sometimes",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Did [partenaireName] trust you?",
+				"a":"Yes",
+				"b":"No",
+				"c":"It's hard",
+				"d":"Rarely",
+				"e":""
+			},
+			"question_6":{
+				"question":"Will [partenaireName] be with you forever?",
+				"a":"Yes",
+				"b":"No, when married",
+				"c":"Always",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"How much [partenaireName] loves you?",
+				"a":"Much is used for uncountable things",
+				"b":"Can't express",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

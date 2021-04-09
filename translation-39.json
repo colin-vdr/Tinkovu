@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Goals made by an anonymous user",
+				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
+			},
+			"question_1":{
+				"question":"Where do you want to live ?",
+				"a":"On a small farm",
+				"b":"In the suburbs ",
+				"c":"In a big city",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"When do you plan on marrying [partenaireName]",
+				"a":"In 1-2 years ",
+				"b":"In 3-5 years",
+				"c":"Never",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do you want to get kids?",
+				"a":"No",
+				"b":"Yes",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"How often do you daydream about the future together?",
+				"a":"Atleast once a week",
+				"b":"Every day",
+				"c":"Never",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Are you sappy?",
+				"a":"Yes, very",
+				"b":"Moderate amount",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"In your future home. Who will clean and cook?",
+				"a":"[partenaireName]",
+				"b":"Me",
+				"c":"Together while we sing and dance",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Do you like to decorate?",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"What is your style in decor",
+				"a":"Natural colors and vintage",
+				"b":"Bold bright colors",
+				"c":"Modern",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"Do you like to decorate the house with plants and candles?",
+				"a":"Definitely",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"Continue the sentence: Home should be...",
+				"a":"Full of adventure",
+				"b":"A safe place",
+				"c":"Always changing ",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Your result:"
+			},
+			"question_1":{
+				"question":"Where do [partenaireName] wants to live with you",
+				"a":"On a small farm",
+				"b":"In the suburbs ",
+				"c":"In a big city",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"When do [partenaireName] plans on marrying you",
+				"a":"In 1-2 years ",
+				"b":"In 3-5 years",
+				"c":"Never",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Do [partenaireName] wants to get kids?",
+				"a":"No",
+				"b":"Yes",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"How often do [partenaireName] daydream about the future together?",
+				"a":"Atleast once a week",
+				"b":"Every day",
+				"c":"Never",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Is [partenaireName] sappy?",
+				"a":"Yes, very",
+				"b":"Moderate amount",
+				"c":"No",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"In our future home. Who will clean and cook?",
+				"a":"Me",
+				"b":"[partenaireName]",
+				"c":"Together while we sing and dance",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Do [partenaireName] likes to decorate",
+				"a":"Yes",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"What is [partenaireName]'s style in decor",
+				"a":"Natural colors and vintage",
+				"b":"Bold bright colors",
+				"c":"Modern",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"Do [partenaireName] likes to decorate the house with plants and candles?",
+				"a":"Definitely",
+				"b":"No",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"Continue the sentence: Home should be...",
+				"a":"Full of adventure",
+				"b":"A safe place",
+				"c":"Always changing ",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Goal fait par un utilisateur anonyme",
+				"endtitle_A":"On verra si [partenaireName] te connais bien !"
+			},
+			"question_1":{
+				"question":"O\u00f9 veux-tu vivre plus tard ?",
+				"a":"Dans une petite ferme",
+				"b":"En banlieue",
+				"c":"Dans une grosse ville",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Quand comptes-tu te marrier avec [partenaireName] ?",
+				"a":"Dans 1 ou 2 ans",
+				"b":"Dans 3 \u00e0 5 ans",
+				"c":"Jamais",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Tu veux des enfants ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"Tu penses souvent \u00e0 votre avenir \u00e0 deux ?",
+				"a":"Au moins une fois par semaine",
+				"b":"Tous les jours",
+				"c":"Jamais ",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Es-tu une personne sentimentale ?",
+				"a":"Oui, beaucoup",
+				"b":"Parfois je craque",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Dans votre prochaine maison, qui fera la cuisine ?",
+				"a":"[partenaireName]",
+				"b":"Moi",
+				"c":"Tous les deux en chantant",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Est-ce que tu aimes faire la d\u00e9coration ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"Quel est ton int\u00e9rieur pr\u00e9fer\u00e9 ?",
+				"a":"Couleurs naturelles et vintage",
+				"b":"Couleurs vives et audacieuses",
+				"c":"Moderne",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"Tu aimes d\u00e9corer la maison avec des bougies ?",
+				"a":"Oui j'adore",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"Continues la phrase: La maison devrait \u00eatre...",
+				"a":"Pleine d'aventure",
+				"b":"Un endroit paisible",
+				"c":"Toujours diff\u00e9rent",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"O\u00f9 [partenaireName] veut vivre plus tard ?",
+				"a":"Dans une petite ferme",
+				"b":"En banlieue",
+				"c":"Dans une grosse ville",
+				"d":"",
+				"e":""
+			},
+			"question_2":{
+				"question":"Quand [partenaireName] compte se marrier avec toi ?",
+				"a":"Dans 1 ou 2 ans",
+				"b":"Dans 3 \u00e0 5 ans",
+				"c":"Jamais",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"[partenaireName] veut des enfants ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_4":{
+				"question":"[partenaireName] pense souvent \u00e0 votre avenir \u00e0 deux ?",
+				"a":"Au moins une fois par semaine",
+				"b":"Tous les jours",
+				"c":"Jamais ",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"[partenaireName] est une personne sentimentale ?",
+				"a":"Oui, beaucoup",
+				"b":"Parfois il\/elle craque",
+				"c":"Non",
+				"d":"",
+				"e":""
+			},
+			"question_6":{
+				"question":"Dans votre prochaine maison, qui fera la cuisine ?",
+				"a":"Moi",
+				"b":"[partenaireName]",
+				"c":"Tous les deux en chantant",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Est-ce que [partenaireName] aime faire la d\u00e9coration ?",
+				"a":"Oui",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_8":{
+				"question":"Quel est l'int\u00e9rieur pr\u00e9fer\u00e9  de [partenaireName] ?",
+				"a":"Couleurs naturelles et vintage",
+				"b":"Couleurs vives et audacieuses",
+				"c":"Moderne",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"[partenaireName] aime d\u00e9corer la maison avec des bougies ?",
+				"a":"Oui il\/elle adore",
+				"b":"Non",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"Continues la phrase: La maison devrait \u00eatre...",
+				"a":"Pleine d'aventure",
+				"b":"Un endroit paisible",
+				"c":"Toujours diff\u00e9rent",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}

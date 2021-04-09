@@ -1,0 +1,350 @@
+{
+	"en":{
+		"a":{
+			"default":{
+				"title_faceA":"Press the card to answer the questions",
+				"title_faceB":"Press the next button",
+				"endtitle_A":"We will see if [partenaireName] knows you well!"
+			},
+			"question_1":{
+				"question":"How many kids I always wanted to have?",
+				"a":"4",
+				"b":"5",
+				"c":"2",
+				"d":"1",
+				"e":"0"
+			},
+			"question_2":{
+				"question":"What I love more?",
+				"a":"Chocolate ",
+				"b":"Icecream",
+				"c":"Apple juice ",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"What's the first thing I would do when i see you?",
+				"a":"Kiss and hug you",
+				"b":"Jump on you ",
+				"c":"Take alot of cute selfies",
+				"d":"Cry",
+				"e":""
+			},
+			"question_4":{
+				"question":"What type of shower do I love more?",
+				"a":"Hot",
+				"b":"Cold",
+				"c":"Warm",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"What was the first nickname I ever called you?",
+				"a":"Tiger",
+				"b":"Muffin",
+				"c":"Cupcake",
+				"d":"Honeybunny ",
+				"e":"Other one"
+			},
+			"question_6":{
+				"question":"What do I love to do with you the most?",
+				"a":"Annoyed you",
+				"b":"Get you mad",
+				"c":"Get you jealous ",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Where is a place I would love to go with you?",
+				"a":"To the beach",
+				"b":"To the movies",
+				"c":"To the mall",
+				"d":"To the park",
+				"e":"Somewhere else"
+			},
+			"question_8":{
+				"question":"What is something we always say when we promise something?",
+				"a":"Okie dokie",
+				"b":"I got you",
+				"c":"Always and forever ",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"Who said I love you first?",
+				"a":"Me",
+				"b":"You",
+				"c":"Both",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Here are your results:"
+			},
+			"question_1":{
+				"question":"How many kids [partenaireName] always wanted to have?",
+				"a":"4",
+				"b":"5",
+				"c":"2",
+				"d":"1",
+				"e":"0"
+			},
+			"question_2":{
+				"question":"What [partenaireName] loves more?",
+				"a":"Chocolate ",
+				"b":"Icecream",
+				"c":"Apple juice ",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"What's the first thing [partenaireName] would does when he/she see you?",
+				"a":"Kiss and hug you",
+				"b":"Jump on you ",
+				"c":"Take alot of cute selfies",
+				"d":"Cry",
+				"e":""
+			},
+			"question_4":{
+				"question":"What type of shower does [partenaireName] love more?",
+				"a":"Hot",
+				"b":"Cold",
+				"c":"Warm",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"What was the first nickname [partenaireName] ever called you?",
+				"a":"Tiger",
+				"b":"Muffin",
+				"c":"Cupcake",
+				"d":"Honeybunny ",
+				"e":"Other one"
+			},
+			"question_6":{
+				"question":"What does [partenaireName] love to do with you the most?",
+				"a":"Annoyed you",
+				"b":"Get you mad",
+				"c":"Get you jealous ",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"Where is a place [partenaireName] would loves to go with you?",
+				"a":"To the beach",
+				"b":"To the movies",
+				"c":"To the mall",
+				"d":"To the park",
+				"e":"Somewhere else"
+			},
+			"question_8":{
+				"question":"What is something we always say when we promise something?",
+				"a":"Okie dokie",
+				"b":"I got you",
+				"c":"Always and forever ",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"Who said I love you first?",
+				"a":"You",
+				"b":"Me",
+				"c":"Both",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	},
+	"fr":{
+		"a":{
+			"default":{
+				"title_faceA":"Appuies sur la carte pour r\u00e9pondre aux questions",
+				"title_faceB":"Appuies sur le bouton suivant",
+				"endtitle_A":"On verra si [partenaireName] te connait bien !"
+			},
+			"question_1":{
+				"question":"Combien d'enfants j'ai toujours r\u00eav\u00e9 d'avoir ?",
+				"a":"4",
+				"b":"5",
+				"c":"2",
+				"d":"1",
+				"e":"0"
+			},
+			"question_2":{
+				"question":"Qu'est-ce que j'aime le plus ?",
+				"a":"Le chocolat",
+				"b":"Le glace",
+				"c":"Le jus de pomme",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Quelle est la premi\u00e8re chose que je ferais en te voyant ?",
+				"a":"Des bisous et des c\u00e2lins",
+				"b":"Te sauter dessus",
+				"c":"Prendre pleins de selfie mignons",
+				"d":"Pleurer",
+				"e":""
+			},
+			"question_4":{
+				"question":"Quelle genre de douche j'aime le plus ?",
+				"a":"Chaude",
+				"b":"Froide",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quel surnom je t'ai donn\u00e9 en premier ?",
+				"a":"Mon chat",
+				"b":"Mon chou",
+				"c":"Ch\u00e9ri.e",
+				"d":"Mon amour",
+				"e":"Mon coeur"
+			},
+			"question_6":{
+				"question":"Qu'est-ce que j'aime le plus te faire ?",
+				"a":"T'emb\u00eater",
+				"b":"Te rendre fou",
+				"c":"Te rendre jaloux",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"O\u00f9 est-ce que je t'ai embrass\u00e9 la premi\u00e8re fois ?",
+				"a":"Sur la plage",
+				"b":"Au cin\u00e9ma",
+				"c":"En ville",
+				"d":"Dans un parc",
+				"e":"Ailleurs"
+			},
+			"question_8":{
+				"question":"Qu'est-ce qu'on se dit quand on se fait une promesse ?",
+				"a":"Promis",
+				"b":"Jur\u00e9-crach\u00e9",
+				"c":"Je te le promet",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"Qui dit \" Je t'aime \" en premier ? ",
+				"a":"Moi",
+				"b":"Toi",
+				"c":"Tous les deux",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		},
+		"b":{
+			"default":{
+				"endtitle_B":"Voici tes r\u00e9sultats:"
+			},
+			"question_1":{
+				"question":"Combien d'enfants j'ai toujours r\u00eav\u00e9 d'avoir ?",
+				"a":"4",
+				"b":"5",
+				"c":"2",
+				"d":"1",
+				"e":"0"
+			},
+			"question_2":{
+				"question":"Qu'est-ce que j'aime le plus ?",
+				"a":"Le chocolat",
+				"b":"Le glace",
+				"c":"Le jus de pomme",
+				"d":"",
+				"e":""
+			},
+			"question_3":{
+				"question":"Quelle est la premi\u00e8re chose que je ferais en te voyant ?",
+				"a":"Des bisous et des c\u00e2lins",
+				"b":"Te sauter dessus",
+				"c":"Prendre pleins de selfie mignons",
+				"d":"Pleurer",
+				"e":""
+			},
+			"question_4":{
+				"question":"Quelle genre de douche j'aime le plus ?",
+				"a":"Chaude",
+				"b":"Froide",
+				"c":"",
+				"d":"",
+				"e":""
+			},
+			"question_5":{
+				"question":"Quel surnom je t'ai donn\u00e9 en premier ?",
+				"a":"Mon chat",
+				"b":"Mon chou",
+				"c":"Ch\u00e9ri.e",
+				"d":"Mon amour",
+				"e":"Mon coeur"
+			},
+			"question_6":{
+				"question":"Qu'est-ce que j'aime le plus te faire ?",
+				"a":"T'emb\u00eater",
+				"b":"Te rendre fou",
+				"c":"Te rendre jaloux",
+				"d":"",
+				"e":""
+			},
+			"question_7":{
+				"question":"O\u00f9 est-ce que je t'ai embrass\u00e9 la premi\u00e8re fois ?",
+				"a":"Sur la plage",
+				"b":"Au cin\u00e9ma",
+				"c":"En ville",
+				"d":"Dans un parc",
+				"e":"Ailleurs"
+			},
+			"question_8":{
+				"question":"Qu'est-ce qu'on se dit quand on se fait une promesse ?",
+				"a":"Promis",
+				"b":"Jur\u00e9-crach\u00e9",
+				"c":"Je te le promet",
+				"d":"",
+				"e":""
+			},
+			"question_9":{
+				"question":"Qui dit \" Je t'aime \" en premier ? ",
+				"a":"Toi",
+				"b":"Moi",
+				"c":"Tous les deux",
+				"d":"",
+				"e":""
+			},
+			"question_10":{
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
+				"d":"",
+				"e":""
+			}
+		}
+	}
+}
