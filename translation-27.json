@@ -1,58 +1,58 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Tap the card to reply to an answer",
-				"title_faceB":"Tap the 'next' button bellow",
-				"endtitle_A":"We\u2019ll see if  knows you well!"
+			"por defecto":{
+				"title_faceA": "Toca la tarjeta para responder a una respuesta",
+				"title_faceB": "Toca el botón 'siguiente' abajo",
+				"endtitle_A": "¡Veremos si te conoce bien!"
 			},
 			"question_1":{
-				"question":"How do you show to [partenaireName] that you want sex?",
-				"a":"I stick to him \/ her",
-				"b":"I bite his ear",
-				"c":"I undress him \/ her",
+				"question": "¿Cómo le demuestras a [partenaireName] que quieres sexo?",
+				"a": "Me pego a él/ella",
+				"b": "Le muerdo la oreja",
+				"c": "Le desvisto a él/ella",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"When you get out of the shower you are:",
-				"a":"Completely naked",
-				"b":"In little outfit",
-				"c":"In bathrobe",
-				"d":"With the towel that hides me",
+				"question": "Cuando sales de la ducha estás:",
+				"a": "Completamente desnudo",
+				"b": "Con poca ropa",
+				"c": "En albornoz",
+				"d": "Con la toalla que me esconde",
 				"e":""
 			},
 			"question_3":{
-				"question":"You find [partenaireName] sexy?",
-				"a":"Yes he \/ she excites me",
-				"b":"What a man \u2764",
-				"c":"What woman \u2764",
+				"question": "¿Te parece sexy [partenaireName]?",
+				"a": "Sí, él/ella me excita",
+				"b": "Que hombre",
+				"c": "Qué mujer",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"What gives you the most desire to make love?",
-				"a":"See [partenaireName] get out of the shower",
-				"b":"When we find ourselves alone",
-				"c":"When we start to kiss everywhere",
+				"question": "¿Qué te da más ganas de hacer el amor?",
+				"a": "Ver a [partenaireName] salir de la ducha",
+				"b": "Cuando nos encontramos solos",
+				"c": "Cuando empezamos a besarnos por todas partes",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Which caress do you prefer?",
-				"a":"On the cheek",
-				"b":"In the hair",
-				"c":"On the arms",
-				"d":"On the buttocks",
+				"question": "¿Qué caricias prefieres?",
+				"a": "En la mejilla",
+				"b": "En el pelo",
+				"c": "En los brazos",
+				"d": "En las nalgas",
 				"e":""
 			},
 			"question_6":{
-				"question":"What do you do after having sex?",
-				"a":"I'm sleeping",
-				"b":"We are watching a movie",
-				"c":"We are taking a shower",
-				"d":"We redo love",
-				"e":"Something else"
+				"question": "¿Qué haces después de tener sexo?",
+				"a": "Estoy durmiendo",
+				"b": "Estamos viendo una película",
+				"c": "Nos duchamos",
+				"d": "Volvemos a hacer el amor",
+				"e": "Algo más"
 			},
 			"question_7":{
 				"question":"",
@@ -89,46 +89,46 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Here are your results:"
+				"endtitle_B": "Aquí están los resultados:"
 			},
 			"question_1":{
-				"question":"How [partenaireName] shows you that he \/ she wants sex?",
-				"a":"He \/ She sticks to me",
-				"b":"He \/ She nibbles my ear",
-				"c":"He \/ She undresses me",
+				"question": "¿Cómo te muestra [partenaireName] que él / ella quiere sexo?",
+				"a": "Él / Ella se pega a mí",
+				"b": "Él / Ella me mordisquea la oreja",
+				"c": "Él / Ella me desnuda",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"Coming out of the shower, [partenaireName] is:",
-				"a":"Completely naked",
-				"b":"In little outfit",
-				"c":"In bathrobe",
-				"d":"With the towel to hide",
+				"question": "Al salir de la ducha, [partenaireName] está:",
+				"a": "Completamente desnudo",
+				"b": "Con poca ropa",
+				"c": "En albornoz",
+				"d": "Con la toalla para esconderse",
 				"e":""
 			},
 			"question_3":{
-				"question":"How do you find [partenaireName]?",
-				"a":"Excitant.e",
-				"b":"Very handsome man",
-				"c":"Very beautiful woman",
+				"question": "¿Cómo encuentras a [partenaireName]?",
+				"a": "Excitante.e",
+				"b": "Hombre muy guapo",
+				"c": "Mujer muy guapa",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"What gives [partenaireName] the most desire to make sex?",
-				"a":"See  get out of the shower",
-				"b":"When we find ourselves alone",
-				"c":"When we start to kiss everywhere",
+				"question": "¿Qué es lo que le da más ganas a [partenaireName] de hacer sexo?",
+				"a": "Ver salir de la ducha",
+				"b": "Cuando nos encontramos solos",
+				"c": "Cuando empezamos a besarnos por todas partes",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"What caress [partenaireName] prefer?",
-				"a":"On the cheek",
-				"b":"In the hair",
-				"c":"On the arms",
-				"d":"On the buttocks",
+				"question": "¿Qué caricia prefiere [partenaireName]?",
+				"a": "En la mejilla",
+				"b": "En el pelo",
+				"c": "En los brazos",
+				"d": "En las nalgas",
 				"e":""
 			},
 			"question_6":{
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

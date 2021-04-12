@@ -1,57 +1,57 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Tap the card and select your answer",
-				"title_faceB":"Tap the 'next' button below",
-				"endtitle_A":"We\u2019ll see if your partner knows you well!"
+			"por defecto":{
+				"title_faceA": "Toca la tarjeta y selecciona tu respuesta",
+				"title_faceB": "Toca el botón 'siguiente' de abajo",
+				"endtitle_A": "¡Veremos si tu compañero te conoce bien!"
 			},
 			"question_1":{
-				"question":"Do you remember first time you met?",
-				"a":"Yes",
-				"b":"Not sure",
+				"question": "¿Recuerdas la primera vez que os conocisteis?",
+				"a": "Sí",
+				"b": "No estoy seguro",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"How long did you talk to each other before dating?",
-				"a":"1 day",
-				"b":"1 week",
-				"c":"2 weeks",
-				"d":"More than 3 weeks",
+				"question": "¿Cuánto tiempo hablaron entre ustedes antes de salir?",
+				"a": "1 día",
+				"b": "1 semana",
+				"c": "2 semanas",
+				"d": "Más de 3 semanas",
 				"e":""
 			},
 			"question_3":{
-				"question":"Do you sleep the first or help [partenaireName] to sleep?",
-				"a":"Myself",
-				"b":"Make him\/her sleep",
+				"question": "¿Duerme usted el primero o ayuda a dormir a [partenaireName]?",
+				"a": "Yo mismo",
+				"b": "Hacerle dormir",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Have you ever thought of [partenaireName] 's feelings ?",
-				"a":"Yes every day",
-				"b":"No",
-				"c":"I don't care",
+				"question": "¿Has pensado alguna vez en los sentimientos de [partenaireName]?",
+				"a": "Sí todos los días",
+				"b": "No",
+				"c": "No me importa",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"How often do you understand what he\/she needs without even saying?",
-				"a":"Not much",
-				"b":"Every times",
-				"c":"I'm trying to",
+				"question": "¿Con qué frecuencia entiendes lo que necesita sin decirlo?",
+				"a": "No mucho",
+				"b": "Todas las veces",
+				"c": "Lo intento",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"How much do you think of [partenaireName] ?",
-				"a":"More than me",
-				"b":"Good enough",
-				"c":"Not much",
-				"d":"We are doing fine",
+				"question": "¿Cuánto piensas de [partenaireName]?",
+				"a": "Más que yo",
+				"b": "Bastante",
+				"c": "No mucho",
+				"d": "Estamos bien",
 				"e":""
 			},
 			"question_7":{
@@ -89,54 +89,54 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question":"Do you remember first time you met?",
-				"a":"Yes",
-				"b":"Not sure",
+				"question": "¿Recuerdas la primera vez que os visteis?",
+				"a": "Sí",
+				"b": "No estoy seguro",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"How long did you talk to each other before dating?",
-				"a":"1 day",
-				"b":"1 week",
-				"c":"2 weeks",
-				"d":"More than 3 weeks",
+				"question": "¿Cuánto tiempo hablaron entre ustedes antes de salir?",
+				"a": "1 día",
+				"b": "1 semana",
+				"c": "2 semanas",
+				"d": "Más de 3 semanas",
 				"e":""
 			},
 			"question_3":{
-				"question":"Does [partenaireName] sleep first or helps you to fall asleep?",
-				"a":"Him\/her first",
-				"b":"Helps me",
+				"question": "¿Duerme primero [partenaireName] o le ayuda a dormirse?",
+				"a": "Él/ella primero",
+				"b": "Me ayuda",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Did [partenaireName] ever thought of you feeling?",
-				"a":"Yes every day",
-				"b":"No",
-				"c":"I don't care",
+				"question": "¿Alguna vez [partenaireName] pensó en sus sentimientos?",
+				"a": "Sí todos los días",
+				"b": "No",
+				"c": "No me importa",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"How often does  understand what you needs without even saying?",
-				"a":"Not much",
-				"b":"Every times",
-				"c":"He\/She's trying to",
+				"question": "¿Con qué frecuencia entiende lo que necesita sin siquiera decirlo?",
+				"a": "No mucho",
+				"b": "Todas las veces",
+				"c": "Él/ella lo intenta",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"How much you think [partenaireName] cares about you?",
-				"a":"More than him\/her",
-				"b":"Good enough",
-				"c":"Not much",
-				"d":"We are doing fine",
+				"question": "¿Cuánto crees que le importas a [partenaireName]?",
+				"a": "Más que él/ella",
+				"b": "Bastante",
+				"c": "No mucho",
+				"d": "Estamos bien",
 				"e":""
 			},
 			"question_7":{
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

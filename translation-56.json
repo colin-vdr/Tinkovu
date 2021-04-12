@@ -1,80 +1,80 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Press the card to answer the questions",
-				"title_faceB":"Press the next button",
-				"endtitle_A":"We will see if [partenaireName] knows you well!"
+			"por defecto":{
+				"title_faceA": "Pulsa la tarjeta para responder a las preguntas",
+				"title_faceB": "Pulse el botón siguiente",
+				"endtitle_A": "¡Vamos a ver si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
-				"question":"How many kids I always wanted to have?",
-				"a":"4",
-				"b":"5",
-				"c":"2",
-				"d":"1",
-				"e":"0"
+				"question": "¿Cuántos hijos he querido tener siempre?",
+				"a": "4",
+				"b": "5",
+				"c": "2",
+				"d": "1",
+				"e": "0"
 			},
 			"question_2":{
-				"question":"What I love more?",
-				"a":"Chocolate ",
-				"b":"Icecream",
-				"c":"Apple juice ",
+				"question": "¿Qué me gusta más?",
+				"a": "Chocolate",
+				"b": "Helado",
+				"c": "Zumo de manzana",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"What's the first thing I would do when i see you?",
-				"a":"Kiss and hug you",
-				"b":"Jump on you ",
-				"c":"Take alot of cute selfies",
-				"d":"Cry",
+				"question": "¿Qué es lo primero que haría al verte?",
+				"a": "Besarte y abrazarte",
+				"b": "Saltar sobre ti",
+				"c": "Tomar muchas selfies lindas",
+				"d": "Llorar",
 				"e":""
 			},
 			"question_4":{
-				"question":"What type of shower do I love more?",
-				"a":"Hot",
-				"b":"Cold",
-				"c":"Warm",
+				"question": "¿Qué tipo de ducha me gusta más?",
+				"a": "Caliente",
+				"b": "Fría",
+				"c": "Tibia",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"What was the first nickname I ever called you?",
-				"a":"Tiger",
-				"b":"Muffin",
-				"c":"Cupcake",
-				"d":"Honeybunny ",
-				"e":"Other one"
+				"question": "¿Cuál fue el primer apodo que te puse?",
+				"a": "Tigre",
+				"b": "Muffin",
+				"c": "Pastelito",
+				"d": "Honeybunny",
+				"e": "Otro"
 			},
 			"question_6":{
-				"question":"What do I love to do with you the most?",
-				"a":"Annoyed you",
-				"b":"Get you mad",
-				"c":"Get you jealous ",
+				"question": "¿Qué es lo que más me gusta hacer contigo?",
+				"a": "Enfadarte",
+				"b": "Hacerte enojar",
+				"c": "Ponerte celoso",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"Where is a place I would love to go with you?",
-				"a":"To the beach",
-				"b":"To the movies",
-				"c":"To the mall",
-				"d":"To the park",
-				"e":"Somewhere else"
+				"question": "¿Cuál es el lugar al que me gustaría ir contigo?",
+				"a": "A la playa",
+				"b": "Al cine",
+				"c": "Al centro comercial",
+				"d": "Al parque",
+				"e": "A otro lugar"
 			},
 			"question_8":{
-				"question":"What is something we always say when we promise something?",
-				"a":"Okie dokie",
-				"b":"I got you",
-				"c":"Always and forever ",
+				"question": "¿Qué es lo que siempre decimos cuando prometemos algo?",
+				"a": "Okie dokie",
+				"b": "Te tengo",
+				"c": "Siempre y para siempre",
 				"d":"",
 				"e":""
 			},
 			"question_9":{
-				"question":"Who said I love you first?",
-				"a":"Me",
-				"b":"You",
-				"c":"Both",
+				"question": "¿Quién dijo te quiero primero?",
+				"a": "Yo",
+				"b": "Tú",
+				"c": "Ambos",
 				"d":"",
 				"e":""
 			},
@@ -89,77 +89,77 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Here are your results:"
+				"endtitle_B": "Aquí están los resultados:"
 			},
 			"question_1":{
-				"question":"How many kids [partenaireName] always wanted to have?",
-				"a":"4",
-				"b":"5",
-				"c":"2",
-				"d":"1",
-				"e":"0"
+				"question": "¿Cuántos hijos ha querido tener siempre [partenaireName]?",
+				"a": "4",
+				"b": "5",
+				"c": "2",
+				"d": "1",
+				"e": "0"
 			},
 			"question_2":{
-				"question":"What [partenaireName] loves more?",
-				"a":"Chocolate ",
-				"b":"Icecream",
-				"c":"Apple juice ",
+				"question": "¿Qué es lo que más le gusta a [partenaireName]?",
+				"a": "Chocolate",
+				"b": "Helado",
+				"c": "Zumo de manzana",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"What's the first thing [partenaireName] would does when he/she see you?",
-				"a":"Kiss and hug you",
-				"b":"Jump on you ",
-				"c":"Take alot of cute selfies",
-				"d":"Cry",
+				"question": "¿Qué es lo primero que haría [partenaireName] cuando te ve?",
+				"a": "Besarte y abrazarte",
+				"b": "Saltar sobre ti",
+				"c": "Tomar muchas selfies lindas",
+				"d": "Llorar",
 				"e":""
 			},
 			"question_4":{
-				"question":"What type of shower does [partenaireName] love more?",
-				"a":"Hot",
-				"b":"Cold",
-				"c":"Warm",
+				"question": "¿Qué tipo de ducha le gusta más a [partenaireName]?",
+				"a": "Caliente",
+				"b": "Fría",
+				"c": "Tibia",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"What was the first nickname [partenaireName] ever called you?",
-				"a":"Tiger",
-				"b":"Muffin",
-				"c":"Cupcake",
-				"d":"Honeybunny ",
-				"e":"Other one"
+				"question": "¿Cuál fue el primer apodo que te puso [partenaireName]?",
+				"a": "Tigre",
+				"b": "Muffin",
+				"c": "Pastelito",
+				"d": "Honeybunny",
+				"e": "Otro"
 			},
 			"question_6":{
-				"question":"What does [partenaireName] love to do with you the most?",
-				"a":"Annoyed you",
-				"b":"Get you mad",
-				"c":"Get you jealous ",
+				"question": "¿Qué es lo que más le gusta hacer a [partenaireName] contigo?",
+				"a": "Enfadarte",
+				"b": "Hacerte enojar",
+				"c": "Ponerte celoso",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"Where is a place [partenaireName] would loves to go with you?",
-				"a":"To the beach",
-				"b":"To the movies",
-				"c":"To the mall",
-				"d":"To the park",
-				"e":"Somewhere else"
+				"question": "¿Cuál es el lugar al que [partenaireName] le gustaría ir contigo?",
+				"a": "A la playa",
+				"b": "Al cine",
+				"c": "Al centro comercial",
+				"d": "Al parque",
+				"e": "A otro sitio"
 			},
 			"question_8":{
-				"question":"What is something we always say when we promise something?",
-				"a":"Okie dokie",
-				"b":"I got you",
-				"c":"Always and forever ",
+				"question": "¿Qué es lo que siempre decimos cuando prometemos algo?",
+				"a": "Okie dokie",
+				"b": "Te tengo",
+				"c": "Siempre y para siempre",
 				"d":"",
 				"e":""
 			},
 			"question_9":{
-				"question":"Who said I love you first?",
-				"a":"You",
-				"b":"Me",
-				"c":"Both",
+				"question": "¿Quién dijo te quiero primero?",
+				"a": "Tú",
+				"b": "Yo",
+				"c": "Ambos",
 				"d":"",
 				"e":""
 			},
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

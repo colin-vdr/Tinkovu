@@ -1,66 +1,66 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Press the card to answer the questions",
-				"title_faceB":"Goal made by an anonymous user",
-				"endtitle_A":"We will see if [partenaireName] knows you well!"
+			"por defecto":{
+				"title_faceA": "Pulsa la tarjeta para responder a las preguntas",
+				"title_faceB": "Toca el botón 'siguiente' abajo",
+				"endtitle_A": "¡Vamos a ver si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
-				"question":"What do you think is the best birthday present?",
-				"a":"A jewel",
-				"b":"A private picnic by the river",
+				"question": "¿Cuál crees que es el mejor regalo de cumpleaños?",
+				"a": "Una joya",
+				"b": "Un picnic privado junto al río",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"On rainy days:",
-				"a":"Thin it's raining ...",
-				"b":"Let's go play in the rain!",
+				"question": "En días de lluvia:",
+				"a": "Cuando llueve...",
+				"b": "¡Vamos a jugar bajo la lluvia!",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"Cake or pie?",
-				"a":"Cake",
-				"b":"Pie",
+				"question": "¿Pastel o tarta?",
+				"a": "Pastel",
+				"b": "Pastel",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"You entertain the most:",
-				"a":"Leaving",
-				"b":"Staying at home",
+				"question": "Lo que más te entretiene:",
+				"a": "Salir",
+				"b": "Quedarse en casa",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"In the bed:",
-				"a":"You take things in hand",
-				"b":"You let the other do",
-				"c":"You do it two",
+				"question": "En la cama:",
+				"a": "Tomas las cosas en la mano",
+				"b": "Dejas que el otro haga",
+				"c": "Lo haces tú dos",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"The best plan of the evening?",
-				"a":"Dinner in a chic restaurant",
-				"b":"Small barbecue in the garden",
+				"question": "¿El mejor plan de la noche?",
+				"a": "Cena en un restaurante elegante",
+				"b": "Pequeña barbacoa en el jardín",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"For the choice of vehicle:",
-				"a":"Car",
-				"b":"Truck",
-				"c":"SUV",
-				"d":"Moto",
-				"e":"I need the 4"
+				"question": "Para la elección del vehículo:",
+				"a": "Coche",
+				"b": "Camión",
+				"c": "SUV",
+				"d": "Moto",
+				"e": "Necesito el 4"
 			},
 			"question_8":{
 				"question":"",
@@ -89,63 +89,63 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Here are your results:"
+				"endtitle_B": "Aquí están los resultados:"
 			},
 			"question_1":{
-				"question":"What is the best birthday present for [partenaireName]?",
-				"a":"A jewel",
-				"b":"A private picnic by the river",
+				"question": "¿Cuál es el mejor regalo de cumpleaños para [partenaireName]?",
+				"a": "Una joya",
+				"b": "Un picnic privado junto al río",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"On rainy days:",
-				"a":"Damn!",
-				"b":"Let's go singing in the rain!",
+				"question": "En días de lluvia:",
+				"a": "¡Maldición!",
+				"b": "¡Vamos a cantar bajo la lluvia!",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"[partenaireName] is more cake or pie?",
-				"a":"Cake",
-				"b":"Pie",
+				"question":"[partenaireName] es más pastel o tarta?",
+				"a": "Pastel",
+				"b": "Pastel",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"[partenaireName] most entertained:",
-				"a":"Outside",
-				"b":"Staying at home",
+				"question":"[partenaireName] más entretenido:",
+				"a": "Fuera",
+				"b": "Quedarse en casa",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"In the bed:",
-				"a":"[partenaireName] take the front",
-				"b":"He \/ She lets me do",
-				"c":"We did it together",
+				"question": "En la cama:",
+				"a":"[partenaireName] tomar el frente",
+				"b": "Él/Ella me deja hacer",
+				"c": "Lo hicimos juntos",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"The best evening plan for [partenaireName]?",
-				"a":"Dinner in a chic restaurant",
-				"b":"Small barbecue in the garden",
+				"question": "¿El mejor plan de noche para [partenaireName]?",
+				"a": "Cena en un restaurante elegante",
+				"b": "Pequeña barbacoa en el jardín",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"For the choice of vehicle:",
-				"a":"Car",
-				"b":"Truck",
-				"c":"SUV",
-				"d":"Moto",
-				"e":"I need the 4"
+				"question": "Para la elección del vehículo:",
+				"a": "Coche",
+				"b": "Camión",
+				"c": "SUV",
+				"d": "Moto",
+				"e": "Necesito el 4"
 			},
 			"question_8":{
 				"question":"",
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

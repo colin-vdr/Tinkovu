@@ -1,48 +1,48 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Press the card to answer the questions",
-				"title_faceB":"Tap next button below",
-				"endtitle_A":"We will see if [partenaireName] knows you well!"
+			"por defecto":{
+				"title_faceA": "Pulse la tarjeta para responder a las preguntas",
+				"title_faceB": "Pulse el 'siguiente' botón de abajo",
+				"endtitle_A": "¡Vamos a ver si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
-				"question":"Do you want to get married?",
-				"a":"Yes for sure",
-				"b":"No",
+				"question": "¿Quieres casarte?",
+				"a": "Sí, seguro",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"How long should you be in a relationship before you marry?",
-				"a":"Some months",
-				"b":"One year",
-				"c":"Two years",
-				"d":"More than two",
+				"question": "¿Cuánto tiempo deberías estar en una relación antes de casarte?",
+				"a": "Algunos meses",
+				"b": "Un año",
+				"c": "Dos años",
+				"d": "Más de dos",
 				"e":""
 			},
 			"question_3":{
-				"question":"Does a marriage mean that you just belong to each other?",
-				"a":"Absolutely yes",
-				"b":"No, you should also be available for the people around you",
+				"question": "¿Significa el matrimonio que sólo se pertenecen el uno al otro?",
+				"a": "Absolutamente sí",
+				"b": "No, también debes estar disponible para la gente que te rodea",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Who should have the leading position in the marriage?",
-				"a":"The man",
-				"b":"The woman",
-				"c":"Both",
+				"question": "¿Quién debe tener la posición de liderazgo en el matrimonio?",
+				"a": "El hombre",
+				"b": "La mujer",
+				"c": "Ambos",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Who should do the proposal?",
-				"a":"The guy",
-				"b":"The girl",
-				"c":"It doesn't matter",
+				"question": "¿Quién debe hacer la propuesta?",
+				"a": "El chico",
+				"b": "La chica",
+				"c": "No importa",
 				"d":"",
 				"e":""
 			},
@@ -89,45 +89,45 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Here are your results:"
+				"endtitle_B": "Aquí están los resultados:"
 			},
 			"question_1":{
-				"question":"Does [partenaireName] want to get married?",
-				"a":"Yes for sure",
-				"b":"No",
+				"question": "¿Quiere [partenaireName] casarse?",
+				"a": "Sí, seguro",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"How long should [partenaireName] be in a relationship before you marry?",
-				"a":"Some months",
-				"b":"One year",
-				"c":"Two years",
-				"d":"More than two",
+				"question": "¿Cuánto tiempo debería estar [partenaireName] en una relación antes de casarse?",
+				"a": "Algunos meses",
+				"b": "Un año",
+				"c": "Dos años",
+				"d": "Más de dos",
 				"e":""
 			},
 			"question_3":{
-				"question":"Does a marriage mean that you just belong to each other?",
-				"a":"Absolutely yes",
-				"b":"No, you should also be available for the people around you",
+				"question": "¿Significa el matrimonio que sólo se pertenecen el uno al otro?",
+				"a": "Absolutamente sí",
+				"b": "No, también debes estar disponible para la gente que te rodea",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Who should have the leading position in the marriage?",
-				"a":"The man",
-				"b":"The woman",
-				"c":"Both",
+				"question": "¿Quién debe tener la posición de liderazgo en el matrimonio?",
+				"a": "El hombre",
+				"b": "La mujer",
+				"c": "Ambos",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Who should do the proposal?",
-				"a":"The guy",
-				"b":"The girl",
-				"c":"It doesn't matter",
+				"question": "¿Quién debe hacer la propuesta?",
+				"a": "El chico",
+				"b": "La chica",
+				"c": "No importa",
 				"d":"",
 				"e":""
 			},
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

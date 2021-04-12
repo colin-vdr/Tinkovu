@@ -1,63 +1,63 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Tap the card to reply to a question",
-				"title_faceB":"Tap the 'next' button below",
-				"endtitle_A":"We\u2019ll see if your friends knows you well!"
+			"por defecto":{
+				"title_faceA": "Toca la tarjeta para responder a una pregunta",
+				"title_faceB": "Toca el botón 'siguiente' de abajo",
+				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
 			},
 			"question_1":{
-				"question":"Do you prefer high heels or flats ?",
-				"a":"High heels",
-				"b":"Flat",
+				"question": "¿Prefieres los zapatos de tacón o los planos?",
+				"a": "Tacones altos",
+				"b": "Piso",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"Which do you wear more frequently, t-shirts or shirts/blouses?",
-				"a":"T-shirts",
-				"b":"Shirts/blouses",
+				"question": "¿Qué usas con más frecuencia, camisetas o camisas/blusas?",
+				"a": "Camisetas",
+				"b": "Camisas/blusas",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"Do you prefer colorful or plain clothes?",
-				"a":"Definitely colorful!",
-				"b":"I prefer to look sober",
-				"c":"A little of both!",
+				"question": "¿Prefieres la ropa colorida o lisa?",
+				"a": "¡Definitivamente colorida!",
+				"b": "Prefiero parecer sobrio",
+				"c": "¡Un poco de ambos!",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Stripes, dots or checks?",
-				"a":"Scratches",
-				"b":"Dots",
-				"c":"Checks",
+				"question": "¿Rayas, puntos o cuadros?",
+				"a": "Rayas",
+				"b": "Puntos",
+				"c": "Cheques",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"What's your favorite style of clothing?",
-				"a":"Classic",
-				"b":"Modern",
-				"c":"Maximum brands",
-				"d":"Chic",
-				"e":"Streetwear"
+				"question": "¿Cuál es tu estilo de ropa favorito?",
+				"a": "Clásico",
+				"b": "Moderno",
+				"c": "Máximas marcas",
+				"d": "Chic",
+				"e": "Streetwear"
 			},
 			"question_6":{
-				"question":"Do you wear a hat in the winter?",
-				"a":"Yes, it keeps me warm",
-				"b":"No, it looks ridiculous",
+				"question": "¿Llevas sombrero en invierno?",
+				"a": "Sí, me mantiene caliente",
+				"b": "No, se ve ridículo",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"Do you like colorful underwear?",
-				"a":"Yes it adds a little cheerfulness",
-				"b":"No, nobody sees it except my partner anyways",
+				"question": "¿Te gusta la ropa interior de colores?",
+				"a": "Sí, añade un poco de alegría",
+				"b": "No, de todas formas nadie la ve excepto mi pareja",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,60 +89,60 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question":"[partenaireName] prefers high or low shoes?",
-				"a":"High heels",
-				"b":"Flats",
+				"question":"[partenaireName] prefiere zapatos altos o bajos?",
+				"a": "Tacones altos",
+				"b": "Zapatos planos",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"Does [partenaireName] prefer wearing t-shirts or shirts/blouses?",
-				"a":"T-shirts",
-				"b":"Shirts/blouses",
+				"question": "¿Prefiere [partenaireName] llevar camisetas o camisas/blusas?",
+				"a": "Camisetas",
+				"b": "Camisas/blusas",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"Does [partenaireName] prefer colorful or plain clothes?",
-				"a":"Definitely colorful!",
-				"b":"They prefer loking sober",
-				"c":"A little of both!",
+				"question": "¿Prefiere [partenaireName] la ropa colorida o lisa?",
+				"a": "¡Definitivamente colorida!",
+				"b": "Prefieren parecer sobrios",
+				"c": "¡Un poco de ambos!",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Stripes, dots or checks for [partenaireName]?",
-				"a":"Stripes",
-				"b":"Dots",
-				"c":"Checks",
+				"question": "¿Rayas, puntos o cuadros para [partenaireName]?",
+				"a": "Rayas",
+				"b": "Puntos",
+				"c": "Cheques",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"What's [partenaireName]'s favorite clothing style ?",
-				"a":"Classic",
-				"b":"Modern",
-				"c":"Maximum brands",
-				"d":"Chic",
-				"e":"Streetwear"
+				"question": "¿Cuál es el estilo de ropa favorito de [partenaireName]?",
+				"a": "Clásico",
+				"b": "Moderno",
+				"c": "Máximas marcas",
+				"d": "Chic",
+				"e": "Streetwear"
 			},
 			"question_6":{
-				"question":"If it’s cold in the winter, does [partenaireName] put on a hat?",
-				"a":"Yes, it keeps them warm",
-				"b":"No, it looks  ridiculous on them",
+				"question": "Si hace frío en invierno, ¿se pone [partenaireName] un gorro?",
+				"a": "Sí, los mantiene calientes",
+				"b": "No, les queda ridículo",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"Does [partenaireName] likes colorful underwear?",
-				"a":"Yes it adds a little cheerfulness",
-				"b":"No, nobody sees it except you anyway",
+				"question": "¿A [partenaireName] le gusta la ropa interior de colores?",
+				"a": "Sí, añade un poco de alegría",
+				"b": "No, de todas formas nadie la ve excepto tú",
 				"c":"",
 				"d":"",
 				"e":""
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

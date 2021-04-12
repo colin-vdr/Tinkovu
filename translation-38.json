@@ -1,55 +1,55 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Tap the card to reply to an answer",
-				"title_faceB":"Tap the 'next' button bellow",
-				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			"por defecto":{
+				"title_faceA": "Toca la tarjeta para responder a una respuesta",
+				"title_faceB": "Toca el botón 'siguiente' abajo",
+				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
 			},
 			"question_1":{
-				"question":"At school you were like ?",
-				"a":"A good student",
-				"b":"A bad student",
-				"c":"A studious student",
-				"d":"Just a regular student",
-				"e":"The famoust one"
+				"question": "En el colegio eras como...",
+				"a": "Un buen estudiante",
+				"b": "Un mal estudiante",
+				"c": "Un estudiante estudioso",
+				"d": "Un estudiante normal",
+				"e": "El famoso"
 			},
 			"question_2":{
-				"question":"What was your favorite subject ?",
-				"a":"Sciences",
-				"b":"Arts",
-				"c":"Language",
-				"d":"P.E",
-				"e":"History"
+				"question": "¿Cuál era tu asignatura favorita?",
+				"a": "Ciencias",
+				"b": "Artes",
+				"c": "Lengua",
+				"d": "Educación Física",
+				"e": "Historia"
 			},
 			"question_3":{
-				"question":"Did you eat at the cafeteria ?",
-				"a":"Yes",
-				"b":"Depends of the day",
-				"c":"No",
+				"question": "¿Has comido en la cafetería?",
+				"a": "Sí",
+				"b": "Depende del día",
+				"c": "No",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Did you have good grades ?",
-				"a":"The average",
-				"b":"Same as everyone  ",
-				"c":"The best grade ",
-				"d":"Not the average",
+				"question": "¿Tuviste buenas notas?",
+				"a": "La media",
+				"b": "La misma que todos",
+				"c": "La mejor nota",
+				"d": "No la media",
 				"e":""
 			},
 			"question_5":{
-				"question":"Do you plan on making long studies ",
-				"a":"Hell yes ",
-				"b":"No, I don't like school ",
-				"c":"I would love to",
+				"question": "Tienes pensado hacer estudios largos",
+				"a": "Por supuesto que sí",
+				"b": "No, no me gusta la escuela",
+				"c": "Me encantaría",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"Were you the class representative ?",
-				"a":"Yes",
-				"b":"No",
+				"question": "¿Fue usted el delegado de la clase?",
+				"a": "Sí",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,45 +89,45 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question":"At school he\/she was ? : ",
-				"a":"A good student",
-				"b":"A bad student",
-				"c":"A studious student",
-				"d":"Just a regular student",
-				"e":"The famoust one"
+				"question": "En la escuela él/ella era..: ",
+				"a": "Un buen estudiante",
+				"b": "Un mal estudiante",
+				"c": "Un estudiante estudioso",
+				"d": "Un estudiante normal",
+				"e": "El famoso"
 			},
 			"question_2":{
-				"question":"What was his\/her favorite subject ?",
-				"a":"Sciences",
-				"b":"Arts",
-				"c":"Language",
-				"d":"P.E",
-				"e":"History"
+				"question": "¿Cuál era su asignatura favorita?",
+				"a": "Ciencias",
+				"b": "Artes",
+				"c": "Lengua",
+				"d": "Educación Física",
+				"e": "Historia"
 			},
 			"question_3":{
-				"question":"Did he\/she eat at the cafeteria ?",
-				"a":"Yes",
-				"b":"Depends of the day",
-				"c":"No",
+				"question": "¿Comió en la cafetería?",
+				"a": "Sí",
+				"b": "Depende del día",
+				"c": "No",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Did he\/she have good grades ?",
-				"a":"The average",
-				"b":"Same as everyone  ",
-				"c":"The best grade ",
-				"d":"Not the average",
+				"question": "¿Tenía buenas notas?",
+				"a": "La media",
+				"b": "La misma que todos",
+				"c": "La mejor nota",
+				"d": "No la media",
 				"e":""
 			},
 			"question_5":{
-				"question":"Do he\/she plan on making long studies ",
-				"a":"Hell yes ",
-				"b":"No, I don't like school ",
-				"c":"I would love to",
+				"question": "¿Piensa hacer estudios largos?",
+				"a": "Claro que sí",
+				"b": "No, no me gusta la escuela",
+				"c": "Me encantaría",
 				"d":"",
 				"e":""
 			},
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

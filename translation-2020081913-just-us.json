@@ -1,63 +1,63 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Tap the card and select your answer",
-				"title_faceB":"Tap the 'next' button below",
-				"endtitle_A":"We\u2019ll see if your partner knows you well!"
+			"por defecto":{
+				"title_faceA": "Toca la tarjeta y selecciona tu respuesta",
+				"title_faceB": "Toca el botón 'siguiente' de abajo",
+				"endtitle_A": "¡Veremos si tu compañero te conoce bien!"
 			},
 			"question_1":{
-				"question":"What you love in [partenaireName] the most ?",
-				"a":"Eyes",
-				"b":"Lips",
-				"c":"Voice",
-				"d":"Nothing",
+				"question": "¿Qué es lo que más te gusta de [partenaireName]?",
+				"a": "Ojos",
+				"b": "Labios",
+				"c": "Voz",
+				"d": "Nada",
 				"e":""
 			},
 			"question_2":{
-				"question":"Which time did you like the most being with [partenaireName] ?",
-				"a":"Dawn",
-				"b":"Afternoon",
-				"c":"Evening",
-				"d":"Night",
+				"question": "¿Qué momento te ha gustado más de estar con [partenaireName]?",
+				"a": "Amanecer",
+				"b": "Tarde",
+				"c": "Tarde",
+				"d": "Noche",
 				"e":""
 			},
 			"question_3":{
-				"question":"You love [partenaireName] because of?",
-				"a":"He\/She is gentle",
-				"b":"He\/She is smart",
-				"c":"Anything else",
+				"question": "¿Amas a [partenaireName] por?",
+				"a": "Él/ella es gentil",
+				"b": "Él/ella es inteligente",
+				"c": "Cualquier otra cosa",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Do you share secrets?",
-				"a":"Yes",
-				"b":"No",
-				"c":"Sometimes",
+				"question": "¿Compartes secretos?",
+				"a": "Sí",
+				"b": "No",
+				"c": "A veces",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Do you trust [partenaireName] ?",
-				"a":"Yes",
-				"b":"No",
-				"c":"It's hard",
-				"d":"Rarely",
+				"question": "¿Confía en [partenaireName]?",
+				"a": "Sí",
+				"b": "No",
+				"c": "Es difícil",
+				"d": "Rara vez",
 				"e":""
 			},
 			"question_6":{
-				"question":"Will you be with [partenaireName] forever ?",
-				"a":"Yes",
-				"b":"No, when married",
-				"c":"Always",
+				"question": "¿Estarás con [partenaireName] para siempre?",
+				"a": "Sí",
+				"b": "No, cuando esté casado",
+				"c": "Siempre",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"How much do you love [partenaireName] ?",
-				"a":"Much is used for uncountable things",
-				"b":"Can't express",
+				"question": "¿Cuánto quieres a [partenaireName]?",
+				"a": "Mucho se usa para cosas incontables",
+				"b": "No se puede expresar",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,60 +89,60 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question":"What [partenaireName] loves in you the most ?",
-				"a":"Eyes",
-				"b":"Lips",
-				"c":"Voice",
-				"d":"Nothing",
+				"question": "¿Qué es lo que más le gusta a [partenaireName]?",
+				"a": "Ojos",
+				"b": "Labios",
+				"c": "Voz",
+				"d": "Nada",
 				"e":""
 			},
 			"question_2":{
-				"question":"Which time did [partenaireName] likes the most being with you?",
-				"a":"Dawn",
-				"b":"Afternoon",
-				"c":"Evening",
-				"d":"Night",
+				"question": "¿A qué hora le gusta más estar contigo a [partenaireName]?",
+				"a": "Amanecer",
+				"b": "Tarde",
+				"c": "Tarde",
+				"d": "Noche",
 				"e":""
 			},
 			"question_3":{
-				"question":"[partenaireName] loves you because of?",
-				"a":"He\/She is gentle",
-				"b":"He\/She is smart",
-				"c":"Anything else",
+				"question":"[partenaireName] te quiere por...",
+				"a": "Él/ella es gentil",
+				"b": "Él/ella es inteligente",
+				"c": "Cualquier otra cosa",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Did [partenaireName] share secrets?",
-				"a":"Yes",
-				"b":"No",
-				"c":"Sometimes",
+				"question": "¿Compartió [partenaireName] secretos?",
+				"a": "Sí",
+				"b": "No",
+				"c": "A veces",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Did [partenaireName] trust you?",
-				"a":"Yes",
-				"b":"No",
-				"c":"It's hard",
-				"d":"Rarely",
+				"question": "¿Confió [partenaireName] en usted?",
+				"a": "Sí",
+				"b": "No",
+				"c": "Es difícil",
+				"d": "Rara vez",
 				"e":""
 			},
 			"question_6":{
-				"question":"Will [partenaireName] be with you forever?",
-				"a":"Yes",
-				"b":"No, when married",
-				"c":"Always",
+				"question": "¿Estará [partenaireName] contigo para siempre?",
+				"a": "Sí",
+				"b": "No, cuando esté casado",
+				"c": "Siempre",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"How much [partenaireName] loves you?",
-				"a":"Much is used for uncountable things",
-				"b":"Can't express",
+				"question": "¿Cuánto te quiere [partenaireName]?",
+				"a": "Mucho se usa para cosas incontables",
+				"b": "No se puede expresar",
 				"c":"",
 				"d":"",
 				"e":""
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

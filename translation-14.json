@@ -1,56 +1,56 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Tap the card to reply to an answer",
-				"title_faceB":"Tap the 'next' button below",
-				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
+			"por defecto":{
+				"title_faceA": "Toca la tarjeta para responder a una respuesta",
+				"title_faceB": "Toca el botón 'siguiente' de abajo",
+				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
-				"question":"Dogs or cats?",
-				"a":"Dogs",
-				"b":"Cats",
-				"c":"Neither",
+				"question": "¿Perros o gatos?",
+				"a": "Perros",
+				"b": "Gatos",
+				"c": "Ninguno de los dos",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"If you adopted a dog with [partenaireName] who would walk it everyday?",
-				"a":"Me",
+				"question": "Si adoptaras un perro con [partenaireName] ¿quién lo pasearía todos los días?",
+				"a": "Yo",
 				"b":"[partenaireName]",
-				"c":"Each in turn",
+				"c": "Cada uno por su lado",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"How many cats would you like?",
-				"a":"1",
-				"b":"2",
-				"c":"3",
-				"d":"4 or more",
-				"e":"I don\u2019t want any it"
+				"question": "¿Cuántos gatos quieres?",
+				"a": "1",
+				"b": "2",
+				"c": "3",
+				"d": "4 o más",
+				"e": "No quiero ninguno"
 			},
 			"question_4":{
-				"question":"Which unique pet would you like to own?",
-				"a":"A bird",
-				"b":"A turtle",
-				"c":"A snake",
-				"d":"A lizard",
+				"question": "¿Qué mascota única te gustaría tener?",
+				"a": "Un pájaro",
+				"b": "Una tortuga",
+				"c": "Una serpiente",
+				"d": "Un lagarto",
 				"e":""
 			},
 			"question_5":{
-				"question":"Would  you want a little goldfish?",
-				"a":"Yes, it would be  cute",
-				"b":"No, it would be boring to maintain",
-				"c":"I don\u2019t care",
+				"question": "¿Quieres un pececito?",
+				"a": "Sí, sería bonito",
+				"b": "No, sería aburrido de mantener",
+				"c": "No me importa",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"[partenaireName] gets back home with a rabbit in their  hands, how do you feel?",
-				"a":"I\u2019m super happy",
-				"b":"I don\u2019t know how to tell them I don't want it",
-				"c":"I don\u2019t care",
+				"question":"[partenaireName] vuelve a casa con un conejo en sus manos, ¿cómo te sientes?",
+				"a": "Estoy súper feliz",
+				"b": "No sé cómo decirles que no lo quiero",
+				"c": "No me importa",
 				"d":"",
 				"e":""
 			},
@@ -89,53 +89,53 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question":"Would [partenaireName] prefer having a  dog or a cat?",
-				"a":"Dog",
-				"b":"Chat",
-				"c":"Neither",
+				"question": "¿Preferiría [partenaireName] tener un perro o un gato?",
+				"a": "Perro",
+				"b": "Chat",
+				"c": "Ninguno de los dos",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"If you adopted a dog with  [partenaireName] who would take it for a walk?",
+				"question": "Si adoptaras un perro con [partenaireName] ¿quién lo sacaría a pasear?",
 				"a":"[partenaireName]",
-				"b":"Me",
-				"c":"Each in turn",
+				"b": "Yo",
+				"c": "Cada uno por su lado",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"How many cats would [partenaireName] like to have?",
-				"a":"1",
-				"b":"2",
-				"c":"3",
-				"d":"4 or more",
-				"e":"They don't want any"
+				"question": "¿Cuántos gatos le gustaría tener a [partenaireName]?",
+				"a": "1",
+				"b": "2",
+				"c": "3",
+				"d": "4 o más",
+				"e": "No quieren ninguno"
 			},
 			"question_4":{
-				"question":"Which unique pet would [partenaireName] like to have?",
-				"a":"A bird",
-				"b":"A turtle",
-				"c":"A snake",
-				"d":"A lizards",
+				"question": "¿Qué mascota única le gustaría tener a [partenaireName]?",
+				"a": "Un pájaro",
+				"b": "Una tortuga",
+				"c": "Una serpiente",
+				"d": "Un lagarto",
 				"e":""
 			},
 			"question_5":{
-				"question":"Do you think [partenaireName] would like a small goldfish?",
-				"a":"Yes, it would be cute",
-				"b":"No, it would be boring to maintain",
-				"c":"They don't care",
+				"question": "¿Crees que a [partenaireName] le gustaría un pez de colores pequeño?",
+				"a": "Sí, sería bonito",
+				"b": "No, sería aburrido de mantener",
+				"c": "No les interesa",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"You come back home with a rabbit in your hands, how do they react?",
-				"a":"[partenaireName] is super happy",
-				"b":"They wouldn't know how to tell me  that they  don't like it",
-				"c":"They wouldn't care",
+				"question": "Vuelves a casa con un conejo en las manos, ¿cómo reaccionan?",
+				"a":"[partenaireName] está súper contento",
+				"b": "No sabrían decirme que no les gusta",
+				"c": "No les importaría",
 				"d":"",
 				"e":""
 			},
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

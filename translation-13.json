@@ -1,55 +1,55 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Tap the card to reply to an answer",
-				"title_faceB":"Tap the 'next' button below",
-				"endtitle_A":"We\u2019ll see if your friends knows you well!"
+			"por defecto":{
+				"title_faceA": "Toca la tarjeta para responder a una respuesta",
+				"title_faceB": "Toca el botón 'siguiente' de abajo",
+				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
 			},
 			"question_1":{
-				"question":"Do you take a shower/bath in the morning or in the evening?",
-				"a":"Morning",
-				"b":"Evening",
+				"question": "¿Te duchas/bañas por la mañana o por la noche?",
+				"a": "Por la mañana",
+				"b": "Por la tarde",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"How long do you take in the shower/bathtub?",
-				"a":"Very cold",
-				"b":"Cold",
-				"c":"Hot",
-				"d":"Very hot",
+				"question": "¿Cuánto tiempo tardas en la ducha/bañera?",
+				"a": "Muy fría",
+				"b": "Fría",
+				"c": "Caliente",
+				"d": "Muy caliente",
 				"e":""
 			},
 			"question_3":{
-				"question":"How long does your shower take?",
-				"a":"Less than 5 minutes",
-				"b":"10 minutes",
-				"c":"15 minutes",
-				"d":"30 minutes",
+				"question": "¿Cuánto tiempo tarda en ducharse?",
+				"a": "Menos de 5 minutos",
+				"b": "10 minutos",
+				"c": "15 minutos",
+				"d": "30 minutos",
 				"e":""
 			},
 			"question_4":{
-				"question":"Do you put on the toothpaste and wet the toothbrush or vice versa?",
-				"a":"First toothpaste",
-				"b":"I wet the toothbrush first",
-				"c":"I don\u2019t wet the brush",
+				"question": "¿Se pone la pasta de dientes y se moja el cepillo o viceversa?",
+				"a": "Primero la pasta de dientes",
+				"b": "Primero mojo el cepillo de dientes",
+				"c": "No mojo el cepillo",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Do you prefer being in the bathtub, with or without [partenaireName]?",
-				"a":"Together is always better!",
-				"b":"Alone, to have some peace",
-				"c":"It depends",
+				"question": "¿Prefieres estar en la bañera, con o sin [partenaireName]?",
+				"a": "¡Juntos es siempre mejor!",
+				"b": "Solo, para tener un poco de paz",
+				"c": "Depende",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"Do you sing in the shower?",
-				"a":"Yes I love it",
-				"b":"Not really",
+				"question": "¿Cantas en la ducha?",
+				"a": "Sí, me encanta",
+				"b": "En realidad no",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,52 +89,52 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question":"Does [partenaireName] prefer taking showers/baths in the morning or in the evening?",
-				"a":"Morning",
-				"b":"Evening",
+				"question": "¿Prefiere [partenaireName] ducharse o bañarse por la mañana o por la tarde?",
+				"a": "Por la mañana",
+				"b": "Por la tarde",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"What's the Ideal water temperature to [partenaireName]?",
-				"a":"Very cold",
-				"b":"Cold",
-				"c":"Hot",
-				"d":"Very hot",
+				"question": "¿Cuál es la temperatura ideal del agua para [partenaireName]?",
+				"a": "Muy fría",
+				"b": "Fría",
+				"c": "Caliente",
+				"d": "Muy caliente",
 				"e":""
 			},
 			"question_3":{
-				"question":"How long does [partenaireName] take in the shower?",
-				"a":"Less than 5 minutes",
-				"b":"10 minutes",
-				"c":"15 minutes",
-				"d":"30 minutes",
+				"question": "¿Cuánto tiempo tarda [partenaireName] en ducharse?",
+				"a": "Menos de 5 minutos",
+				"b": "10 minutos",
+				"c": "15 minutos",
+				"d": "30 minutos",
 				"e":""
 			},
 			"question_4":{
-				"question":"Does [partenaireName] put the toothpaste on and then wets the toothbrush or vice versa?",
-				"a":"Toothpaste first",
-				"b":"They wet the toothbrush first",
-				"c":"They do not wet the toothbrush",
+				"question": "¿Se pone [partenaireName] la pasta de dientes y luego moja el cepillo de dientes o viceversa?",
+				"a": "Primero la pasta de dientes",
+				"b": "Mojan el cepillo de dientes primero",
+				"c": "No mojan el cepillo de dientes",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Does [partenaireName] prefer being in the bathtub, with or without you?",
-				"a":"Together is always better!",
-				"b":"Alone, to have some peace",
-				"c":"It depends",
+				"question": "¿Prefiere [partenaireName] estar en la bañera, con o sin ti?",
+				"a": "¡Juntos es siempre mejor!",
+				"b": "Solo, para tener un poco de paz",
+				"c": "Depende",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"Does [partenaireName] sing in the shower?",
-				"a":"Yes he\/she loves it",
-				"b":"Not really",
+				"question": "¿Canta [partenaireName] en la ducha?",
+				"a": "Sí, le encanta",
+				"b": "En realidad no",
 				"c":"",
 				"d":"",
 				"e":""
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

@@ -1,58 +1,58 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Tap the card and select your answer",
-				"title_faceB":"Tap the 'next' button below",
-				"endtitle_A":"We\u2019ll see if your partner knows you well!"
+			"por defecto":{
+				"title_faceA": "Toca la tarjeta y selecciona tu respuesta",
+				"title_faceB": "Toca el botón 'siguiente' de abajo",
+				"endtitle_A": "¡Veremos si tu compañero te conoce bien!"
 			},
 			"question_1":{
-				"question":"What is your biggest turn on?",
-				"a":"Hearing",
-				"b":"Tasting",
-				"c":"Smelling",
-				"d":"Feeling",
-				"e":"Something else"
+				"question": "¿Qué es lo que más te excita?",
+				"a": "Oír",
+				"b": "Saborear",
+				"c": "Olor",
+				"d": "Sentir",
+				"e": "Algo más"
 			},
 			"question_2":{
-				"question":"What's your favorite thing about your partner?",
-				"a":"Sexy smile",
-				"b":"Pretty eyes",
-				"c":"Nice body",
-				"d":"Good personality",
+				"question": "¿Qué es lo que más te gusta de tu pareja?",
+				"a": "Sonrisa sexy",
+				"b": "Ojos bonitos",
+				"c": "Buen cuerpo",
+				"d": "Buena personalidad",
 				"e":""
 			},
 			"question_3":{
-				"question":"What drives you crazy?",
-				"a":"The way they look at you",
-				"b":"Holding you",
-				"c":"Something dirtier",
+				"question": "¿Qué te vuelve loco?",
+				"a": "La forma en que te miran",
+				"b": "Abrazarte",
+				"c": "Algo más sucio",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"What's a fast way to turn on?",
-				"a":"Get to it quick",
-				"b":"Slow wind down",
-				"c":"Tease",
-				"d":"Slam on the gas",
+				"question": "¿Cuál es una forma rápida de encender?",
+				"a": "Enciéndelo rápido",
+				"b": "Enrollar lentamente",
+				"c": "Provocar",
+				"d": "Pisar el acelerador",
 				"e":""
 			},
 			"question_5":{
-				"question":"What is your little guilty pleasure?",
-				"a":"Chocolate fantasy",
-				"b":"Morning wakeups",
-				"c":"Phone secret",
-				"d":"Dress up",
-				"e":"Toys"
+				"question": "¿Cuál es tu pequeño placer culpable?",
+				"a": "Fantasía de chocolate",
+				"b": "Despertares matutinos",
+				"c": "Secreto telefónico",
+				"d": "Vestirse",
+				"e": "Juguetes"
 			},
 			"question_6":{
-				"question":"One sensual spot:",
-				"a":"The chest",
-				"b":"Thighs",
-				"c":"Ears",
-				"d":"Neck",
-				"e":"Other"
+				"question": "Un punto sensual:",
+				"a": "El pecho",
+				"b": "Muslos",
+				"c": "Orejas",
+				"d": "Cuello",
+				"e": "Otros"
 			},
 			"question_7":{
 				"question":"",
@@ -89,55 +89,55 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question":"What is [partenaireName]'s biggest turn on?",
-				"a":"Hearing",
-				"b":"Tasting",
-				"c":"Smelling",
-				"d":"Feeling",
-				"e":"Something else"
+				"question": "¿Cuál es el mayor encendido de [partenaireName]?",
+				"a": "Oír",
+				"b": "Degustación",
+				"c": "Olor",
+				"d": "Sentir",
+				"e": "Algo más"
 			},
 			"question_2":{
-				"question":"What does [partenaireName] like best about you?",
-				"a":"Sexy smile",
-				"b":"Pretty eyes",
-				"c":"Nice body",
-				"d":"Good personality",
+				"question": "¿Qué es lo que más le gusta a [partenaireName] de ti?",
+				"a": "Sonrisa sexy",
+				"b": "Ojos bonitos",
+				"c": "Buen cuerpo",
+				"d": "Buena personalidad",
 				"e":""
 			},
 			"question_3":{
-				"question":"What drives [partenaireName] crazy?",
-				"a":"The way they look at you",
-				"b":"Holding you",
-				"c":"Something dirtier",
+				"question": "¿Qué vuelve loco a [partenaireName]?",
+				"a": "La forma en que te miran",
+				"b": "Abrazarte",
+				"c": "Algo más sucio",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"What's a fast way to turn [partenaireName] on?",
-				"a":"Get to it quick",
-				"b":"Slow wind down",
-				"c":"Tease",
-				"d":"Slam on the gas",
+				"question": "¿Cuál es una forma rápida de encender [partenaireName]?",
+				"a": "Ponerse a ello rápidamente",
+				"b": "Enfriar lentamente",
+				"c": "Provocar",
+				"d": "Pisar el acelerador",
 				"e":""
 			},
 			"question_5":{
-				"question":"What is [partenaireName] 's guilty pleasure ?",
-				"a":"Chocolate fantasy",
-				"b":"Morning wakeups",
-				"c":"Phone secret",
-				"d":"Dress up",
-				"e":"Toys"
+				"question": "¿Cuál es el placer culpable de [partenaireName]?",
+				"a": "Fantasía de chocolate",
+				"b": "Despertares matutinos",
+				"c": "Secreto telefónico",
+				"d": "Vestirse",
+				"e": "Juguetes"
 			},
 			"question_6":{
 				"question":"[partenaireName] 's sensual spot:",
-				"a":"The chest",
-				"b":"Thighs",
-				"c":"Ears",
-				"d":"Neck",
-				"e":"Other"
+				"a": "El pecho",
+				"b": "Muslos",
+				"c": "Orejas",
+				"d": "Cuello",
+				"e": "Otros"
 			},
 			"question_7":{
 				"question":"",
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

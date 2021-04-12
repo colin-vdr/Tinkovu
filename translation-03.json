@@ -1,55 +1,54 @@
-{
 	"es":{
 		"a":{
 			"default":{
-				"title_faceA":"Tap the card to select an answer",
-				"title_faceB":"Tap the 'next' button bellow",
-				"endtitle_A":"We\u2019ll see if your friends know you well!"
+				"title_faceA": "Toca la tarjeta para seleccionar una respuesta",
+				"title_faceB": "Toca el botón 'siguiente' abajo",
+				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
 			},
 			"question_1":{
-				"question":"Do you put the milk before or after the cereal?",
-				"a":"Milk before cereal",
-				"b":"Cereal before milk",
+				"question": "¿Pones la leche antes o después de los cereales?",
+				"a": "Leche antes de los cereales",
+				"b": "El cereal antes de la leche",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"What do you prefer to spread your butter on?",
-				"a":"Bread",
-				"b":"Biscuits ",
-				"c":"Toast",
-				"d":"I don\u2019t like butter",
+				"question": "¿En qué prefiere untar la mantequilla?",
+				"a": "Pan",
+				"b": "Galletas",
+				"c": "Tostada",
+				"d": "No me gusta la mantequilla",
 				"e":""
 			},
 			"question_3":{
-				"question":"How do you like your juice in the morning? ",
-				"a":"Homemade, with fresh oranges",
-				"b":"In a juice box from the supermarket",
-				"c":"I don\u2019t drink juice in the morning",
+				"question": "¿Cómo te gusta el zumo por la mañana? ",
+				"a": "Hecho en casa, con naranjas frescas",
+				"b": "En una caja de zumo del supermercado",
+				"c": "No bebo zumo por la mañana",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"What do you do during breakfast?",
-				"a":"I watch TV",
-				"b":"I read the news",
-				"c":"I\u2019m on my phone",
+				"question": "¿Qué haces durante el desayuno?",
+				"a": "Veo la televisión",
+				"b": "Leo las noticias",
+				"c": "Estoy en mi teléfono",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Do you dip your bread in milk?",
-				"a":"Yes, I love it",
-				"b":"No, the bread becomes soft afterwards",
-				"c":"I prefer dipping it in coffee",
+				"question": "¿Mojas el pan en leche?",
+				"a": "Sí, me encanta",
+				"b": "No, el pan se ablanda después",
+				"c": "Prefiero mojarlo en café",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"Chocolate bread or croissants?",
-				"a":"Chocolate Bread",
-				"b":"Croissants",
+				"question": "¿Pan de chocolate o croissants?",
+				"a": "Pan de chocolate",
+				"b": "Croissants",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,52 +88,52 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question":"Does [partenaireName] pour milk before or after cereal?",
-				"a":"Milk before cereal",
-				"b":"Cereal before milk",
+				"question": "¿Se sirve [partenaireName] la leche antes o después de los cereales?",
+				"a": "Leche antes de los cereales",
+				"b": "Cereal antes de la leche",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"what does [partenaireName] like spreading  butter on?",
-				"a":"Bread",
-				"b":"Biscuits",
-				"c":"Toast",
-				"d":"They don't like butter",
+				"question": "¿con qué le gusta a [partenaireName] untar la mantequilla?",
+				"a": "Pan",
+				"b": "Galletas",
+				"c": "Tostadas",
+				"d": "No les gusta la mantequilla",
 				"e":""
 			},
 			"question_3":{
-				"question":"How does [partenaireName] like their juice in the morning?",
-				"a":"Homemade, with fresh oranges",
-				"b":"In a cardboard box  from the supermarket",
-				"c":"They don't drink juice in the morning",
+				"question": "¿Cómo le gusta a [partenaireName] su zumo por la mañana?",
+				"a": "Hecho en casa, con naranjas frescas",
+				"b": "En una caja de cartón del supermercado",
+				"c": "No beben zumo por la mañana",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"What does [partenaireName] do while having breakfast?",
-				"a":"They watch TV",
-				"b":"They read the news",
-				"c":"They're on their phone",
+				"question": "¿Qué hace [partenaireName] mientras desayuna?",
+				"a": "Ven la televisión",
+				"b": "Leen las noticias",
+				"c": "Están hablando por teléfono",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Does [partenaireName] dip their bread in milk?",
-				"a":"Yes!",
-				"b":"No, because the bread becomes soft afterwards ",
-				"c":"They prefer dipping it in coffee",
+				"question": "¿Mezcla [partenaireName] el pan en la leche?",
+				"a": "¡Sí!",
+				"b": "No, porque el pan se ablanda después",
+				"c": "Prefieren mojarlo en café",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"Does [partenaireName] prefer chocolate bread or croissants?",
-				"a":"Chocolate Bread",
-				"b":"Croissants",
+				"question": "¿Prefiere [partenaireName] el pan de chocolate o los croissants?",
+				"a": "Pan de chocolate",
+				"b": "Croissants",
 				"c":"",
 				"d":"",
 				"e":""
@@ -173,4 +172,3 @@
 			}
 		}
 	}
-}

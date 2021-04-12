@@ -1,79 +1,79 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Press the card to answer the questions",
-				"title_faceB":"Press the next button",
-				"endtitle_A":"We will see if [partenaireName] knows you well!"
+			"por defecto":{
+				"title_faceA": "Pulsa la tarjeta para responder a las preguntas",
+				"title_faceB": "Pulse el botón siguiente",
+				"endtitle_A": "¡Vamos a ver si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
-				"question":"What are you most likely?",
-				"a":"Optimist",
-				"b":"Pessimist",
-				"c":"Realist",
+				"question": "¿Qué es lo más probable para ti?",
+				"a": "Optimista",
+				"b": "Pesimista",
+				"c": "Realista",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"What do you prefer?",
-				"a":"Sunrise",
-				"b":"Sunset",
+				"question": "¿Qué prefieres?",
+				"a": "Amanecer",
+				"b": "Puesta de sol",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"How long could you be without mobile phone when you are with your loved one?",
-				"a":"0 days",
-				"b":"1-7 days",
-				"c":"8-14 days",
-				"d":"15-30 days",
-				"e":"more than 30 days"
+				"question": "¿Cuánto tiempo puede estar sin teléfono móvil cuando está con su ser querido?",
+				"a": "0 días",
+				"b": "1-7 días",
+				"c": "8-14 días",
+				"d": "15-30 días",
+				"e": "más de 30 días"
 			},
 			"question_4":{
-				"question":"Do you think one can be reborn?",
-				"a":"Yes",
-				"b":"No",
-				"c":"Never thought about it",
+				"question": "¿Cree que se puede renacer?",
+				"a": "Sí",
+				"b": "No",
+				"c": "Nunca lo he pensado",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Are you a very curious person?",
-				"a":"Yes",
-				"b":"Sometimes",
-				"c":"No",
+				"question": "¿Eres una persona muy curiosa?",
+				"a": "Sí",
+				"b": "A veces",
+				"c": "No",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"Did you have times in life when you thought you'd never find a partner?",
-				"a":"Yes",
-				"b":"No",
+				"question": "¿Has tenido momentos en la vida en los que pensaste que nunca encontrarías pareja?",
+				"a": "Sí",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"Did you ever think about cheating on your partner?",
-				"a":"Yes",
-				"b":"No",
-				"c":"No comment",
-				"d":"What is the definition of cheating?",
+				"question": "¿Has pensado alguna vez en engañar a tu pareja?",
+				"a": "Sí",
+				"b": "No",
+				"c": "Sin comentarios",
+				"d": "¿Cuál es la definición de engaño?",
 				"e":""
 			},
 			"question_8":{
-				"question":"How long took it until you fell in love with your partner?",
-				"a":"1 date",
-				"b":"2-6 dates",
-				"c":"7-10 dates",
-				"d":"More than 10 dates",
+				"question": "¿Cuánto tiempo pasó hasta que te enamoraste de tu pareja?",
+				"a": "1 fecha",
+				"b": "2-6 citas",
+				"c": "7-10 citas",
+				"d": "Más de 10 citas",
 				"e":""
 			},
 			"question_9":{
-				"question":"Can you imagine being together with your partner for the rest of your lives?",
-				"a":"Yes",
-				"b":"No",
+				"question": "¿Te imaginas estar junto a tu pareja el resto de vuestras vidas?",
+				"a": "Sí",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,76 +89,76 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Here are your results:"
+				"endtitle_B": "Aquí están los resultados:"
 			},
 			"question_1":{
-				"question":"[partenaireName] is rather:",
-				"a":"Optimist",
-				"b":"Pessimist",
-				"c":"Realist",
+				"question":"[partenaireName] es más bien:",
+				"a": "Optimista",
+				"b": "Pesimista",
+				"c": "Realista",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"What [partenaireName] prefers?",
-				"a":"Sunrise",
-				"b":"Sunset",
+				"question": "¿Qué prefiere [partenaireName]?",
+				"a": "Amanecer",
+				"b": "Puesta de sol",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"How long could be [partenaireName] without mobile phone when you are with your loved one?",
-				"a":"0 days",
-				"b":"1-7 days",
-				"c":"8-14 days",
-				"d":"15-30 days",
-				"e":"more than 30 days"
+				"question": "¿Cuánto tiempo puede estar [partenaireName] sin teléfono móvil cuando está con su ser querido?",
+				"a": "0 días",
+				"b": "1-7 días",
+				"c": "8-14 días",
+				"d": "15-30 días",
+				"e": "más de 30 días"
 			},
 			"question_4":{
-				"question":"Do [partenaireName] thinks one can be reborn?",
-				"a":"Yes",
-				"b":"No",
-				"c":"Never thought about it",
+				"question": "¿Cree [partenaireName] que se puede renacer?",
+				"a": "Sí",
+				"b": "No",
+				"c": "Nunca lo he pensado",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"[partenaireName] is a very curious person?",
-				"a":"Yes",
-				"b":"Sometimes",
-				"c":"No",
+				"question":"[partenaireName] es una persona muy curiosa?",
+				"a": "Sí",
+				"b": "A veces",
+				"c": "No",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"Did [partenaireName] has times in life when he\/she thought she\/he'd never find a partner?",
-				"a":"Yes",
-				"b":"No",
+				"question": "¿Ha tenido [partenaireName] momentos en la vida en los que pensó que nunca encontraría una pareja?",
+				"a": "Sí",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"Did [partenaireName] ever thinks about cheating on you?",
-				"a":"Yes",
-				"b":"No",
-				"c":"No comment",
-				"d":"What is the definition of cheating?",
+				"question": "¿Alguna vez [partenaireName] pensó en engañarte?",
+				"a": "Sí",
+				"b": "No",
+				"c": "Sin comentarios",
+				"d": "¿Cuál es la definición de engaño?",
 				"e":""
 			},
 			"question_8":{
-				"question":"How long took it until you fell in love with [partenaireName]?",
-				"a":"1 date",
-				"b":"2-6 dates",
-				"c":"7-10 dates",
-				"d":"More than 10 dates",
+				"question": "¿Cuánto tiempo pasó hasta que te enamoraste de [partenaireName]?",
+				"a": "1 fecha",
+				"b": "2-6 citas",
+				"c": "7-10 citas",
+				"d": "Más de 10 citas",
 				"e":""
 			},
 			"question_9":{
-				"question":"Can you imagine being together with your partner for the rest of your lives?",
-				"a":"Yes",
-				"b":"No",
+				"question": "¿Te imaginas estar junto a tu pareja el resto de vuestras vidas?",
+				"a": "Sí",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}

@@ -1,176 +1,175 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Tap the card to reply to an answer",
-				"title_faceB":"Goals made by an anonymous user",
-				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
+			"por defecto":{
+				"title_faceA": "Toca la tarjeta para responder a una respuesta",
+				"title_faceB": "Metas hechas por un usuario anónimo",
+				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
 			},
 			"question_1":{
-				"question":"Where do you want to live ?",
-				"a":"On a small farm",
-				"b":"In the suburbs ",
-				"c":"In a big city",
+				"question": "¿Dónde quieres vivir?",
+				"a": "En una pequeña granja",
+				"b": "En los suburbios",
+				"c": "En una gran ciudad",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"When do you plan on marrying [partenaireName]",
-				"a":"In 1-2 years ",
-				"b":"In 3-5 years",
-				"c":"Never",
+				"question": "Cuándo piensas casarte con [partenaireName]",
+				"a": "En 1-2 años",
+				"b": "En 3-5 años",
+				"c": "Nunca",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"Do you want to get kids?",
-				"a":"No",
-				"b":"Yes",
+				"question": "¿Quieres tener hijos?",
+				"a": "No",
+				"b": "Sí",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"How often do you daydream about the future together?",
-				"a":"Atleast once a week",
-				"b":"Every day",
-				"c":"Never",
+				"question": "¿Con qué frecuencia sueñan despiertos sobre el futuro juntos?",
+				"a": "Al menos una vez a la semana",
+				"b": "Todos los días",
+				"c": "Nunca",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Are you sappy?",
-				"a":"Yes, very",
-				"b":"Moderate amount",
-				"c":"No",
+				"question": "¿Eres ñoño?",
+				"a": "Sí, mucho",
+				"b": "Cantidad moderada",
+				"c": "No",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"In your future home. Who will clean and cook?",
+				"question": "En tu futuro hogar. ¿Quién limpiará y cocinará?",
 				"a":"[partenaireName]",
-				"b":"Me",
-				"c":"Together while we sing and dance",
+				"b": "Yo",
+				"c": "Juntos mientras cantamos y bailamos",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"Do you like to decorate?",
-				"a":"Yes",
-				"b":"No",
+				"question": "¿Te gusta decorar?",
+				"a": "Sí",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_8":{
-				"question":"What is your style in decor",
-				"a":"Natural colors and vintage",
-				"b":"Bold bright colors",
-				"c":"Modern",
+				"question": "Cuál es tu estilo de decoración",
+				"a": "Colores naturales y vintage",
+				"b": "Colores brillantes y atrevidos",
+				"c": "Moderno",
 				"d":"",
 				"e":""
 			},
 			"question_9":{
-				"question":"Do you like to decorate the house with plants and candles?",
-				"a":"Definitely",
-				"b":"No",
+				"question": "¿Te gusta decorar la casa con plantas y velas?",
+				"a": "Definitivamente",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_10":{
-				"question":"Continue the sentence: Home should be...",
-				"a":"Full of adventure",
-				"b":"A safe place",
-				"c":"Always changing ",
+				"question": "Continúa la frase: El hogar debería estar...",
+				"a": "Lleno de aventuras",
+				"b": "Un lugar seguro",
+				"c": "Siempre cambiante",
 				"d":"",
 				"e":""
 			}
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B": "Su resultado:"
 			},
 			"question_1":{
-				"question":"Where do [partenaireName] wants to live with you",
-				"a":"On a small farm",
-				"b":"In the suburbs ",
-				"c":"In a big city",
+				"question": "¿Dónde quiere [partenaireName] vivir contigo?",
+				"a": "En una pequeña granja",
+				"b": "En los suburbios",
+				"c": "En una gran ciudad",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"When do [partenaireName] plans on marrying you",
-				"a":"In 1-2 years ",
-				"b":"In 3-5 years",
-				"c":"Never",
+				"question": "¿Cuándo planea [partenaireName] casarse contigo?",
+				"a": "En 1-2 años",
+				"b": "En 3-5 años",
+				"c": "Nunca",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"Do [partenaireName] wants to get kids?",
-				"a":"No",
-				"b":"Yes",
+				"question": "¿Quiere [partenaireName] tener hijos?",
+				"a": "No",
+				"b": "Sí",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"How often do [partenaireName] daydream about the future together?",
-				"a":"Atleast once a week",
-				"b":"Every day",
-				"c":"Never",
+				"question": "¿Con qué frecuencia sueña [partenaireName] con el futuro juntos?",
+				"a": "Al menos una vez a la semana",
+				"b": "Todos los días",
+				"c": "Nunca",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Is [partenaireName] sappy?",
-				"a":"Yes, very",
-				"b":"Moderate amount",
-				"c":"No",
+				"question": "¿Es [partenaireName] ágil?",
+				"a": "Sí, mucho",
+				"b": "Cantidad moderada",
+				"c": "No",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"In our future home. Who will clean and cook?",
-				"a":"Me",
+				"question": "En nuestro futuro hogar. ¿Quién limpiará y cocinará?",
+				"a": "Yo",
 				"b":"[partenaireName]",
-				"c":"Together while we sing and dance",
+				"c": "Juntos mientras cantamos y bailamos",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"Do [partenaireName] likes to decorate",
-				"a":"Yes",
-				"b":"No",
+				"question": "¿Acaso a [partenaireName] le gusta decorar?",
+				"a": "Sí",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_8":{
-				"question":"What is [partenaireName]'s style in decor",
-				"a":"Natural colors and vintage",
-				"b":"Bold bright colors",
-				"c":"Modern",
+				"question": "¿Cuál es el estilo de decoración de [partenaireName]?",
+				"a": "Colores naturales y vintage",
+				"b": "Colores vivos y atrevidos",
+				"c": "Moderno",
 				"d":"",
 				"e":""
 			},
 			"question_9":{
-				"question":"Do [partenaireName] likes to decorate the house with plants and candles?",
-				"a":"Definitely",
-				"b":"No",
+				"question": "¿A [partenaireName] le gusta decorar la casa con plantas y velas?",
+				"a": "Definitivamente",
+				"b": "No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_10":{
-				"question":"Continue the sentence: Home should be...",
-				"a":"Full of adventure",
-				"b":"A safe place",
-				"c":"Always changing ",
+				"question": "Continúa la frase: El hogar debería estar...",
+				"a": "Lleno de aventuras",
+				"b": "Un lugar seguro",
+				"c": "Siempre cambiante",
 				"d":"",
 				"e":""
 			}
 		}
 	}
-}

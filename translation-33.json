@@ -1,65 +1,65 @@
-{
+
 	"es":{
 		"a":{
-			"default":{
-				"title_faceA":"Press the card to answer the questions",
-				"title_faceB":"Press the next button",
-				"endtitle_A":"We\u2019ll see if your friends know you well!"
+			"por defecto":{
+				"title_faceA": "Pulsa la tarjeta para responder a las preguntas",
+				"title_faceB": "Pulsa el siguiente botón",
+				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
 			},
 			"question_1":{
-				"question":"Do you play video games a lot?",
-				"a":"A lot",
-				"b":"From time to time",
-				"c":"Rarely",
-				"d":"Never",
+				"question": "¿Juegas mucho a los videojuegos?",
+				"a": "Mucho",
+				"b": "De vez en cuando",
+				"c": "Rara vez",
+				"d": "Nunca",
 				"e":""
 			},
 			"question_2":{
-				"question":"Your favorite console manufacturer?",
-				"a":"Microsoft",
-				"b":"Nintendo",
-				"c":"Sony",
-				"d":"I play on PC",
+				"question": "¿Su fabricante de consolas favorito?",
+				"a": "Microsoft",
+				"b": "Nintendo",
+				"c": "Sony",
+				"d": "Juego en PC",
 				"e":""
 			},
 			"question_3":{
-				"question":"Your favorite kind of game?",
-				"a":"Action \/ Adventure",
-				"b":"Management",
-				"c":"Platform",
-				"d":"Other",
+				"question": "¿Tu tipo de juego favorito?",
+				"a": "Acción / Aventura",
+				"b": "Gestión",
+				"c": "Plataforma",
+				"d": "Otros",
 				"e":""
 			},
 			"question_4":{
-				"question":"Do you play a lot online?",
-				"a":"Yes too much",
-				"b":"No I prefer to play locally",
-				"c":"I play solo",
+				"question": "¿Juegas mucho en línea?",
+				"a": "Sí, mucho",
+				"b": "No, prefiero jugar localmente",
+				"c": "Juego en solitario",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Do you buy the games in physics or dematerialized?",
-				"a":"In physics",
-				"b":"In dematerialized",
+				"question": "¿Compras los juegos en físico o desmaterializados?",
+				"a": "En físico",
+				"b": "En desmaterializado",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"You like to play with ?",
-				"a":"Yes we often play",
-				"b":"Yes but we don't often have the opportunity",
-				"c":"Not at all",
+				"question": "¿Te gusta jugar con?",
+				"a": "Sí, jugamos a menudo",
+				"b": "Sí, pero no tenemos a menudo la oportunidad",
+				"c": "No, en absoluto",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"Rather portable console or living room console?",
-				"a":"Portable console",
-				"b":"Living room console",
-				"c":"Hybrid console",
-				"d":"PC",
+				"question": "¿Prefieres consola portátil o consola de salón?",
+				"a": "Consola portátil",
+				"b": "Consola de salón",
+				"c": "Consola híbrida",
+				"d": "PC",
 				"e":""
 			},
 			"question_8":{
@@ -89,62 +89,62 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Here are your results:"
+				"endtitle_B": "Aquí están los resultados:"
 			},
 			"question_1":{
-				"question":"[partenaireName] plays video games a lot?",
-				"a":"A lot",
-				"b":"From time to time",
-				"c":"Rarely",
-				"d":"Never",
+				"question":"[partenaireName] juega mucho a los videojuegos?",
+				"a": "Mucho",
+				"b": "De vez en cuando",
+				"c": "Rara vez",
+				"d": "Nunca",
 				"e":""
 			},
 			"question_2":{
-				"question":"The preferred console builder of [partenaireName]?",
-				"a":"Microsoft",
-				"b":"Nintendo",
-				"c":"Sony",
-				"d":"He \/ She plays on PC",
+				"question": "¿El constructor de consola preferido de [partenaireName]?",
+				"a": "Microsoft",
+				"b": "Nintendo",
+				"c": "Sony",
+				"d": "Él / Ella juega en PC",
 				"e":""
 			},
 			"question_3":{
-				"question":"The favorite game genre of [partenaireName]?",
-				"a":"Action \/ Adventure",
-				"b":"Management",
-				"c":"Platform",
-				"d":"Other",
+				"question": "¿El género de juego favorito de [partenaireName]?",
+				"a": "Acción / Aventura",
+				"b": "Gestión",
+				"c": "Plataforma",
+				"d": "Otros",
 				"e":""
 			},
 			"question_4":{
-				"question":"[partenaireName] plays a lot online?",
-				"a":"Yes too much",
-				"b":"No he \/ she prefers to play locally",
-				"c":"He \/ She plays solo",
+				"question":"[partenaireName] juega mucho en línea?",
+				"a": "Sí, mucho",
+				"b": "No, él/ella prefiere jugar localmente",
+				"c": "El/ella juega solo",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"[partenaireName] buy the games in physical or dematerialized?",
-				"a":"In physics",
-				"b":"In dematerialized",
+				"question":"[partenaireName] comprar los juegos en físico o desmaterializado?",
+				"a": "En físico",
+				"b": "En desmaterializado",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"[partenaireName] likes to play with you?",
-				"a":"Yes we often play",
-				"b":"Yes but we don't often have the opportunity",
-				"c":"Not at all",
+				"question":"[partenaireName] le gusta jugar con usted?",
+				"a": "Sí, jugamos a menudo",
+				"b": "Sí, pero no tenemos a menudo la oportunidad",
+				"c": "No, en absoluto",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question":"[partenaireName] is more portable console or home console?",
-				"a":"Portable console",
-				"b":"Living room console",
-				"c":"Hybrid console",
-				"d":"PC",
+				"question":"[partenaireName] es más consola portátil o consola doméstica?",
+				"a": "Consola portátil",
+				"b": "Consola de salón",
+				"c": "Consola híbrida",
+				"d": "PC",
 				"e":""
 			},
 			"question_8":{
@@ -173,4 +173,3 @@
 			}
 		}
 	}
-}
