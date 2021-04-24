@@ -1,63 +1,62 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "¿Tienes miedo a los fantasmas?",
-				"a": "Sí",
-				"b": "No",
-				"c": "No lo creo",
+				"question":"Are you afraid of ghosts?",
+				"a":"Yes",
+				"b":"No",
+				"c":"I don't believe it",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Crees en la astrología?",
-				"a": "¡Sí, creo que es real!",
-				"b": "Para mí son tonterías",
+				"question":"Do you believe in astrology?",
+				"a":"Yes I think it's real!",
+				"b":"For me these are stupid things",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cree usted en la vida después de la muerte?",
-				"a": "Sí, creo que hay un más allá",
-				"b": "No, para mí es el fin",
+				"question":"Do you believe in life after death?",
+				"a":"Yes I think there is a beyond",
+				"b":"No for me it's the end",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Puedes leer el futuro en la palma de la mano?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Can you read the future in the palm of hand?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Has consultado ya a un vidente?",
-				"a": "Sí, me ha pasado",
-				"b": "No para mí es una estafa",
+				"question":"Have you already consulted a seer?",
+				"a":"Yes it happened to me",
+				"b":"No for me it's a scam",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Puedes leer las cartas del tarot?",
-				"a": "Sí",
-				"b": "¡Me gustaría!",
-				"c": "No",
+				"question":"",
+				"a":"",
+				"b":"",
+				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿Crees que fue el destino el que te puso en el camino de [partenaireName]?",
-				"a": "¡Seguro que sí!",
-				"b": "No, pero tenía que ocurrir",
+				"question":"",
+				"a":"",
+				"b":"",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,44 +88,44 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Tiene [partenaireName] miedo a los fantasmas?",
-				"a": "Sí",
-				"b": "No",
-				"c": "Él/ella no lo cree",
+				"question":"Is [partenaireName] afraid of ghosts?",
+				"a":"Yes",
+				"b":"No",
+				"c":"He\/She does not believe it",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cree [partenaireName] en la astrología?",
-				"a": "¡Sí cree que es real!",
-				"b": "Para él/ella estas son cosas estúpidas",
+				"question":"Does [partenaireName] believe in astrology?",
+				"a":"Yes he\/she thinks it's real!",
+				"b":"For him\/her these are stupid things",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cree [partenaireName] en la vida después de la muerte?",
-				"a": "Sí, cree que hay un más allá",
-				"b": "No, es el fin",
+				"question":"Does [partenaireName] believe in life after death?",
+				"a":"Yes he\/she thinks that there is a beyond",
+				"b":"No, it's the end",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Puede [partenaireName] leer el futuro en la palma de la mano?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Does [partenaireName] can read the future in the palm of hand?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Ha consultado [partenaireName] alguna vez a un vidente?",
-				"a": "Sí ha ocurrido",
-				"b": "No es una estafa",
+				"question":"Has [partenaireName] ever consulted a seer?",
+				"a":"Yes it happened",
+				"b":"No it's a scam",
 				"c":"",
 				"d":"",
 				"e":""
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

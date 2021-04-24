@@ -1,47 +1,46 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below",
+				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
 			},
 			"question_1":{
-				"question":"[partenaireName] te ofrece un salto en paracaídas, ¿aceptas?",
-				"a": "¡Sí, por supuesto!",
-				"b": "Voy a ir pero tengo miedo",
-				"c": "No, no podría hacerlo",
+				"question":"[partenaireName] offer you a parachute jump, do you accept?",
+				"a":"Yes, absolutely!",
+				"b":"I'm going there but I'm afraid",
+				"c":"No I couldn't do it",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "Para el día de San Valentín prefieres:",
-				"a": "Un cine",
-				"b": "Un buen restaurante",
-				"c": "Una noche de hotel",
-				"d": "Una pequeña sorpresa",
+				"question":"For Valentine's Day you prefer:",
+				"a":"A cinema",
+				"b":"A good restaurant",
+				"c":"One night in a hotel",
+				"d":"A little surprise",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Qué actividad prefieren hacer juntos?",
-				"a": "Deporte 💪",
-				"b": "Deporte 😏",
-				"c": "Ir de compras",
-				"d": "Pasear por el bosque",
-				"e": "Ir de fiesta"
+				"question":"What activity do you prefer to do together?",
+				"a":"Sport \ud83d\udcaa",
+				"b":"Sport \ud83d\ude0f",
+				"c":"Shopping",
+				"d":"Walking in the woods",
+				"e":"Go partying"
 			},
 			"question_4":{
-				"question": "¿Quién elige la película de cine más a menudo?",
-				"a": "Soy yo",
+				"question":"Who chooses the cinema film most often?",
+				"a":"It's me",
 				"b":"[partenaireName]",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Te besas en público?",
-				"a": "Sí, qué pena para los que odian",
-				"b": "¡No, somos correctos!",
+				"question":"Do you kiss in public?",
+				"a":"Yes, too bad for the haters",
+				"b":"No we are correct!",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,44 +88,44 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Cree que [partenaireName] es capaz de saltar en paracaídas?",
-				"a": "¡Sí, absolutamente!",
-				"b": "Sí, pero él/ella tendría mucho miedo",
-				"c": "No",
+				"question":"Do you think [partenaireName] able to parachute?",
+				"a":"Yes, absolutely!",
+				"b":"Yes but he \/ she would be really afraid",
+				"c":"No",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "Para el día de San Valentín [partenaireName] prefiere:",
-				"a": "Un cine",
-				"b": "Un buen restaurante",
-				"c": "Una noche de hotel",
-				"d": "Una pequeña sorpresa",
+				"question":"For Valentine's Day [partenaireName] prefers:",
+				"a":"A cinema",
+				"b":"A good restaurant",
+				"c":"One night in a hotel",
+				"d":"A little surprise",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Qué actividad prefieren hacer juntos?",
-				"a": "Deporte 💪",
-				"b": "Deporte 😏",
-				"c": "Ir de compras",
-				"d": "Pasear por el bosque",
-				"e": "Ir de fiesta"
+				"question":"What activity do you prefer to do together?",
+				"a":"Sport \ud83d\udcaa",
+				"b":"Sport \ud83d\ude0f",
+				"c":"Shopping",
+				"d":"Walking in the woods",
+				"e":"Go partying"
 			},
 			"question_4":{
-				"question": "¿Quién elige más veces la película de cine?",
-				"a": "Nombre del partenaire",
-				"b": "Soy yo",
+				"question":"Who chooses the cinema film most often?",
+				"a":"[partenaireName]",
+				"b":"It's me",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Te besas en público?",
-				"a": "Sí, qué pena para los que odian",
-				"b": "¡No, somos correctos!",
+				"question":"Do you kiss in public?",
+				"a":"Yes, too bad for the haters",
+				"b":"No we are correct!",
 				"c":"",
 				"d":"",
 				"e":""
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

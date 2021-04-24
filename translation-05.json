@@ -1,63 +1,62 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "¿Con quién prefieres ir de vacaciones?",
-				"a": "Con mi pareja",
-				"b": "Con amigos",
-				"c": "Con la familia",
-				"d": "Solo",
+				"question":"Who would You prefer going on holiday with? ",
+				"a":"With my significant other ",
+				"b":"With friends",
+				"c":"With family",
+				"d":"By myself ",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿A dónde sueles viajar?",
-				"a": "un lugar cálido",
-				"b": "un destino frío",
+				"question":"Where do you usually travel to?",
+				"a":"a hot place",
+				"b":"a cold  destination",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Tienes gusto por la aventura?",
-				"a": "Sí, completamente",
-				"b": "En realidad no",
+				"question":"Do you have taste for adventure?",
+				"a":"Yes, completely",
+				"b":"Not really",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cómo serían las vacaciones ideales para ti?",
-				"a": "Broncearse",
-				"b": "Quedarse en casa sin hacer nada",
-				"c": "Visitar nuevos lugares",
-				"d": "Hacer tiempo para mí",
+				"question":"What would the ideal vacation be like to you?",
+				"a":"Tanning",
+				"b":"Staying at home doing nothing",
+				"c":"Visiting new places",
+				"d":"Making time for myself",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Hotel o camping? ",
-				"a": "Hotel",
-				"b": "Camping",
+				"question":"Hotel or camping? ",
+				"a":"Hotel",
+				"b":"Camping",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Tienes miedo a volar?",
-				"a": "Un poco, sí",
-				"b": "En absoluto",
+				"question":"Are you afraid of flying?",
+				"a":"A little, yes",
+				"b":"Not at all",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿Puedes imaginarte solo en la selva con tu pareja?",
-				"a": "Sí",
-				"b": "No realmente",
+				"question":"",
+				"a":"",
+				"b":"",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,60 +88,60 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Dónde prefiere ir de vacaciones [partenaireName]?",
-				"a": "Conmigo",
-				"b": "Con amigos",
-				"c": "Con la familia",
-				"d": "Solo",
+				"question":"Where does [partenaireName] prefer to go on vacation?",
+				"a":"With me",
+				"b":"With friends",
+				"c":"With family",
+				"d":"Alone",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Dónde preferiría vivir [partenaireName]?",
-				"a": "En un país cálido",
-				"b": "En un país frío",
+				"question":"Where would [partenaireName] prefer living?",
+				"a":"In a hot country",
+				"b":"In a cold country",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Tiene [partenaireName] gusto por la aventura?",
-				"a": "Sí, absolutamente",
-				"b": "En realidad no",
+				"question":"Does [partenaireName] have a  taste for adventure?",
+				"a":"Yes, absolutely ",
+				"b":"Not really",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cuáles serían las vacaciones ideales para [partenaireName]?",
-				"a": "Broncearse",
-				"b": "Quedarse en casa sin hacer nada",
-				"c": "Visitar lugares",
-				"d": "Pasar tiempo solos",
+				"question":"What would The ideal vacation for [partenaireName] be?",
+				"a":"Tanning",
+				"b":"Staying at home doing nothing",
+				"c":"Visiting places",
+				"d":"Spending time by themselves",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Preferiría [partenaireName] alojarse en un hotel o en un camping?",
-				"a": "Hotel",
-				"b": "Camping",
+				"question":"Would [partenaireName] prefer staying at a hotel or camping?",
+				"a":"Hotel",
+				"b":"Camping",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Tiene [partenaireName] miedo a volar?",
-				"a": "Un poco, sí",
-				"b": "En absoluto",
+				"question":"Is [partenaireName] afraid of flying?",
+				"a":"A little, yes",
+				"b":"Not at all",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿Podría [partenaireName] verse solo en la selva con usted?",
-				"a": "Sí",
-				"b": "No realmente",
+				"question":"",
+				"a":"",
+				"b":"",
 				"c":"",
 				"d":"",
 				"e":""
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

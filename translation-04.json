@@ -1,55 +1,55 @@
-	"es":{
+	"en":{
 		"a":{
 			"default":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "¿Cómo sería para ti un domingo perfecto?",
-				"a": "Estar todo el día en la cama",
-				"b": "Ver una película en el sofá",
-				"c": "Tener una cita",
-				"d": "Pasar tiempo con mi familia",
+				"question":"What would a  perfect Sunday be like to  you?",
+				"a":"Staying all Day in bed",
+				"b":"watching a movie on the couch",
+				"c":"Going on a date ",
+				"d":"Spending time With my Family",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cuál es tu estación favorita?",
-				"a": "Primavera",
-				"b": "Verano",
-				"c": "Otoño",
-				"d": "Invierno",
+				"question":"What is your favourite season?",
+				"a":"Spring",
+				"b":"Summer",
+				"c":"Fall",
+				"d":"Winter",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Qué es lo que más te gusta?",
-				"a": "Ver películas",
-				"b": "Jugar a los videojuegos",
-				"c": "Jugar a juegos de mesa",
-				"d": "Limpiar",
+				"question":"What do you like the most? :",
+				"a":" watching movies",
+				"b":"Playing video games",
+				"c":"playing board games",
+				"d":"Cleaning up",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cómo ves la televisión?",
-				"a": "Acostado",
-				"b": "junto a mi pareja",
-				"c": "Solo",
-				"d": "No veo la televisión",
+				"question":"How do you watch TV?",
+				"a":" Lying down",
+				"b":"next to my partner",
+				"c":"Alone",
+				"d":"I don\u2019t watch TV",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Lluvia o nieve?",
-				"a": "Lluvia",
-				"b": "Nieve",
+				"question":"Rain or snow?",
+				"a":"Rain",
+				"b":"Snow",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Caramelo, chocolate o palomitas?",
-				"a": "Caramelo",
-				"b": "Chocolate",
-				"c": "Palomitas de maíz",
+				"question":"Candy, chocolate or popcorn?",
+				"a":"Candy",
+				"b":"Chocolate",
+				"c":"Popcorn",
 				"d":"",
 				"e":""
 			},
@@ -88,53 +88,53 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Cómo sería el domingo ideal para [partenaireName]?",
-				"a": "Quedarse todo el día en la cama",
-				"b": "Ver una película en el sofá",
-				"c": "Tener una cita",
-				"d": "Pasar tiempo con su familia",
+				"question":"What would the ideal sunday for [partenaireName] be like",
+				"a":"Staying all day in bed",
+				"b":"watching a movie on the couch",
+				"c":"Going on a date ",
+				"d":"Spending time with their family",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cuál es la estación favorita de tu pareja?",
-				"a": "Primavera",
-				"b": "Verano",
-				"c": "Otoño",
-				"d": "Invierno",
+				"question":"What is your partner's favourite season?",
+				"a":"Spring",
+				"b":"Summer",
+				"c":"Fall",
+				"d":"Winter",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Qué prefiere [partenaireName]?",
-				"a": "Ver películas",
-				"b": "Jugar a los videojuegos",
-				"c": "Jugar a juegos de mesa",
-				"d": "Limpiar",
+				"question":"What would [partenaireName] prefer?",
+				"a":"Watching movies",
+				"b":"Playing video games",
+				"c":"playing board games",
+				"d":"Cleaning up",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cómo prefiere [partenaireName] ver la televisión?",
-				"a": "Tumbado",
-				"b": "Junto a ti",
-				"c": "Solo",
-				"d": "Mi pareja no ve la televisión",
+				"question":"How does [partenaireName] prefer to watch TV ?",
+				"a":"Lying down",
+				"b":"next to you",
+				"c":"Alone",
+				"d":"My partner doesn't watch TV",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Prefiere [partenaireName] la lluvia o la nieve?",
-				"a": "Lluvia",
-				"b": "Nieve",
+				"question":"Does [partenaireName] prefer rain or snow?",
+				"a":"Rain",
+				"b":"Snow",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Prefiere [partenaireName] caramelos, chocolate o palomitas de maíz?",
-				"a": "Caramelo",
-				"b": "Chocolate",
-				"c": "Palomitas",
+				"question":"Does [partenaireName] prefer candy, chocolate or popcorn?",
+				"a":"Candy",
+				"b":"Chocolate",
+				"c":"Popcorn",
 				"d":"",
 				"e":""
 			},
@@ -171,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

@@ -1,55 +1,55 @@
-	"es":{
+	"en":{
 		"a":{
 			"default":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "¿Cuál es tu fruta favorita?",
-				"a": "Fresas",
-				"b": "Peras",
-				"c": "Manzanas",
-				"d": "Naranjas",
-				"e": "Plátanos"
+				"question":"What is your favourite fruit?",
+				"a":"Strawberries",
+				"b":"Pears",
+				"c":"Apples",
+				"d":"Oranges",
+				"e":"Bananas"
 			},
 			"question_2":{
-				"question": "¿Qué color te gusta menos?",
-				"a": "Rojo",
-				"b": "Verde",
-				"c": "Naranja",
-				"d": "Azul",
-				"e": "Violeta"
+				"question":"Which color do you like the least?",
+				"a":"Red",
+				"b":"Green",
+				"c":"Orange",
+				"d":"Blue",
+				"e":"Violet"
 			},
 			"question_3":{
-				"question": "¿Prefieres las palomitas dulces o saladas?",
-				"a": "Dulce",
-				"b": "Saladas",
+				"question":"Do you prefer sweet or salty popcorn?",
+				"a":"Sweet",
+				"b":"Salty",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Qué sabor de leche es tu favorito?",
-				"a": "Leche de fresa",
-				"b": "Leche de menta",
-				"c": "Leche de vainilla",
+				"question":"Which milk flavor is your favorite ?",
+				"a":"Strawberry milk",
+				"b":"Mint milk",
+				"c":"Vanilla milk",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Qué color prefiere?",
-				"a": "Verde",
-				"b": "Naranja",
-				"c": "Violeta",
-				"d": "Rojo",
-				"e": "Azul"
+				"question":"Which color do you prefer?",
+				"a":"Green",
+				"b":"Orange",
+				"c":"Violet",
+				"d":"Red",
+				"e":"Blue"
 			},
 			"question_6":{
-				"question": "¿Qué cítrico crees que es el mejor?",
-				"a": "Naranjas",
-				"b": "Clementinas",
-				"c": "Mandarinas",
+				"question":"Which citrus fruit do you think is the best?",
+				"a":"Oranges",
+				"b":"Clementines",
+				"c":"Mandarins",
 				"d":"",
 				"e":""
 			},
@@ -88,53 +88,53 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Cuál es la fruta favorita de [partenaireName]?",
-				"a": "Fresas",
-				"b": "Peras",
-				"c": "Manzanas",
-				"d": "Naranjas",
-				"e": "Plátanos"
+				"question":"What is [partenaireName]'s favorite fruit?",
+				"a":"Strawberries ",
+				"b":"Pears",
+				"c":"Apples",
+				"d":"Oranges",
+				"e":"Bananas"
 			},
 			"question_2":{
-				"question": "¿Cuál es el color que menos le gusta a [partenaireName]?",
-				"a": "Rojo",
-				"b": "Verde",
-				"c": "Naranja",
-				"d": "Azul",
-				"e": "Violeta"
+				"question":"What is the color that [partenaireName] likes the least?",
+				"a":"Red",
+				"b":"Green",
+				"c":"Orange",
+				"d":"Blue",
+				"e":"Violet"
 			},
 			"question_3":{
-				"question": "¿Prefiere [partenaireName] las palomitas dulces o saladas?",
-				"a": "Dulce",
-				"b": "Saladas",
+				"question":"Does [partenaireName] prefer sweet or salty popcorn?",
+				"a":"Sweet",
+				"b":"Salty",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Qué sabor de leche le gusta más a [partenaireName]?",
-				"a": "Leche de fresa",
-				"b": "Leche de menta",
-				"c": "Leche de vainilla",
+				"question":"Which milk flavor does [partenaireName] like the most?",
+				"a":"Strawberry milk",
+				"b":"Mint milk",
+				"c":"Vanilla milk",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Qué color prefiere [partenaireName]?",
-				"a": "Verde",
-				"b": "Naranja",
-				"c": "Violeta",
-				"d": "Rojo",
-				"e": "Azul"
+				"question":"Which color does [partenaireName] prefer?",
+				"a":"Green",
+				"b":"Orange",
+				"c":"Violet",
+				"d":"Red",
+				"e":"Blue"
 			},
 			"question_6":{
-				"question": "¿Qué cítrico es el mejor según [partenaireName]?",
-				"a": "Naranjas",
-				"b": "Clementinas",
-				"c": "Mandarinas",
+				"question":"Which citrus fruit is the best according to [partenaireName]?",
+				"a":"Oranges",
+				"b":"Clementines",
+				"c":"Mandarins",
 				"d":"",
 				"e":""
 			},
@@ -171,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

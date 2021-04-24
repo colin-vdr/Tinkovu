@@ -1,56 +1,55 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "¿Cuál es tu red social favorita?",
-				"a": "Facebook",
-				"b": "Twitter",
-				"c": "Instagram",
-				"d": "Pinterest",
+				"question":"What is your favorite social network?",
+				"a":"Facebook",
+				"b":"Twitter",
+				"c":"Instagram",
+				"d":"Pinterest",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cuál es tu red social favorita?",
-				"a": "Snapchat",
-				"b": "TikTok",
-				"c": "What'sApp",
+				"question":"What is your favorite \"new\" social network?",
+				"a":"Snapchat",
+				"b":"TikTok",
+				"c":"What'sApp",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Woutube o Dailymotion?",
-				"a": "Youtube",
-				"b": "Dailymotion",
-				"c": "Vimeo",
+				"question":"Youtube or Dailymotion?",
+				"a":"Youtube",
+				"b":"Dailymotion",
+				"c":"Vimeo",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Ves vídeos de ASMR?",
-				"a": "Todas las noches antes de dormir",
-				"b": "Ocurre de vez en cuando",
-				"c": "No",
+				"question":"Are you watching ASMR videos?",
+				"a":"Every night before falling asleep",
+				"b":"It happens from time to time",
+				"c":"No",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Sueles publicar en Instagram?",
-				"a": "Toda mi vida la paso allí",
-				"b": "Sí, pero con fotos interesantes",
-				"c": "No",
-				"d": "No tengo Instagram",
+				"question":"Do you often post on Instagram?",
+				"a":"All my life spends there",
+				"b":"Yes but interesting photos",
+				"c":"No",
+				"d":"I don't have Instagram",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Pasas mucho tiempo viendo vídeos online?",
-				"a": "Mucho tiempo",
-				"b": "Soy razonable",
-				"c": "No, no me gusta",
+				"question":"Do you spend a lot of time watching videos online?",
+				"a":"Too much time",
+				"b":"I am reasonable",
+				"c":"No I don't like it",
 				"d":"",
 				"e":""
 			},
@@ -89,46 +88,46 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Cuál es la red social favorita de [partenaireName]?",
-				"a": "Facebook",
-				"b": "Twitter",
-				"c": "Instagram",
-				"d": "Pinterest",
+				"question":"What is [partenaireName]'s favorite social network?",
+				"a":"Facebook",
+				"b":"Twitter",
+				"c":"Instagram",
+				"d":"Pinterest",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cuál es la red social favorita de [partenaireName]?",
-				"a": "Snapchat",
-				"b": "TikTok",
-				"c": "What'sApp",
+				"question":"What is [partenaireName]'s favorite \"new\" social network?",
+				"a":"Snapchat",
+				"b":"TikTok",
+				"c":"What'sApp",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"[partenaireName] se parece más a Youtube o a Dailymotion?",
-				"a": "Youtube",
-				"b": "Dailymotion",
-				"c": "Vimeo",
+				"question":"[partenaireName] is more like Youtube or Dailymotion?",
+				"a":"Youtube",
+				"b":"Dailymotion",
+				"c":"Vimeo",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Ve [partenaireName] vídeos ASMR?",
-				"a": "Todas las noches antes de dormir",
-				"b": "Ocurre de vez en cuando",
-				"c": "No",
+				"question":"Is [partenaireName] watching ASMR videos?",
+				"a":"Every evening before falling asleep",
+				"b":"It happens from time to time",
+				"c":"No",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"[partenaireName] suele publicar en Instagram?",
-				"a": "Toda su vida la pasa ahí",
-				"b": "Sí, pero con fotos interesantes",
-				"c": "No",
-				"d": "Él/ella no tiene Instagram",
+				"question":"[partenaireName] often post on Instagram?",
+				"a":"All his life spends there",
+				"b":"Yes but interesting photos",
+				"c":"No",
+				"d":"He\/She does not have Instagram",
 				"e":""
 			},
 			"question_6":{
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

@@ -1,42 +1,41 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
 			},
 			"question_1":{
-				"question": "estás solo en una isla desierta con [partenaireName], ¿qué haces?",
-				"a": "Buscamos una salida",
-				"b": "Construimos una casa para vivir",
-				"c": "¡Repoblamos la isla!",
+				"question":"you are alone on a deserted island with [partenaireName], what do you do?",
+				"a":"We look  for a way out",
+				"b":"We build a house to live in",
+				"c":"We repopulate the island!",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "Tú y [partenaireName] estáis solos en un ascensor averiado, ¿qué hacéis?",
-				"a": "Me imagino que ambos estamos atrapados y podríamos disfrutarlo",
-				"b": "Empiezo a sentir claustrofobia",
-				"c": "Intentamos pasar un buen rato juntos",
+				"question":"You and [partenaireName] are alone in a broken elevator, what do you do?",
+				"a":"I figure that we\u2019re both trapped and we might as well enjoy it",
+				"b":"I start feeling claustrophobic",
+				"c":"We try to have a nice time together ",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "Sólo queda un chocolate en la caja:",
-				"a": "Lo dejo para [partenaireName]",
-				"b": "Me lo llevo",
+				"question":"There's only one chocolate left in the box:",
+				"a":"I leave it for [partenaireName]",
+				"b":"I\u2019m taking it",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cuál es tu tipo de beso favorito?",
-				"a": "Beso francés",
-				"b": "Beso de esquimal",
-				"c": "En la frente",
-				"d": "En la mejilla",
-				"e": "En el cuello"
+				"question":"What\u2019s your favorite type of kiss?",
+				"a":"French kiss",
+				"b":"Eskimo kiss",
+				"c":"On the forehead ",
+				"d":"On the cheek",
+				"e":"On the neck"
 			},
 			"question_5":{
 				"question":"",
@@ -89,39 +88,39 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "Te encuentras solo con [partenaireName] en una isla desierta, ¿qué haces?",
-				"a": "Buscamos una salida",
-				"b": "Construimos una casa para vivir",
-				"c": "¡Repoblamos la isla!",
+				"question":"You find yourself alone with [partenaireName] on a deserted island, what do you do?",
+				"a":"We look for a way out",
+				"b":"We build a house to live in",
+				"c":"We repopulate the island!",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "Tú y [partenaireName] están solos en un ascensor averiado, ¿qué hacen?",
-				"a": "Piensan que si significa estar confinados juntos, ¡más vale que lo disfrutemos!",
-				"b": "Empiezan a sentir claustrofobia",
-				"c": "Intentamos pasar tiempo juntos",
+				"question":"You and [partenaireName] are alone in a broken elevator, what do you do?",
+				"a":"They think that if it means being confined together, we might as well enjoy it !",
+				"b":"They start feeling claustrophobic",
+				"c":"We try to spend time together ",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "Sólo queda un chocolate en la caja:",
-				"a":"[partenaireName] me deja coger el último",
-				"b": "Se lo llevan",
+				"question":"There's only one chocolate left  in the box:",
+				"a":"[partenaireName] lets me take the last one",
+				"b":"They take it",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cuál es el tipo de beso favorito de [partenaireName]?",
-				"a": "Beso francés",
-				"b": "Beso de esquimal",
-				"c": "En la frente",
-				"d": "En la mejilla",
-				"e": "En el cuello"
+				"question":"What is [partenaireName]'s favorite type of kiss?",
+				"a":"French Kiss",
+				"b":"Eskimo kiss",
+				"c":"On the forehead ",
+				"d":"On the cheek",
+				"e":"On the neck"
 			},
 			"question_5":{
 				"question":"",
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

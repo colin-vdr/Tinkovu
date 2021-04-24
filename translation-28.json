@@ -1,58 +1,57 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si te conoce bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"We\u2019ll see if  knows you well!"
 			},
 			"question_1":{
-				"question": "¿Cuál es tu posición sexual favorita entre:",
-				"a": "El misionero",
-				"b": "El estilo perrito",
-				"c": "La posición de Andrómaca",
-				"d": "99",
-				"e": "69"
+				"question":"What is your favorite sexual position among:",
+				"a":"The missionary",
+				"b":"The doggy style",
+				"c":"The position of Andromache",
+				"d":"99",
+				"e":"69"
 			},
 			"question_2":{
-				"question": "¿Cuál es tu mayor fantasía?",
-				"a": "Sexo en público",
-				"b": "Un trío",
-				"c": "Hacer un sextape",
-				"d": "Algo más...",
+				"question":"What is your biggest fantasy?",
+				"a":"Sex in public",
+				"b":"A threesome",
+				"c":"Make a sextape",
+				"d":"Something else ...",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Haces ruido cuando haces sexo?",
-				"a": "¡Ooh sí!",
-				"b": "No, soy discreto",
+				"question":"Do you make noise when you make sex?",
+				"a":"Ooh yes!",
+				"b":"No I am discreet",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Qué dices durante el sexo?",
-				"a": "Te amo",
-				"b": "¡Continúa!",
-				"c": "¡Oh f*ck!",
-				"d": "No pares",
+				"question":"What do you say to  during sex?",
+				"a":"I love you",
+				"b":"Pls continue!",
+				"c":"Oh f*ck!",
+				"d":"Don't stop",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Te consideras bueno en la cama?",
-				"a": "Soy el mejor",
-				"b": "Hago lo mejor que puedo",
-				"c": "No sé",
+				"question":"Do you consider yourself good in bed?",
+				"a":"I am the best",
+				"b":"I'm doing my best!",
+				"c":"I don't know",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Dónde está tu lugar favorito para el sexo?",
-				"a": "En el dormitorio",
-				"b": "En el baño",
-				"c": "En la sala de estar",
-				"d": "En un probador",
-				"e": "En los baños públicos"
+				"question":"Where is your favorite place for sex?",
+				"a":"In the bedroom",
+				"b":"In the bathroom",
+				"c":"In the living room",
+				"d":"In a fitting room",
+				"e":"In public toilets"
 			},
 			"question_7":{
 				"question":"",
@@ -89,45 +88,45 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Cuál es la posición sexual preferida de [partenaireName]:",
-				"a": "El misionero",
-				"b": "El estilo perrito",
-				"c": "La posición de Andrómaca",
-				"d": "99",
-				"e": "69"
+				"question":"What is the preferred sexual position of [partenaireName]:",
+				"a":"The missionary",
+				"b":"The doggy style",
+				"c":"The position of Andromache",
+				"d":"99",
+				"e":"69"
 			},
 			"question_2":{
-				"question": "¿Cuál es la mayor fantasía de [partenaireName]?",
-				"a": "Hacer el amor en público",
-				"b": "Un trío",
-				"c": "Hacer un sextape",
-				"d": "Algo más...",
+				"question":"What is the biggest fantasy of [partenaireName]?",
+				"a":"Make love in public",
+				"b":"A threesome",
+				"c":"Make a sextape",
+				"d":"Something else ...",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Hace ruido [partenaireName] cuando hace el amor?",
-				"a": "¡Oh, sí!",
-				"b": "No, él/ella es discreto/a",
+				"question":"Does [partenaireName] make noise when he\/she makes love?",
+				"a":"Ooh yes!",
+				"b":"No he\/she is discreet",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Qué te dice [partenaireName] durante el sexo?",
-				"a": "Te quiero",
-				"b": "¡Continúa!",
-				"c": "¡Oh f*ck!",
-				"d": "No pares",
+				"question":"What does [partenaireName] tell you during sex?",
+				"a":"I love you",
+				"b":"Pls continue!",
+				"c":"Oh f*ck!",
+				"d":"Don't stop",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Es [partenaireName] bueno en la cama?",
-				"a": "El mejor",
-				"b": "Él/ella es muy bueno/a.ne",
-				"c": "Él/ella no sabe",
+				"question":"Is [partenaireName] good in bed?",
+				"a":"The best",
+				"b":"He\/She is very good.ne",
+				"c":"He\/She does not know",
 				"d":"",
 				"e":""
 			},
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

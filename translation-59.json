@@ -1,64 +1,63 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Pulsa la tarjeta para responder a las preguntas",
-				"title_faceB": "Objetivo hecho por Jen",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+			"default":{
+				"title_faceA":"Press the card to answer the questions",
+				"title_faceB":"Goal made by Jen",
+				"endtitle_A":"We will see if [partenaireName] knows you well!"
 			},
 			"question_1":{
-				"question": "¿Te gustan los nombres de bebé tradicionales?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Do you like traditional baby names?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Te gustan los nombres únicos para bebés?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Do you like unique baby names?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Prefiere la adopción a la subrogación?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Do you prefer adoption over surrogacy?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Prefiere la gestación subrogada a la adopción?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Do you prefer surrogacy over adoption?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Deseas que hagamos un bebé de la manera tradicional?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Do you wish we were making a baby the traditional way?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Cuál es su opinión sobre las madres que se quedan en casa?",
-				"a": "Respeto y admiro a las madres que se quedan en casa para criar a sus hijos durante sus primeros años",
-				"b": "no es necesariamente importante para mí que lo hagan",
+				"question":"What is your opinion about stay at home mom's?",
+				"a":"I respect and admire moms who stay at home to raise their children during their early years",
+				"b":"it's not necessarily important to me that you do.",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿Cuál es la edad preferida para el niño que adoptamos?",
-				"a": "De 0 a 5 años",
-				"b": "No tengo ninguna preferencia",
-				"c": "No quiero adoptar",
+				"question":"What is the preferred age for the child we adopt?",
+				"a":"0-5years old",
+				"b":"I don't really have a preference",
+				"c":"I don't want to adopt",
 				"d":"",
 				"e":""
 			},
@@ -89,61 +88,61 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Aquí están los resultados:"
+				"endtitle_B":"Here are your results:"
 			},
 			"question_1":{
-				"question": "¿A [partenaireName] le gustan los nombres de bebé tradicionales?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Does [partenaireName] likes traditional baby names?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿A [partenaireName] le gustan los nombres de bebé únicos?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Does [partenaireName] likes unique baby names?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Prefiere [partenaireName] la adopción a la gestación subrogada?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Does [partenaireName] prefers adoption over surrogacy?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Prefiere [partenaireName] la gestación subrogada a la adopción?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Does [partenaireName] prefers surrogacy over adoption?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Desea [partenaireName] que hagamos un bebé de forma tradicional?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Does [partenaireName] wishes we were making a baby the traditional way?",
+				"a":"Yes",
+				"b":"No",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Cuál es la opinión de [partenaireName] sobre las madres que se quedan en casa?",
-				"a": "Respeto y admiro a las madres que se quedan en casa para criar a sus hijos durante sus primeros años",
-				"b": "no es necesariamente importante para mí que lo hagan",
+				"question":"What is [partenaireName]'s opinion about stay at home mom's?",
+				"a":"I respect and admire moms who stay at home to raise their children during their early years",
+				"b":"it's not necessarily important to me that you do.",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿Cuál es la edad preferida para el niño que adoptamos?",
-				"a": "De 0 a 5 años",
-				"b": "No tengo ninguna preferencia",
-				"c": "No quiero adoptar",
+				"question":"What is the preferred age for the child we adopt?",
+				"a":"0-5years old",
+				"b":"I don't really have a preference",
+				"c":"I don't want to adopt",
 				"d":"",
 				"e":""
 			},
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},
