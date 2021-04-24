@@ -1,64 +1,63 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
 			},
 			"question_1":{
-				"question": "¿Vas a casarte con [partenaireName]?",
-				"a": "Sí",
-				"b": "No",
-				"c": "Demasiado pronto para decirlo",
+				"question":"Are you going to marry [partenaireName]?",
+				"a":"Yes",
+				"b":"No",
+				"c":"Too early to tell",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cómo te ves dentro de 10 años?",
-				"a": "En nuestro apartamento con nuestras mascotas",
-				"b": "Con la gran familia que habremos formado juntos",
-				"c": "Dejando nuestra patria hacia otros horizontes",
-				"d": "Como hoy",
+				"question":"How do you see yourself in 10 years?",
+				"a":"In our apartment with our pets",
+				"b":"With the large family we'll have formed together",
+				"c":"Leaving our homeland to other horizons",
+				"d":"Like today",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cuántos hijos quieres?",
-				"a": "1",
-				"b": "2",
-				"c": "3",
-				"d": "4 o más",
-				"e": "¡No quiero tener hijos!"
+				"question":"How many children do you want?",
+				"a":"1",
+				"b":"2",
+				"c":"3",
+				"d":"4 or more",
+				"e":"I don\u2019t want children !"
 			},
 			"question_4":{
-				"question": "¿Prefieres vivir en una casa o en un apartamento?",
-				"a": "Casa",
-				"b": "Apartamento",
+				"question":"Would you rather live in a house or apartment?",
+				"a":"House",
+				"b":"Apartment",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Te ves viviendo en la ciudad o en el campo?",
-				"a": "Ciudad",
-				"b": "Campo",
+				"question":"Do you see yourself living in the city or in the countryside?",
+				"a":"City",
+				"b":"Countryside ",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Prefieres vivir cerca del mar, de la montaña o del bosque?",
-				"a": "El mar",
-				"b": "Las montañas",
-				"c": "El bosque",
-				"d": "Ya he dicho que quiero vivir en una ciudad",
+				"question":"Would you rather live Close to the sea, the mountains or the forest?",
+				"a":"The sea",
+				"b":"The Mountains",
+				"c":"The Forest",
+				"d":"I've already said I want to live in a city ",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿Eres aficionado al bricolaje?",
-				"a": "Un poco pero no especialmente",
-				"b": "Sí, me gusta",
-				"c": "En absoluto",
+				"question":"Are you a fan of DIY?",
+				"a":"A little but not particularly ",
+				"b":"Yes, I like it",
+				"c":"Not at all",
 				"d":"",
 				"e":""
 			},
@@ -89,61 +88,61 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Tus resultados:"
+				"endtitle_B":"Your results:"
 			},
 			"question_1":{
-				"question": "¿Piensa [partenaireName] casarse con usted?",
-				"a": "Sí",
-				"b": "No",
-				"c": "Demasiado pronto para decirlo",
+				"question":"Does [partenaireName] plan on marrying you?",
+				"a":"Yes",
+				"b":"No",
+				"c":"Too early to tell",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Dónde se ve [partenaireName] dentro de diez años?",
-				"a": "En tu apartamento con tus mascotas",
-				"b": "Con la familia que habéis formado juntos",
-				"c": "Dejando tu país natal para explorar nuevos horizontes",
-				"d": "Igual que hoy",
+				"question":" Where does [partenaireName] see you in ten years?",
+				"a":"In your apartment with your pets",
+				"b":"With the family you have  formed together",
+				"c":"Leaving your native country to explore new horizons",
+				"d":"Same as today",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Cuántos hijos quiere [partenaireName]?",
-				"a": "1",
-				"b": "2",
-				"c": "3",
-				"d": "4 o más",
-				"e": "¡No quieren tener hijos!"
+				"question":"How many children does [partenaireName] want?",
+				"a":"1",
+				"b":"2",
+				"c":"3",
+				"d":"4 or more",
+				"e":"They don't want children !"
 			},
 			"question_4":{
-				"question": "¿Prefiere [partenaireName] vivir en una casa o en un apartamento?",
-				"a": "Casa",
-				"b": "Apartamento",
+				"question":"Does [partenaireName] prefer to live in a house or apartment?",
+				"a":"House",
+				"b":"Apartment",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Prefiere [partenaireName] vivir en la ciudad o en el campo?",
-				"a": "Ciudad",
-				"b": "Campo",
+				"question":"Would [partenaireName] prefer living  in the city or in the countryside ?",
+				"a":"City",
+				"b":"Countryside",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Preferirían vivir cerca del mar, de la montaña o del bosque?",
-				"a": "El mar",
-				"b": "Las montañas",
-				"c": "El bosque",
-				"d": "Prefieren la ciudad",
+				"question":"Would they rather live Close to the sea, the mountains or the forest?",
+				"a":"The sea",
+				"b":"The Mountains",
+				"c":"The Forest",
+				"d":"They prefer the city",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿A [partenaireName] le gusta el bricolaje?",
-				"a": "Un poco pero no demasiado",
-				"b": "Sí, les gusta",
-				"c": "En absoluto",
+				"question":"Is [partenaireName] into DIY?",
+				"a":"A little but not too much",
+				"b":"Yes, they like it",
+				"c":"Not at all",
 				"d":"",
 				"e":""
 			},
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

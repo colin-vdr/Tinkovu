@@ -1,46 +1,46 @@
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "¿Prefieres los dibujos animados o las películas?",
-				"a": "Dibujos animados",
-				"b": "Películas",
+				"question":"Do you prefer cartoons or movies?",
+				"a":"Cartoons",
+				"b":"Movies",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cuál es tu género cinematográfico favorito?",
-				"a": "Acción/Aventura",
-				"b": "Terror",
-				"c": "Western",
-				"d": "Ciencia Ficción",
-				"e": "Superhéroe"
+				"question":"What's Your favorite movie genre ?",
+				"a":"Action\/Adventure",
+				"b":"Horror",
+				"c":"Western",
+				"d":"Science Fiction",
+				"e":"Superhero"
 			},
 			"question_3":{
-				"question": "¿Te gustan los superhéroes?",
-				"a": "Me encantan",
-				"b": "En realidad no",
+				"question":"Do you like superheroes?",
+				"a":"I love them",
+				"b":"Not really ",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Qué película te gusta más, Star Wars o Star Trek?",
-				"a": "Star Wars",
-				"b": "Star Trek",
-				"c": "No me gusta ninguna de las dos",
+				"question":"Which movie do you love the most, Star Wars or Star Trek?",
+				"a":"Star Wars",
+				"b":"Star Trek",
+				"c":"I don\u2019t like either",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "Tú y [partenaireName] os encontráis solos en el cine, ¿qué hacéis?",
-				"a": "Pido salir, es demasiado embarazoso",
-				"b": "¡No hay problema! Vemos la película hasta las escenas aburridas",
+				"question":"You and a friend are alone in the movie theater, what do you do?",
+				"a":"I ask to leave, it's too embarrassing",
+				"b":"No problem ! We watch the movie up to the boring scenes",
 				"c":"",
 				"d":"",
 				"e":""
@@ -88,44 +88,44 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Prefiere [partenaireName] los dibujos animados o las películas?",
-				"a": "Dibujos animados",
-				"b": "Películas",
+				"question":"Does [partenaireName] prefer cartoons or movies?",
+				"a":"Cartoons",
+				"b":"Movies",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Cuál es el género cinematográfico favorito de [partenaireName]?",
-				"a": "Acción/Aventura",
-				"b": "Terror",
-				"c": "Western",
-				"d": "Ciencia Ficción",
-				"e": "Superhéroe"
+				"question":"What is [partenaireName]'s favorite movie genre?",
+				"a":"Action\/Adventure",
+				"b":"Horror",
+				"c":"Western",
+				"d":"Science Fiction",
+				"e":"Superhero"
 			},
 			"question_3":{
-				"question": "¿Le gustan los superhéroes a [partenaireName]?",
-				"a": "Les encantan",
-				"b": "En realidad no",
+				"question":"Does [partenaireName] like superheroes?",
+				"a":"They love them",
+				"b":"Not really ",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Qué película le gusta más a [partenaireName], Star Wars o Star Trek?",
-				"a": "Star Wars",
-				"b": "Star Trek",
-				"c": "No les gusta ninguna de las dos",
+				"question":"Which movie does [partenaireName] like the best, Star Wars or Star Trek?",
+				"a":"Star Wars",
+				"b":"Star Trek",
+				"c":"They don't like either",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "Tú y [partenaireName] y os encontráis solos en el cine, ¿qué hacéis?",
-				"a": "Piden salir porque`\"es demasiado embarazoso\"",
-				"b": "¡No hay problema! Vemos la película hasta las escenas aburridas",
+				"question":"You and [partenaireName] and you find yourselves  alone in the movie theater, what do you do? :",
+				"a":"They ask to leave because \"it is too embarrassing\"",
+				"b":"No problem ! We watch the movie up to the boring  scenes",
 				"c":"",
 				"d":"",
 				"e":""
@@ -171,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

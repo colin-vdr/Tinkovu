@@ -1,47 +1,47 @@
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una respuesta",
-				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an answer",
+				"title_faceB":"Tap the 'next' button below ",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "¿Tulipanes o rosas?",
-				"a": "Tulipanes",
-				"b": "Rosas",
+				"question":"Tulips or roses?",
+				"a":"Tulips",
+				"b":"Roses",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Manzanas o peras?",
-				"a": "Manzanas",
-				"b": "Peras",
+				"question":"Apples or pears?",
+				"a":"Apples",
+				"b":"Pears",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Comes 5 frutas y verduras al día?",
-				"a": "Por supuesto que sí",
-				"b": "Creo que no",
+				"question":"Do you eat 5 fruits and vegetables a day?",
+				"a":"Of course I do",
+				"b":"I don\u2019t think so",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Sabes cocinar?",
-				"a": "Sí, cocino regularmente",
-				"b": "Digamos que sé cocinar pasta",
+				"question":"Do you know how to cook?",
+				"a":"Yes, I cook regularly",
+				"b":"Let\u2019s just say I can cook pasta",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Te gustan las verduras verdes?",
-				"a": "Me encanta añadirlas a mi dieta diaria",
-				"b": "Sólo en pequeñas dosis",
-				"c": "En realidad no",
+				"question":"Do you like green vegetables?",
+				"a":"I love to add them to my t daily diet",
+				"b":"Only in small doses",
+				"c":"Not really ",
 				"d":"",
 				"e":""
 			},
@@ -88,45 +88,45 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Prefiere [partenaireName] los tulipanes o las rosas?",
-				"a": "Tulipanes",
-				"b": "Rosas",
+				"question":"Does [partenaireName] prefer tulips or roses?",
+				"a":"Tulips",
+				"b":"Roses",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Prefiere [partenaireName] las manzanas o las peras?",
-				"a": "Manzanas",
-				"b": "Peras",
+				"question":"Does [partenaireName] prefer apples or pears?",
+				"a":"Apples",
+				"b":"Pears",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Consume [partenaireName] 5 frutas y verduras al día?",
-				"a": "Por supuesto que sí",
-				"b": "Creo que no",
+				"question":"Does [partenaireName] eat 5 fruits and vegetables a day?",
+				"a":"Of course they do ",
+				"b":"I don\u2019t think so",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cocina bien [partenaireName]?",
-				"a": "Sí, cocinan regularmente",
-				"b": "Digamos que saben cocinar bien la pasta",
+				"question":"Does [partenaireName] cook well?",
+				"a":"Yes, they cook regularly",
+				"b":"Let\u2019s just say they  can cook pasta well",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Le gustan a [partenaireName] las verduras verdes?",
-				"a": "Les encanta, es parte de su dieta diaria",
-				"b": "Sólo en pequeñas dosis",
-				"c": "En realidad no",
+				"question":"Does [partenaireName] like green vegetables?",
+				"a":"They love them , it\u2019s part of their  daily diet",
+				"b":"Only in small doses",
+				"c":"Not really",
 				"d":"",
 				"e":""
 			},
@@ -171,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

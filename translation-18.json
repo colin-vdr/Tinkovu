@@ -1,63 +1,62 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una pregunta",
-				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to an question",
+				"title_faceB":"Tap the 'next' button bellow",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "¿Qué capital te gustaría visitar?",
-				"a": "Washington DC",
-				"b": "Madrid",
-				"c": "Londres",
-				"d": "París",
-				"e": "Moscú"
+				"question":"What capital would you like to visit?",
+				"a":"Washington DC",
+				"b":"Madrid",
+				"c":"London",
+				"d":"Paris",
+				"e":"Moscow"
 			},
 			"question_2":{
-				"question": "¿Su medio de transporte favorito?",
-				"a": "El avión",
-				"b": "El tren",
-				"c": "El coche",
-				"d": "La bicicleta",
-				"e": "Mis pies"
+				"question":"Your favorite mode of transportation?",
+				"a":"The plane",
+				"b":"The train",
+				"c":"The car",
+				"d":"The bike",
+				"e":"My feet"
 			},
 			"question_3":{
-				"question": "¿Te imaginas explorando la selva?",
-				"a": "No, prefiero quedarme en un hotel",
-				"b": "¡Sería genial!",
+				"question":"Can you picture yourself exploring the jungle?",
+				"a":"No, I'd prefer staying at an hotel",
+				"b":"It would be a great!",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Te gusta ir de viaje por carretera?",
-				"a": "Claro, ¿por qué no?",
-				"b": "No puedo soportar tanto viaje en coche",
+				"question":"You want to go on a roadtrip with some friends?",
+				"a":"Sure why not?",
+				"b":"I can\u2019t handle that much car travel",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Qué país quieres visitar absolutamente?",
-				"a": "India",
-				"b": "Australia",
-				"c": "China",
-				"d": "Estados Unidos",
-				"e": "Japón"
+				"question":"Which country do you absolutely want to visit?",
+				"a":"India",
+				"b":"Australia",
+				"c":"China",
+				"d":"The United States",
+				"e":"Japan"
 			},
 			"question_6":{
-				"question": "¿Te gusta acampar?",
-				"a": "No demasiado, me dan miedo los animales salvajes",
-				"b": "¡Sí, puede ser divertido!",
+				"question":"Do you like camping?",
+				"a":"Not too much, I\u2019m afraid of wild animals",
+				"b":"Yes it can be fun!",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿Te ves haciendo ciclismo de montaña?",
-				"a": "No me gusta andar en bicicleta",
-				"b": "¡Sí, definitivamente!",
+				"question":"Do you see yourself doing moutain biking?",
+				"a":"I don\u2019t like to ride the bike",
+				"b":"Yes definitely!",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,60 +88,60 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Qué capital le gustaría visitar [partenaireName]?",
-				"a": "Washington DC",
-				"b": "Madrid",
-				"c": "Londres",
-				"d": "París",
-				"e": "Moscú"
+				"question":"Which capital would like to visit [partenaireName]?",
+				"a":"Washington DC",
+				"b":"Madrid",
+				"c":"London",
+				"d":"Paris",
+				"e":"Moscow"
 			},
 			"question_2":{
-				"question": "¿Cuál es el medio de transporte favorito de [partenaireName]?",
-				"a": "Avión",
-				"b": "Tren",
-				"c": "Coche",
-				"d": "Bicicleta",
-				"e": "Sus pies"
+				"question":"What's [partenaireName]'s favorite mean of transportation?",
+				"a":"Plane",
+				"b":"Train",
+				"c":"Car",
+				"d":"Bike",
+				"e":"Their feet"
 			},
 			"question_3":{
-				"question": "¿Se imagina a [partenaireName] explorando la selva?",
-				"a": "No, prefieren quedarse en un hotel",
-				"b": "¡Sería una gran experiencia para ellos!",
+				"question":"Can you picture [partenaireName] exploring the jungle?",
+				"a":"No, they prefer staying at an hotel",
+				"b":"It would be a great experience for them!",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Le gustaría a [partenaireName] hacer un viaje por carretera con usted?",
-				"a": "Claro, ¿por qué no?",
-				"b": "No soportarían tanto viaje en coche",
+				"question":"Would [partenaireName] like to go on  a roadtrip with you?",
+				"a":"Sure, why not?",
+				"b":"They would not  handle that much car travel",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Qué país le gustaría visitar a [partenaireName]?",
-				"a": "India",
-				"b": "Australia",
-				"c": "China",
-				"d": "Estados Unidos",
-				"e": "Japón"
+				"question":"Which country would [partenaireName] absolutely like to visit?",
+				"a":"India",
+				"b":"Australia",
+				"c":"China",
+				"d":"The United States",
+				"e":"Japan"
 			},
 			"question_6":{
-				"question": "¿A [partenaireName] le gusta acampar?",
-				"a": "En realidad no, le dan miedo los animales salvajes",
-				"b": "Sí, ¡podría ser divertido para ellos!",
+				"question":"Does [partenaireName] like camping?",
+				"a":"Not really, they are afraid of wild animals",
+				"b":"Yes, it could  be fun for them !",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_7":{
-				"question": "¿Puedes ver a [partenaireName] haciendo ciclismo de montaña?",
-				"a": "No les gusta montar en bicicleta",
-				"b": "¡Si definitivamente!",
+				"question":"Can you see [partenaireName] doing mountain biking?",
+				"a":"They don't like to ride the bike",
+				"b":"Yes definitely!",
 				"c":"",
 				"d":"",
 				"e":""
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

@@ -1,49 +1,49 @@
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Pulsa el mapa para responder a las preguntas",
-				"title_faceB": "Pulsa el siguiente botón",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+			"default":{
+				"title_faceA":"Press the map to answer the questions",
+				"title_faceB":"Press the next button",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "¿Caramelos o bombones?",
-				"a": "Caramelos",
-				"b": "Chocolates",
+				"question":"Candy or chocolates?",
+				"a":"Candy",
+				"b":"Chocolates",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Croissant o pan de chocolate?",
-				"a": "Croissant",
-				"b": "Pan de chocolate",
+				"question":"Croissant or chocolate bread?",
+				"a":"Croissant",
+				"b":"Chocolate Bread",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Panqueques dulces o salados?",
-				"a": "Dulce",
-				"b": "Salado",
+				"question":"Sweet or salty pancakes?",
+				"a":"Sweet",
+				"b":"Salty",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cuál es tu chocolate favorito?",
-				"a": "Chocolate negro",
-				"b": "Chocolate con leche",
-				"c": "Chocolate blanco",
+				"question":"What's your favorite chocolate?",
+				"a":"Dark Chocolate",
+				"b":"Milk Chocolate",
+				"c":"White Chocolate",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "En tus panqueques, pones:",
-				"a": "Azúcar",
-				"b": "Chocolate",
-				"c": "Caramelo",
-				"d": "Miel",
-				"e": "Mermelada"
+				"question":"On your pancakes, you put:",
+				"a":"Sugar",
+				"b":"Chocolate",
+				"c":"Caramel",
+				"d":"Honey",
+				"e":"Jam"
 			},
 			"question_6":{
 				"question":"",
@@ -88,47 +88,47 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Qué preferiría [partenaireName]?",
-				"a": "Caramelos",
-				"b": "Chocolates",
+				"question":"What would [partenaireName] prefer?",
+				"a":"Candy",
+				"b":"Chocolates",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Qué preferiría [partenaireName]?",
-				"a": "Croissant",
-				"b": "Pan de chocolate",
+				"question":"What would [partenaireName] prefer?",
+				"a":"Croissant",
+				"b":"Chocolate Bread",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Prefiere [partenaireName], tortitas dulces o saladas?",
-				"a": "Dulce",
-				"b": "Salado",
+				"question":"Does [partenaireName], prefer sweet or salty pancakes?",
+				"a":"Sweet",
+				"b":"Salty",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Cuál es el tipo de chocolate favorito de [partenaireName]?",
-				"a": "Chocolate negro",
-				"b": "Chocolate con leche",
-				"c": "Chocolate blanco",
+				"question":"What's [partenaireName] favorite kind of chocolat?",
+				"a":"Dark Chocolate",
+				"b":"Milk Chocolate",
+				"c":"White Chocolate",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "En sus tortitas, [partenaireName] pone:",
-				"a": "Azúcar",
-				"b": "Chocolate",
-				"c": "Caramelo",
-				"d": "Miel",
-				"e": "Mermelada"
+				"question":"On their pancakes, [partenaireName] puts:",
+				"a":"Sugar",
+				"b":"Chocolate",
+				"c":"Caramel",
+				"d":"Honey",
+				"e":"Jam"
 			},
 			"question_6":{
 				"question":"",
@@ -171,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

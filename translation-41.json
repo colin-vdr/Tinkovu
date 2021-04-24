@@ -1,56 +1,55 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Pulsa la tarjeta para responder a las preguntas",
-				"title_faceB": "Toca el botón 'siguiente' abajo",
-				"endtitle_A": "¡Veremos si tus amigos te conocen bien!"
+			"default":{
+				"title_faceA":"Press the card to answer the questions",
+				"title_faceB":"Goal made by Grand Benoit",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question": "Cuando eras niño soñabas con ser:",
-				"a": "Bombero",
-				"b": "Policía",
-				"c": "Profesor",
-				"d": "Médico",
-				"e": "Astronauta"
+				"question":"When you were a child you dreamed of becoming:",
+				"a":"Fireman",
+				"b":"Policeman",
+				"c":"Prof",
+				"d":"Doctor",
+				"e":"Astronaut"
 			},
 			"question_2":{
-				"question": "Hasta cuándo creías en Papá Noel",
-				"a": "5 años",
-				"b": "6 años",
-				"c": "7 años",
-				"d": "8 años",
-				"e": "9 años o más"
+				"question":"Until when you believed in Santa Claus",
+				"a":"5 years",
+				"b":"6 years",
+				"c":"7 years",
+				"d":"8 years",
+				"e":"9 years or more"
 			},
 			"question_3":{
-				"question": "¿Eras un niño inquieto?",
-				"a": "Fui sabio como una imagen",
-				"b": "Estaba bien",
-				"c": "Era hiperactivo",
+				"question":"You were a restless child?",
+				"a":"I was wise as an image",
+				"b":"It was fine",
+				"c":"I was hyper active",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Tuviste un amante?",
-				"a": "Sí varios incluso",
-				"b": "Sí",
-				"c": "No",
-				"d": "¡Nan berk!",
+				"question":"Did you have a lover?",
+				"a":"Yes several even",
+				"b":"Yes",
+				"c":"No",
+				"d":"Nan berk!",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Tu mayor sueño de la infancia?",
-				"a": "Casarme",
-				"b": "Tener mi propia casa",
-				"c": "Ir al espacio",
-				"d": "Tener un Poku00e9mon",
+				"question":"Your biggest childhood dream?",
+				"a":"Marry me",
+				"b":"Having my own house",
+				"c":"Go to space",
+				"d":"Having Pok\u00e9mon",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Tenías miedo de los monstruos bajo la cama?",
-				"a": "Sí",
-				"b": "Siempre es así",
-				"c": "No",
+				"question":"Were you afraid of the monsters under the bed?",
+				"a":"Yes",
+				"b":"It is always the case",
+				"c":"No",
 				"d":"",
 				"e":""
 			},
@@ -89,53 +88,53 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Aquí están los resultados:"
+				"endtitle_B":"Here are your results:"
 			},
 			"question_1":{
-				"question": "Cuando [partenaireName] era un niño, él/ella soñaba con ser:",
-				"a": "Bombero",
-				"b": "Policía",
-				"c": "Profesor",
-				"d": "Doctor",
-				"e": "Astronauta"
+				"question":"When [partenaireName] was a child, he \/ she dreamed of becoming:",
+				"a":"Fireman",
+				"b":"Policeman",
+				"c":"Prof",
+				"d":"Doctor",
+				"e":"Astronaut"
 			},
 			"question_2":{
-				"question": "Hasta cuando [partenaireName] creía en Santa Claus",
-				"a": "5 años",
-				"b": "6 años",
-				"c": "7 años",
-				"d": "8 años",
-				"e": "9 años o más"
+				"question":"Until when [partenaireName] believed in Santa Claus",
+				"a":"5 years",
+				"b":"6 years",
+				"c":"7 years",
+				"d":"8 years",
+				"e":"9 years or more"
 			},
 			"question_3":{
-				"question": "¿[partenaireName] era un niño agitado?",
-				"a": "Sabio como una imagen",
-				"b": "Estaba bien",
-				"c": "Él / Ella era hiperactiva",
+				"question":"[partenaireName] was an agitated child?",
+				"a":"Wise as an image",
+				"b":"It was fine",
+				"c":"He \/ She was hyper active",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿[partenaireName] tenía un amante?",
-				"a": "Sí varios iguales",
-				"b": "Sí",
-				"c": "No",
-				"d": "Nan berk",
+				"question":"[partenaireName] had a lover?",
+				"a":"Yes several same",
+				"b":"Yes",
+				"c":"No",
+				"d":"Nan berk",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿El mayor sueño de la infancia de [partenaireName]?",
-				"a": "Casarse",
-				"b": "Tener su propia casa",
-				"c": "Ir al espacio",
-				"d": "Tener un Poku00e9mon",
+				"question":"The biggest childhood dream of [partenaireName]?",
+				"a":"Getting married",
+				"b":"Having your own house",
+				"c":"Go to space",
+				"d":"Having Pok\u00e9mon",
 				"e":""
 			},
 			"question_6":{
-				"question":"[partenaireName] tenía miedo de los monstruos bajo la cama?",
-				"a": "Sí",
-				"b": "Siempre es así",
-				"c": "No",
+				"question":"[partenaireName] was afraid of the monsters under the bed?",
+				"a":"Yes",
+				"b":"It is always the case",
+				"c":"No",
 				"d":"",
 				"e":""
 			},
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

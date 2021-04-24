@@ -1,66 +1,66 @@
-	"es":{
+{
+	"en":{
 		"a":{
 			"default":{
-				"goal_title":"Detr\u00e1s de la estufa",
-				"title_faceA":"Toca la tarjeta y selecciona tu respuesta",
-				"title_faceB":"Toca el bot\u00f3n 'siguiente' a continuaci\u00f3n",
-				"endtitle_A":"Veamos si tus amigos te conocen bien"
+				"title_faceA":"Tap the card and select your answer",
+				"title_faceB":"Tap the 'next' button below",
+				"endtitle_A":"Let's see if your friends know you well!"
 			},
 			"question_1":{
-				"question":"\u00bfD\u00f3nde prefieres comer?",
-				"a":"En un restaurante gourmet",
-				"b":"En casa",
-				"c":"En un restaurante de comida r\u00e1pida",
+				"question":"Where do you prefer to eat? ",
+				"a":"At a gourmet restaurant",
+				"b":"At home",
+				"c":"At a Fast Food Restaurant",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"\u00bfPrefieres la comida dulce o salada?",
-				"a":"Prefiero la comida salada",
-				"b":"Prefiero lo dulce",
+				"question":"Do you prefer salty or sweet food?",
+				"a":"I prefer salty food",
+				"b":"I prefer sweets",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"\u00bfT\u00e9 o caf\u00e9?",
-				"a":"T\u00e9",
-				"b":"Caf\u00e9",
-				"c":"\u00a1Ew, ninguno!",
+				"question":"Tea or coffee?",
+				"a":"Tea",
+				"b":"Coffee",
+				"c":"Ew, neither!",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"\u00bfCu\u00e1l es tu fruta favorita?",
-				"a":"Manzanas",
-				"b":"Fresas",
-				"c":"Peras",
-				"d":"Pl\u00e1tanos",
-				"e":"Ninguno de esos"
+				"question":"What is your favorite fruit?",
+				"a":"Apples",
+				"b":"Strawberries",
+				"c":"Pears",
+				"d":"Bananas",
+				"e":"None of them"
 			},
 			"question_5":{
-				"question":"\u00bfQui\u00e9n es el mejor cocinando?",
-				"a":"Soy yo",
-				"b":"Claramente, amigos",
-				"c":"Mi mam\u00e1",
+				"question":"Who is the best cook?",
+				"a":"It's me",
+				"b":"Some of my friends",
+				"c":"My mother",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"A la hora de comer, \u00bfqu\u00e9 prefieres de beber?",
-				"a":"Agua",
-				"b":"Refresco",
-				"c":"\u00a1Alcohol!",
-				"d":"Un poco de jugo de fruta",
+				"question":"At mealtime, what do you prefer to drink?:",
+				"a":"Water",
+				"b":"Soda",
+				"c":"Alcohol!",
+				"d":"A bit of fruit juice",
 				"e":""
 			},
 			"question_7":{
-				"question":"\u00bfCu\u00e1l ser\u00eda un buen postre para ti?",
-				"a":"Algo de yogurt",
-				"b":"Un pastel de chocolate",
-				"c":"Un pastel de frutas",
-				"d":"Helado",
-				"e":"Yo no como postres"
+				"question":"What is a good dessert to you?",
+				"a":"Some yogurt",
+				"b":"A chocolate cake",
+				"c":"A fruit cake",
+				"d":"ice cream",
+				"e":"I don't eat dessert"
 			},
 			"question_8":{
 				"question":"",
@@ -89,63 +89,63 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Tus resultados:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question":"\u00bfD\u00f3nde prefiere comer [partenaireName]?",
-				"a":"En un restaurante gourmet",
-				"b":"Un platillo hecho en casa",
-				"c":"Comida r\u00e1pida",
+				"question":"Where does [partenaireName] prefer to eat?",
+				"a":"In a gourmet restaurant",
+				"b":"A home-made dish",
+				"c":"Fast food",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"\u00bf[partenaireName] prefiere comer comida dulce o salada?",
-				"a":"\u00c9l\/Ella prefiere comida salada",
-				"b":"\u00c9l\/Ella prefiere lo dulce",
+				"question":"Does [partenaireName] prefer eating  salty or sweet food?",
+				"a":"They prefer salty food",
+				"b":"They prefer sweets",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"\u00bfQu\u00e9 prefiere de beber [partenaireName], t\u00e9 o caf\u00e9?",
-				"a":"T\u00e9",
-				"b":"Caf\u00e9",
-				"c":"\u00a1Ew, ninguno!",
+				"question":"What does [partenaireName] prefer drinking, tea or coffee?",
+				"a":"Tea",
+				"b":"Coffee",
+				"c":"Ew, neither!",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"\u00bfCu\u00e1l es la fruta favorita de [partenaireName]?",
-				"a":"Manzanas",
-				"b":"Fresas",
-				"c":"Peras",
-				"d":"Pl\u00e1tanos",
-				"e":"Ninguno de esos"
+				"question":"What is [partenaireName]'s favorite fruit?",
+				"a":"Apples",
+				"b":"Strawberries",
+				"c":"Pears",
+				"d":"Bananas",
+				"e":"None of them"
 			},
 			"question_5":{
-				"question":"\u00bfQui\u00e9n es el mejor cocinando?",
-				"a":"Amigos",
-				"b":"Claramente, yo",
-				"c":"Su mam\u00e1",
+				"question":"Who is the best cook?",
+				"a":"It's [partenaireName]",
+				"b":"His/her friends",
+				"c":"His/her mother",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"A la hora de comer, \u00bfQu\u00e9 prefiere de beber [partenaireName]?",
-				"a":"Agua",
-				"b":"Refresco",
-				"c":"\u00a1Alcohol!",
-				"d":"Un poco de jugo de fruta",
+				"question":"At lunch, what does [partenaireName] prefer to drink?",
+				"a":"Water",
+				"b":"Soda",
+				"c":"Alcohol!",
+				"d":"A bit of fruit juice",
 				"e":""
 			},
 			"question_7":{
-				"question":"\u00bfCu\u00e1l ser\u00eda un buen postre para [partenaireName]?",
-				"a":"Algo de yogurt",
-				"b":"Pastel de chocolate",
-				"c":"Pastel de fruta",
-				"d":"Helado",
-				"e":"[partenaireName] no come postres"
+				"question":"What's a good dessert for [partenaireName] ?",
+				"a":"Some yogurt",
+				"b":"chocolate cake",
+				"c":"Fruit Cake",
+				"d":"Ice cream",
+				"e":"[partenaireName] does not eat dessert"
 			},
 			"question_8":{
 				"question":"",
@@ -173,3 +173,4 @@
 			}
 		}
 	}
+}

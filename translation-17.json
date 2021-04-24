@@ -1,55 +1,54 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Toca la tarjeta para responder a una pregunta",
-				"title_faceB": "Toca el botón 'siguiente' de abajo",
-				"endtitle_A": "¡Veremos si [partenaireName] te conoce bien!"
+			"default":{
+				"title_faceA":"Tap the card to reply to a question",
+				"title_faceB":"Tap the 'next' button below",
+				"endtitle_A":"We\u2019ll see if [partenaireName] knows you well!"
 			},
 			"question_1":{
-				"question": "¿Ronca [partenaireName] mientras duerme?",
-				"a": "Sí, hacen mucho ruido",
-				"b": "No, son silenciosos",
+				"question":"Does [partenaireName] snore in their sleep?",
+				"a":"Yes, they make a lot of noise",
+				"b":"No, they're quiet",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Quién hace la cama por la mañana?",
-				"a": "Siempre soy yo",
-				"b": "Es [partenaireName]",
-				"c": "Nos turnamos",
-				"d": "Nunca hacemos la cama",
+				"question":"Who makes the bed in the morning?",
+				"a":"It\u2019s always me",
+				"b":"It's [partenaireName]",
+				"c":"We take turns",
+				"d":"We never make the bed",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Se mueve mucho por la noche [partenaireName]?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Does [partenaireName] move a lot at night?",
+				"a":"Yes",
+				"b":"Nope",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Duerme usted sobre su lado izquierdo o derecho?",
-				"a": "Lado izquierdo",
-				"b": "Lado derecho",
+				"question":"Do you sleep on your left or right side?",
+				"a":"Left side",
+				"b":"Right side",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Sueña a menudo con [partenaireName]?",
-				"a": "Sí, muy a menudo",
-				"b": "A veces sucede",
-				"c": "¡Todo el tiempo!",
+				"question":"Do you often dream about [partenaireName]?",
+				"a":"Yes very often",
+				"b":"Sometimes it happens",
+				"c":"All the time!",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Quién es más probable que robe la manta?",
-				"a": "Claramente, [nombre del participante]",
-				"b": "Soy yo, porque siempre tengo frío",
+				"question":"Who is more likely steal the blanket?",
+				"a":"Clearly,[partenaireName]",
+				"b":"It\u2019s me, because I\u2019m always cold",
 				"c":"",
 				"d":"",
 				"e":""
@@ -89,52 +88,52 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Su resultado:"
+				"endtitle_B":"Your result:"
 			},
 			"question_1":{
-				"question": "¿Roncas en la cama?",
-				"a": "Sí, hago mucho ruido",
-				"b": "No, soy silencioso",
+				"question":"Do you snore in bed?",
+				"a":"Yes I make a lot of noise",
+				"b":"No, I'm quiet",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "¿Quién hace la cama por la mañana?",
-				"a": "Siempre es [partenaireName]",
-				"b": "Soy yo",
-				"c": "Nos turnamos",
-				"d": "Nunca hacemos la cama",
+				"question":"Who makes the bed in the morning?",
+				"a":"It\u2019s always [partenaireName]",
+				"b":"It\u2019s me",
+				"c":"We take turns",
+				"d":"We never make the bed",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Te mueves mucho por la noche?",
-				"a": "Sí",
-				"b": "No",
+				"question":"Do you move a lot at night?",
+				"a":"Yes",
+				"b":"Nope",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Duerme [partenaireName] sobre su lado izquierdo o derecho?",
-				"a": "Lado izquierdo",
-				"b": "En el lado derecho",
+				"question":"Does [partenaireName] sleep on their left or right side?",
+				"a":"Left side",
+				"b":"On the right side",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Sueña [partenaireName] a menudo con usted?",
-				"a": "Sí, muy a menudo",
-				"b": "A veces sucede",
-				"c": "¡Todo el tiempo!",
+				"question":"Does [partenaireName] often dream of you?",
+				"a":"Yes very often",
+				"b":"Sometimes it happens",
+				"c":"All the time!",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Quién es más propenso a robar la manta?",
-				"a": "Claramente, soy yo",
-				"b": "Es [partenaireName] porque siempre tiene frío",
+				"question":"Who is more like to stealthe blanket ?",
+				"a":"Clearly, it\u2019s me",
+				"b":"It\u2019s [partenaireName] because they're always feeling cold",
 				"c":"",
 				"d":"",
 				"e":""
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

@@ -1,81 +1,80 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Pulse la tarjeta para responder a las preguntas",
-				"title_faceB": "Pulse el 'siguiente' botón de abajo",
-				"endtitle_A": "¡Vamos a ver si [partenaireName] te conoce bien!"
+			"default":{
+				"title_faceA":"Press the card to answer the questions",
+				"title_faceB":"Tap next button below",
+				"endtitle_A":"We will see if [partenaireName] knows you well!"
 			},
 			"question_1":{
-				"question": "¿Qué besos te vuelven loco? ",
-				"a": "En los labios",
-				"b": "En el cuello",
-				"c": "En el abdomen",
+				"question":"Which kisses drives you crazy? ",
+				"a":"On the lips ",
+				"b":"In the neck ",
+				"c":"In the abdomen ",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "En la ducha:",
-				"a": "Canto",
-				"b": "Bailo",
-				"c": "Pienso",
+				"question":"In the shower:",
+				"a":"I sing",
+				"b":"I dance",
+				"c":"I think",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "Usted prefiere:",
-				"a": "Dibujar",
-				"b": "Pintar",
-				"c": "Escribir",
+				"question":"You prefer:",
+				"a":"Draw",
+				"b":"Paint",
+				"c":"Write",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "Cuando estás triste:",
-				"a": "Lloro",
-				"b": "Pienso",
-				"c": "Sonrío",
+				"question":"When you're sad:",
+				"a":"I cry",
+				"b":"I think",
+				"c":"I smile",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "Tu mayor problema es:",
-				"a": "Pensar demasiado",
-				"b": "Me enfado por todo",
-				"c": "Lloro por todo",
+				"question":"Your biggest problem is:",
+				"a":"Thinking too much ",
+				"b":"I get angry about everything ",
+				"c":"I cry for everything ",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Qué es lo que más te relaja? ",
-				"a": "Mirar la luna",
-				"b": "Escuchar música",
-				"c": "Sentir el viento",
-				"d": "Otro...",
+				"question":"What relaxes you the most? ",
+				"a":"Looking at the moon ",
+				"b":"Listening to music ",
+				"c":"Feeling the wind ",
+				"d":"Other...",
 				"e":""
 			},
 			"question_7":{
-				"question": "Cuando no estás bien necesitas: ",
-				"a": "Tiempo",
-				"b": "Soledad",
-				"c": "Escuchar a la persona que quiero",
+				"question":"When you're not well you need: ",
+				"a":"Time",
+				"b":"Loneliness",
+				"c":"Listening to the person I love ",
 				"d":"",
 				"e":""
 			},
 			"question_8":{
-				"question": "¿Qué es lo que más quieres en la vida? ",
-				"a": "Viajar",
-				"b": "Ayudar a los niños y a la gente",
-				"c": "Ser feliz",
+				"question":"What do you want most in life? ",
+				"a":"Travel",
+				"b":"Helping children and people ",
+				"c":"Be happy ",
 				"d":"",
 				"e":""
 			},
 			"question_9":{
-				"question": "¿Cuál es tu mayor deseo? ",
-				"a": "Besar",
-				"b": "Hacerte el amor",
-				"c": "Chocolate",
-				"d": "Todas las respuestas anteriores",
+				"question":"What is your greatest desire? ",
+				"a":"Kissing ",
+				"b":"Making love to you ",
+				"c":"Chocolate ",
+				"d":"All of the above answers ",
 				"e":""
 			},
 			"question_10":{
@@ -89,78 +88,78 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Aquí están los resultados:"
+				"endtitle_B":"Here are your results:"
 			},
 			"question_1":{
-				"question": "¿Qué besos vuelven loco a [partenaireName]? ",
-				"a": "En los labios",
-				"b": "En el cuello",
-				"c": "En el abdomen",
+				"question":"Which kisses drives [partenaireName] crazy? ",
+				"a":"On the lips ",
+				"b":"In the neck ",
+				"c":"In the abdomen ",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question": "En la ducha, [partenaireName]:",
-				"a": "Canta",
-				"b": "Baila",
-				"c": "Piensa",
+				"question":"In the shower, [partenaireName]:",
+				"a":"Sing",
+				"b":"Dance",
+				"c":"Think",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"[partenaireName] prefiere:",
-				"a": "Dibujar",
-				"b": "Pintar",
-				"c": "Escribir",
+				"question":"[partenaireName] prefers:",
+				"a":"Draw",
+				"b":"Paint",
+				"c":"Write",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "Cuando [partenaireName] está triste:",
-				"a": "Llora",
-				"b": "Piensa",
-				"c": "Sonríe",
+				"question":"When [partenaireName] is sad:",
+				"a":"He\/she cry",
+				"b":"Think",
+				"c":"Smile",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "El mayor problema de [partenaireName] es:",
-				"a": "Pensar demasiado",
-				"b": "Enfadarse por todo",
-				"c": "Llorar por todo",
+				"question":"[partenaireName]'s biggest problem is:",
+				"a":"Thinking too much ",
+				"b":"Getting angry about everything ",
+				"c":"Crying for everything ",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question": "¿Qué es lo que más relaja a [partenaireName]? ",
-				"a": "Mirar la luna",
-				"b": "Escuchar música",
-				"c": "Sentir el viento",
-				"d": "Otro...",
+				"question":"What relaxes [partenaireName] the most? ",
+				"a":"Looking at the moon ",
+				"b":"Listening to music ",
+				"c":"Feeling the wind ",
+				"d":"Other...",
 				"e":""
 			},
 			"question_7":{
-				"question": "Cuando [partenaireName] no está bien necesita: ",
-				"a": "Tiempo",
-				"b": "Soledad",
-				"c": "Escuchar a la persona que ama",
+				"question":"When [partenaireName] is not well he\/she needs: ",
+				"a":"Time",
+				"b":"Loneliness",
+				"c":"Listening to the person he\/she loves",
 				"d":"",
 				"e":""
 			},
 			"question_8":{
-				"question": "¿Qué es lo que más quiere [partenaireName] en la vida? ",
-				"a": "Viajar",
-				"b": "Ayudar a los niños y a la gente",
-				"c": "Ser feliz",
+				"question":"What do [partenaireName] wants most in life? ",
+				"a":"Travel",
+				"b":"Helping children and people ",
+				"c":"Be happy ",
 				"d":"",
 				"e":""
 			},
 			"question_9":{
-				"question": "¿Cuál es el mayor deseo de [partenaireName]? ",
-				"a": "Besar",
-				"b": "Hacerte el amor",
-				"c": "Chocolate",
-				"d": "Todas las respuestas anteriores",
+				"question":"What is [partenaireName]'s greatest desire? ",
+				"a":"Kissing ",
+				"b":"Making love to you ",
+				"c":"Chocolate ",
+				"d":"All of the above answers ",
 				"e":""
 			},
 			"question_10":{
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},

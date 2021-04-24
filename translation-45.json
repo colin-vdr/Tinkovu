@@ -1,58 +1,57 @@
-
-	"es":{
+	"en":{
 		"a":{
-			"por defecto":{
-				"title_faceA": "Pulsa la tarjeta para responder a las preguntas",
-				"title_faceB": "Pulse el botón siguiente",
-				"endtitle_A": "¡Vamos a ver si [partenaireName] te conoce bien!"
+			"default":{
+				"title_faceA":"Press the card to answer the questions",
+				"title_faceB":"Press the next button",
+				"endtitle_A":"We will see if [partenaireName] knows you well!"
 			},
 			"question_1":{
-				"question": "¿A qué edad hiciste tu primera vez?",
-				"a": "Alrededor de 12 años",
-				"b": "Alrededor de 15 años",
-				"c": "Alrededor de 18 años",
-				"d": "Alrededor de 20 años",
-				"e": "Todavía no"
+				"question":"At what age were you doing your first time?",
+				"a":"Around 12 years old",
+				"b":"Around 15 years old",
+				"c":"Around 18 years old",
+				"d":"Around 20 years old",
+				"e":"Not yet done"
 			},
 			"question_2":{
-				"question": "¿Es [partenaireName] tu primera vez?",
-				"a": "Sí",
-				"b": "No",
-				"c": "Todavía no, pero espero que pronto",
+				"question":"Is [partenaireName] your first time?",
+				"a":"Yes",
+				"b":"Nope",
+				"c":"Not yet but soon I hope",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Siempre te has puesto un preservativo en las relaciones sexuales de riesgo?",
-				"a": "Sí, siempre la salud por encima de todo",
-				"b": "Ha pasado que no",
-				"c": "Ya no lo sé",
+				"question":"Did you always put on a condom during risky sex?",
+				"a":"Yes always health above all",
+				"b":"It happened that not",
+				"c":"I don't know anymore",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Guardas un buen recuerdo de tu primera vez?",
-				"a": "Sí, fue un buen comienzo",
-				"b": "No, me dolió y fue rápido",
-				"c": "No me acuerdo",
+				"question":"Do you keep a good memory of your first time?",
+				"a":"Yes it was a good start",
+				"b":"No it hurt and it was fast",
+				"c":"I don't remember",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "La primera vez con [partenaireName], ¿cómo fue?",
-				"a": "Muy largo y muy caliente",
-				"b": "Fue rápido",
-				"c": "No fue tan bueno",
-				"d": "Todavía no lo hemos hecho",
+				"question":"The first time with [partenaireName], how was it?",
+				"a":"Very long and very hot",
+				"b":"It was fast",
+				"c":"It was not that great",
+				"d":"We haven't done it yet",
 				"e":""
 			},
 			"question_6":{
-				"question": "La última vez que tuviste sexo con [partenaireName], ¿cuándo fue?",
-				"a": "Hoy",
-				"b": "Ayer",
-				"c": "Esta semana",
-				"d": "La semana pasada",
-				"e": "Hay mucho más tiempo"
+				"question":"The last time you had sex with [partenaireName], when was that?",
+				"a":"Today",
+				"b":"Yesterday",
+				"c":"This week",
+				"d":"Last week",
+				"e":"There's a lot longer"
 			},
 			"question_7":{
 				"question":"",
@@ -89,55 +88,55 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B": "Aquí están los resultados:"
+				"endtitle_B":"Here are your results:"
 			},
 			"question_1":{
-				"question": "¿A qué edad [partenaireName] hizo su primera vez?",
-				"a": "Alrededor de los 12 años",
-				"b": "Alrededor de los 15 años",
-				"c": "Alrededor de 18 años",
-				"d": "Alrededor de 20 años",
-				"e": "Todavía no"
+				"question":"At what age [partenaireName] did his\/her first time?",
+				"a":"Around 12 years old",
+				"b":"Around 15 years old",
+				"c":"Around 18 years old",
+				"d":"Around 20 years old",
+				"e":"Not yet done"
 			},
 			"question_2":{
-				"question": "¿Fue la primera vez para [partenaireName]?",
-				"a": "Sí",
-				"b": "No",
-				"c": "Todavía no, pero espero que pronto",
+				"question":"Were you the first time for [partenaireName]?",
+				"a":"Yes",
+				"b":"No",
+				"c":"Not yet but soon I hope",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question": "¿Se puso siempre [partenaireName] un preservativo durante las relaciones sexuales de riesgo?",
-				"a": "Sí, siempre la salud por encima de todo",
-				"b": "Ha sucedido que no",
-				"c": "No sabe",
+				"question":"Did [partenaireName] always put on a condom during risky sex?",
+				"a":"Yes always health above all",
+				"b":"It happened that not",
+				"c":"He \/ She does not know",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question": "¿Conserva [partenaireName] un buen recuerdo de su primera vez?",
-				"a": "Sí fue un buen comienzo",
-				"b": "No le dolió y fue rápido",
-				"c": "Ya no se acuerda",
+				"question":"Does [partenaireName] keeps a good memory of your first time?",
+				"a":"Yes it was a good start",
+				"b":"No it hurt and it was fast",
+				"c":"He \/ She no longer remembers",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question": "¿Cómo fue la primera vez contigo?",
-				"a": "Muy larga y muy caliente",
-				"b": "Fue rápido",
-				"c": "No fue tan bueno",
-				"d": "Todavía no lo hemos hecho",
+				"question":"How was the first time with you?",
+				"a":"Very long and very hot",
+				"b":"It was fast",
+				"c":"It was not that great",
+				"d":"We haven't done it yet",
 				"e":""
 			},
 			"question_6":{
-				"question": "La última vez que tuviste sexo con [partenaireName] ¿cuándo fue?",
-				"a": "Hoy",
-				"b": "Ayer",
-				"c": "Esta semana",
-				"d": "La semana pasada",
-				"e": "Hay mucho más tiempo"
+				"question":"The last time you had sex with [partenaireName] when was that?",
+				"a":"Today",
+				"b":"Yesterday",
+				"c":"This week",
+				"d":"Last week",
+				"e":"There's a lot longer"
 			},
 			"question_7":{
 				"question":"",
@@ -172,4 +171,4 @@
 				"e":""
 			}
 		}
-	}
+	},
