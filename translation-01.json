@@ -36,7 +36,7 @@
 				"b":"Fragola",
 				"c":"Pera",
 				"d":"Banana",
-				"e":"Nessuno dei precedenti"
+				"e":"Nessuno di questi"
 			},
 			"question_5":{
 				"question":"Chi è il cuoco migliore?",
@@ -89,63 +89,63 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B":"Il tuo risultato:"
 			},
 			"question_1":{
-				"question":"Where does [partenaireName] prefer to eat?",
-				"a":"In a gourmet restaurant",
-				"b":"A home-made dish",
-				"c":"Fast food",
+				"question":"Dove preferisce mangiare [partenaireName]?",
+				"a":"In un ristorante gourmet",
+				"b":"A casa",
+				"c":"In un Fast food",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"Does [partenaireName] prefer eating  salty or sweet food?",
-				"a":"They prefer salty food",
-				"b":"They prefer sweets",
+				"question":"[partenaireName] preferisce mangiare cibo dolce o salato?",
+				"a":"Preferisce il cibo salato",
+				"b":"Preferisce i dolci",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"What does [partenaireName] prefer drinking, tea or coffee?",
-				"a":"Tea",
-				"b":"Coffee",
-				"c":"Ew, neither!",
+				"question":"Cosa preferisce bere [partenaireName], tè o caffè?",
+				"a":"Tè",
+				"b":"Caffè",
+				"c":"Ew, nessuno dei due!",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"What is [partenaireName]'s favorite fruit?",
-				"a":"Apples",
-				"b":"Strawberries",
-				"c":"Pears",
-				"d":"Bananas",
-				"e":"None of them"
+				"question":"Qual è il frutto preferito di [partenaireName]?",
+				"a":"Mela",
+				"b":"Fragola",
+				"c":"Pera",
+				"d":"Banana",
+				"e":"Nessuno di questi"
 			},
 			"question_5":{
-				"question":"Who is the best cook?",
-				"a":"It's [partenaireName]",
-				"b":"His/her friends",
-				"c":"His/her mother",
+				"question":"Chi è il cuoco migliore?",
+				"a":"[partenaireName]",
+				"b":"I suoi amici",
+				"c":"Sua mamma",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"At lunch, what does [partenaireName] prefer to drink?",
-				"a":"Water",
-				"b":"Soda",
-				"c":"Alcohol!",
-				"d":"A bit of fruit juice",
+				"question":"Cosa preferisce bere [partenaireName] a pranzo?",
+				"a":"Acqua",
+				"b":"Bevande gassate",
+				"c":"Alcolici!",
+				"d":"Un po' di succo di frutta",
 				"e":""
 			},
 			"question_7":{
-				"question":"What's a good dessert for [partenaireName] ?",
-				"a":"Some yogurt",
-				"b":"chocolate cake",
-				"c":"Fruit Cake",
-				"d":"Ice cream",
-				"e":"[partenaireName] does not eat dessert"
+				"question":"Qual è un buon dessert per [partenaireName] ?",
+				"a":"Dello yogurt",
+				"b":"Una torta al cioccolato",
+				"c":"Una torta alla frutta",
+				"d":"Gelato",
+				"e":"[partenaireName] non mangia dessert"
 			},
 			"question_8":{
 				"question":"",
