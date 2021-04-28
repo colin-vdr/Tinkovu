@@ -1,54 +1,54 @@
 	"en":{
 		"a":{
 			"default":{
-				"title_faceA":"Tap the card to select an answer",
-				"title_faceB":"Tap the 'next' button bellow",
-				"endtitle_A":"Let's see if your friends know you well!"
+				"title_faceA":"Tocca la carta e seleziona la tua risposta",
+				"title_faceB":"Tocca il pulsante 'avanti' qui sotto",
+				"endtitle_A":"Vediamo se i tuoi amici ti conoscono bene!"
 			},
 			"question_1":{
-				"question":"Do you put the milk before or after the cereal?",
-				"a":"Milk before cereal",
-				"b":"Cereal before milk",
+				"question":"Metti il latte prima o dopo i cereali?",
+				"a":"Prima latte e poi cereali",
+				"b":"Prima cereali e poi latte",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"What do you prefer to spread your butter on?",
-				"a":"Bread",
-				"b":"Biscuits ",
+				"question":"Dove preferisci spalmare il burro?",
+				"a":"Pane",
+				"b":"Biscotti ",
 				"c":"Toast",
-				"d":"I don\u2019t like butter",
+				"d":"Non mi piace il burro",
 				"e":""
 			},
 			"question_3":{
-				"question":"How do you like your juice in the morning? ",
-				"a":"Homemade, with fresh oranges",
-				"b":"In a juice box from the supermarket",
-				"c":"I don\u2019t drink juice in the morning",
+				"question":"Come preferisci il succo di mattina? ",
+				"a":"Fatto in casa con arance fresche",
+				"b":"Succo in cartone del supermercato",
+				"c":"Non bevo il succo di mattina",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"What do you do during breakfast?",
-				"a":"I watch TV",
-				"b":"I read the news",
-				"c":"I\u2019m on my phone",
+				"question":"Cosa fai durante la colazione?",
+				"a":"Guardo la televisione",
+				"b":"Leggo le news",
+				"c":"Uso il telefono",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Do you dip your bread in milk?",
-				"a":"Yes, I love it",
-				"b":"No, the bread becomes soft afterwards",
-				"c":"I prefer dipping it in coffee",
+				"question":"Bagni il pane nel latte?",
+				"a":"Si, lo adoro",
+				"b":"No, il pane diventa troppo tenero",
+				"c":"Preferisco bagnarlo nel caffè",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"Chocolate bread or croissants?",
-				"a":"Chocolate Bread",
-				"b":"Croissants",
+				"question":"Pane al cioccolato o brioche?",
+				"a":"Pane al cioccolato",
+				"b":"Brioche",
 				"c":"",
 				"d":"",
 				"e":""
@@ -88,52 +88,52 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B":"Il tuo risultato:"
 			},
 			"question_1":{
-				"question":"Does [partenaireName] pour milk before or after cereal?",
-				"a":"Milk before cereal",
-				"b":"Cereal before milk",
+				"question":"[partenaireName] mette prima il latte o i cereali?",
+				"a":"Prima latte e poi cereali",
+				"b":"Prima cereali e poi latte",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_2":{
-				"question":"what does [partenaireName] like spreading  butter on?",
-				"a":"Bread",
-				"b":"Biscuits",
+				"question":"Dove preferisce spalmare il burro [partenaireName]?",
+				"a":"Pane",
+				"b":"Biscotti",
 				"c":"Toast",
-				"d":"They don't like butter",
+				"d":"Non gli/le piace il burro",
 				"e":""
 			},
 			"question_3":{
-				"question":"How does [partenaireName] like their juice in the morning?",
-				"a":"Homemade, with fresh oranges",
-				"b":"In a cardboard box  from the supermarket",
-				"c":"They don't drink juice in the morning",
+				"question":"Come preferisce [partenaireName] il succo di mattina?",
+				"a":"Fatto in casa con arance fresche",
+				"b":"Succo in cartone del supermercato",
+				"c":"Non beve il succo di mattina",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"What does [partenaireName] do while having breakfast?",
-				"a":"They watch TV",
-				"b":"They  read the news",
-				"c":"They're on their phone",
+				"question":"Cosa fa [partenaireName] durante la colazione?",
+				"a":"Guarda la televisione",
+				"b":"Legge le news",
+				"c":"Usa il telefono",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Does [partenaireName] dip their bread in milk?",
-				"a":"Yes!",
-				"b":"No, because the bread becomes soft afterwards ",
-				"c":"They prefer dipping it in coffee",
+				"question":"[partenaireName] bagna il pane nel latte?",
+				"a":"Si!",
+				"b":"No, il pane diventa troppo tenero",
+				"c":"Preferisce bagnarlo nel caffè",
 				"d":"",
 				"e":""
 			},
 			"question_6":{
-				"question":"Does [partenaireName] prefer chocolate bread or croissants?",
-				"a":"Chocolate Bread",
-				"b":"Croissants",
+				"question":"[partenaireName] preferisce pane al cioccolato o brioche?",
+				"a":"Pane al cioccolato",
+				"b":"Brioche",
 				"c":"",
 				"d":"",
 				"e":""
