@@ -1,54 +1,54 @@
 	"en":{
 		"a":{
 			"default":{
-				"title_faceA":"Tap the card to select an answer",
-				"title_faceB":"Tap the 'next' button below ",
-				"endtitle_A":"Let's see if your friends know you well!"
+				"title_faceA":"Tocca la carta e seleziona la tua risposta",
+				"title_faceB":"Tocca il pulsante 'avanti' qui sotto",
+				"endtitle_A":"Vediamo se i tuoi amici ti conoscono bene!"
 			},
 			"question_1":{
-				"question":"During happy hour, what do you prefer drinking?",
-				"a":"A soda",
-				"b":"Wine",
-				"c":"Beer",
+				"question":"Durante l'happy hour, cosa preferisci bere?",
+				"a":"Una bevanda gassata",
+				"b":"Vino",
+				"c":"Birra",
 				"d":"Champagne",
-				"e":"A cocktail"
+				"e":"Un cocktail"
 			},
 			"question_2":{
-				"question":"Do you like eating cookies before guests arrive?",
-				"a":"Yes, I can\u2019t hold back",
-				"b":"No, I\u2019d rather wait for them",
+				"question":"Ti piace mangiare dolcetti prima che gli ospiti arrivino?",
+				"a":"Si, non riesco a trattenermi",
+				"b":"No, preferisco aspettarli",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"What is your favorite chip flavor?",
-				"a":"Old Fashioned",
-				"b":"Vinegar",
-				"c":"Chicken",
-				"d":"Cheese",
-				"e":"Classic"
+				"question":"Qual è il tuo gusto di patatine preferito?",
+				"a":"Old fashioned",
+				"b":"All'aceto",
+				"c":"Al pollo",
+				"d":"Al formaggio",
+				"e":"Classiche"
 			},
 			"question_4":{
-				"question":"What's your favourite topic to discuss?",
-				"a":"Other people",
-				"b":"the latest TV show",
-				"c":"The future",
+				"question":"Qual è il tuo argomento preferito di cui parlare?",
+				"a":"Le altre persone",
+				"b":"Il programma televisivo più recente",
+				"c":"Il futuro",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"What\u2019s your favorite soda?",
+				"question":"Qual è la tua bevanda gassata preferita?",
 				"a":"Coca-Cola",
 				"b":"Pepsi",
 				"c":"Fanta",
 				"d":"Orange Crush",
-				"e":"Ice-tea"
+				"e":"Tè freddo"
 			},
 			"question_6":{
-				"question":"Do you put ice in your drink?",
-				"a":"Yes, I like it icy cold!",
-				"b":"No, it changes the taste.",
+				"question":"Metti il ghiaccio nelle tue bevande?",
+				"a":"Si, mi piacciono fredde!",
+				"b":"No, perchè il sapore cambia",
 				"c":"",
 				"d":"",
 				"e":""
@@ -88,52 +88,52 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B":"Ecco il tuo risultato:"
 			},
 			"question_1":{
-				"question":"During Happy hour what does [partenaireName] prefer to drink?",
-				"a":"A soda",
-				"b":"Wine",
-				"c":"A beer",
+				"question":"Cosa preferisce [partenaireName] bere durante l'happy hour?",
+				"a":"Una bevanda gassata",
+				"b":"Vinp",
+				"c":"Birra",
 				"d":"Champagne",
-				"e":"A cocktail"
+				"e":"Un cocktail"
 			},
 			"question_2":{
-				"question":"Is [partenaireName] the type of person who eats cookies before guests arrive?",
-				"a":"Yes, they cannot hold back",
-				"b":"No, they would rather wait for them",
+				"question":"[partenaireName] è il tipo di persona che mangia dolcetti prima che arrivino gli ospiti?",
+				"a":"Si, non riesce a trattenersi",
+				"b":"No, preferisce aspettare",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_3":{
-				"question":"What is [partenaireName]'s favorite chip flavor",
+				"question":"Qual è il gusto preferito di patatine, di [partenaireName]",
 				"a":"Old Fashioned",
-				"b":"Vinegar",
-				"c":"Chicken",
-				"d":"Cheese",
-				"e":"Classic"
+				"b":"All'aceto",
+				"c":"Al pollo",
+				"d":"Al formaggio",
+				"e":"Classiche"
 			},
 			"question_4":{
-				"question":"What is [partenaireName]'s favorite topic to discuss?",
-				"a":"Other people",
-				"b":"the latest TV show",
-				"c":"The future",
+				"question":"Qual è l'argomento di cui [partenaireName] preferisce parlare?",
+				"a":"Le altre persone",
+				"b":"Il programma televisivo più recente",
+				"c":"Il futuro",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"What is their favorite soda?",
+				"question":"Qual è la sua bevanda gassata preferita?",
 				"a":"Coca-Cola",
 				"b":"Pepsi",
 				"c":"Fanta",
 				"d":"Orange Crush",
-				"e":"Ice-tea"
+				"e":"Tè freddo"
 			},
 			"question_6":{
-				"question":"Does [partenaireName] put ice in their drink?",
-				"a":"Yes, they want it to be very cold !",
-				"b":"No, because it changes the taste.",
+				"question":"[partenaireName] mette il ghiaccio nelle sue bevande?",
+				"a":"Si, le vuole fredde!",
+				"b":"No, perchè il sapore cambia",
 				"c":"",
 				"d":"",
 				"e":""
