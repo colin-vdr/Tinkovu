@@ -88,7 +88,7 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Il tuo risultato:"
+				"endtitle_B":"Ecco il tuo risultato:"
 			},
 			"question_1":{
 				"question":"Cosa preferisce [partenaireName] bere durante l'happy hour?",
@@ -123,12 +123,12 @@
 				"e":""
 			},
 			"question_5":{
-				"question":"What is their favorite soda?",
+				"question":"Qual è la sua bevanda gassata preferita?",
 				"a":"Coca-Cola",
 				"b":"Pepsi",
 				"c":"Fanta",
 				"d":"Orange Crush",
-				"e":"Ice-tea"
+				"e":"Tè freddo"
 			},
 			"question_6":{
 				"question":"[partenaireName] mette il ghiaccio nelle sue bevande?",
