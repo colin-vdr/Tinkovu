@@ -1,55 +1,55 @@
-	"en":{
+	"it":{
 		"a":{
 			"default":{
-				"title_faceA":"Tap the card to reply to an answer",
-				"title_faceB":"Tap the 'next' button below ",
-				"endtitle_A":"Let's see if your friends know you well!"
+				"title_faceA":"Tocca la carta e seleziona la tua risposta",
+				"title_faceB":"Tocca il pulsante 'avanti' qui sotto",
+				"endtitle_A":"Vediamo se i tuoi amici ti conoscono bene!"
 			},
 			"question_1":{
-				"question":"What is your favourite fruit?",
-				"a":"Strawberries",
-				"b":"Pears",
-				"c":"Apples",
-				"d":"Oranges",
-				"e":"Bananas"
+				"question":"Qual è il tuo frutto preferito?",
+				"a":"Fragola",
+				"b":"Pera",
+				"c":"Mela",
+				"d":"Arancia",
+				"e":"Banana"
 			},
 			"question_2":{
-				"question":"Which color do you like the least?",
-				"a":"Red",
-				"b":"Green",
-				"c":"Orange",
-				"d":"Blue",
-				"e":"Violet"
+				"question":"Qual è il colore che ti piace di meno?",
+				"a":"Rosso",
+				"b":"Verde",
+				"c":"Arancione",
+				"d":"Blu",
+				"e":"Viola"
 			},
 			"question_3":{
-				"question":"Do you prefer sweet or salty popcorn?",
-				"a":"Sweet",
-				"b":"Salty",
+				"question":"Preferisci i popcorn dolci o salati?",
+				"a":"Dolci",
+				"b":"Salati",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Which milk flavor is your favorite ?",
-				"a":"Strawberry milk",
-				"b":"Mint milk",
-				"c":"Vanilla milk",
+				"question":"Quale gusto di latte preferisci tra questi?",
+				"a":"Latte alla fragola",
+				"b":"Latte e menta",
+				"c":"Latte alla vaniglia",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Which color do you prefer?",
-				"a":"Green",
-				"b":"Orange",
-				"c":"Violet",
-				"d":"Red",
-				"e":"Blue"
+				"question":"Quale colore preferisci?",
+				"a":"Verde",
+				"b":"Arancione",
+				"c":"Viola",
+				"d":"Rosso",
+				"e":"Blu"
 			},
 			"question_6":{
-				"question":"Which citrus fruit do you think is the best?",
-				"a":"Oranges",
-				"b":"Clementines",
-				"c":"Mandarins",
+				"question":"Quale pensi sia l'agrume migliore?",
+				"a":"Arancia",
+				"b":"Clementina",
+				"c":"Mandarino",
 				"d":"",
 				"e":""
 			},
@@ -88,53 +88,53 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Your result:"
+				"endtitle_B":"Ecco il tuo risultato:"
 			},
 			"question_1":{
-				"question":"What is [partenaireName]'s favorite fruit?",
-				"a":"Strawberries ",
-				"b":"Pears",
-				"c":"Apples",
-				"d":"Oranges",
-				"e":"Bananas"
+				"question":"Qual è il frutto preferito di [partenaireName]?",
+				"a":"Fragola",
+				"b":"Pera",
+				"c":"Mela",
+				"d":"Arancia",
+				"e":"Banana"
 			},
 			"question_2":{
-				"question":"What is the color that [partenaireName] likes the least?",
-				"a":"Red",
-				"b":"Green",
-				"c":"Orange",
-				"d":"Blue",
-				"e":"Violet"
+				"question":"Qual è il colore che piace di meno a [partenaireName]?",
+				"a":"Rosso",
+				"b":"Verde",
+				"c":"Arancione",
+				"d":"Blu",
+				"e":"Viola"
 			},
 			"question_3":{
-				"question":"Does [partenaireName] prefer sweet or salty popcorn?",
-				"a":"Sweet",
-				"b":"Salty",
+				"question":"[partenaireName] preferisce popcorn dolci o salati?",
+				"a":"Dolci",
+				"b":"Salati",
 				"c":"",
 				"d":"",
 				"e":""
 			},
 			"question_4":{
-				"question":"Which milk flavor does [partenaireName] like the most?",
-				"a":"Strawberry milk",
-				"b":"Mint milk",
-				"c":"Vanilla milk",
+				"question":"Qual è il gusto di latte che [partenaireName] preferisce?",
+				"a":"Latte alla fragola",
+				"b":"Latte e menta",
+				"c":"Latte alla vaniglia",
 				"d":"",
 				"e":""
 			},
 			"question_5":{
-				"question":"Which color does [partenaireName] prefer?",
-				"a":"Green",
-				"b":"Orange",
-				"c":"Violet",
-				"d":"Red",
-				"e":"Blue"
+				"question":"Quale colore preferisce [partenaireName]?",
+				"a":"Verde",
+				"b":"Arancione",
+				"c":"Viola",
+				"d":"Rosso",
+				"e":"Blu"
 			},
 			"question_6":{
-				"question":"Which citrus fruit is the best according to [partenaireName]?",
-				"a":"Oranges",
-				"b":"Clementines",
-				"c":"Mandarins",
+				"question":"Quale agrume [partenaireName] pensa sia il migliore?",
+				"a":"Arancia",
+				"b":"Clementina",
+				"c":"Mandarino",
 				"d":"",
 				"e":""
 			},
