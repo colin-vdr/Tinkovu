@@ -88,7 +88,7 @@
 		},
 		"b":{
 			"default":{
-				"endtitle_B":"Il tuo risultato:"
+				"endtitle_B":"Ecco il tuo risultato:"
 			},
 			"question_1":{
 				"question":"[partenaireName] mette prima il latte o i cereali?",
